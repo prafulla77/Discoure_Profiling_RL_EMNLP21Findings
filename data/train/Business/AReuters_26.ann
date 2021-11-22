@@ -1,0 +1,72 @@
+T1	Speech 258 260	S1
+E1	Speech:T1 
+T2	NA 552 554	S2
+E2	NA:T2 
+T3	NA 674 676	S3
+E3	NA:T3 
+T4	Speech 702 704	S4
+E4	Speech:T4 
+T5	Speech 711 713	S5
+E5	Speech:T5 
+T6	Speech 951 953	S6
+E6	Speech:T6 
+T7	Speech 1109 1111	S7
+E7	Speech:T7 
+T8	Speech 1161 1163	S8
+E8	Speech:T8 
+T9	Speech 1893 1896	S12
+E9	Speech:T9 
+T10	Distant_Historical 2206 2209	S14
+E10	Distant_Historical:T10 
+T11	Speech 2437 2440	S15
+E11	Speech:T11 
+T12	Distant_Expectations_Consequences 2856 2859	S18
+E12	Distant_Expectations_Consequences:T12 
+T13	Speech 3090 3093	S19
+E13	Speech:T13 
+T14	Speech 3189 3192	S20
+E14	Speech:T14 
+T15	Speech 3310 3313	S21
+E15	Speech:T15 
+T16	Speech 3403 3406	S22
+E16	Speech:T16 
+T17	Speech 3537 3540	S23
+E17	Speech:T17 
+T18	Main 258 260	S1
+E18	Main:T18 
+T19	Distant_Evaluation 702 704	S4
+E19	Distant_Evaluation:T19 
+T20	Distant_Evaluation 711 713	S5
+E20	Distant_Evaluation:T20 
+T21	Distant_Evaluation 951 953	S6
+E21	Distant_Evaluation:T21 
+T22	Distant_Evaluation 1109 1111	S7
+E22	Distant_Evaluation:T22 
+T23	Distant_Evaluation 1161 1163	S8
+E23	Distant_Evaluation:T23 
+T24	Cause_Specific 1204 1206	S9
+E24	Cause_Specific:T24 
+T25	Cause_General 1428 1431	S10
+E25	Cause_General:T25 
+T26	Distant_Historical 1593 1596	S11
+E26	Distant_Historical:T26 
+T27	Distant_Expectations_Consequences 1893 1896	S12
+E27	Distant_Expectations_Consequences:T27 
+T28	Distant_Expectations_Consequences 2127 2130	S13
+E28	Distant_Expectations_Consequences:T28 
+T29	Distant_Evaluation 2437 2440	S15
+E29	Distant_Evaluation:T29 
+T30	Distant_Evaluation 2595 2598	S16
+E30	Distant_Evaluation:T30 
+T31	Distant_Evaluation 2720 2723	S17
+E31	Distant_Evaluation:T31 
+T32	Distant_Evaluation 3090 3093	S19
+E32	Distant_Evaluation:T32 
+T33	Distant_Evaluation 3189 3192	S20
+E33	Distant_Evaluation:T33 
+T34	Distant_Expectations_Consequences 3310 3313	S21
+E34	Distant_Expectations_Consequences:T34 
+T35	Cause_General 3403 3406	S22
+E35	Cause_General:T35 
+T36	Distant_Expectations_Consequences 3537 3540	S23
+E36	Distant_Expectations_Consequences:T36 

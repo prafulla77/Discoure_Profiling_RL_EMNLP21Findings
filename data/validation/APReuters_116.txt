@@ -1,0 +1,64 @@
+URL https://www.reuters.com/article/us-facebook-encryption-exclusive/exclusive-in-test-case-u-s-fails-to-force-facebook-to-wiretap-messenger-calls-sources-idUSKCN1M82K1
+
+DATE/ AUTHOR 2018-09-28 20:45:09+00:00	AUTHORS: Joseph Menn, Min Read
+
+H Exclusive: In test case, U.S. fails to force Facebook to wiretap Messenger calls - sources
+
+S1 SAN FRANCISCO (Reuters) - U.S. investigators failed in a recent courtroom effort to force Facebook to wiretap voice calls over its Messenger app in a closely watched test case, according to two people briefed on the sealed ruling.
+
+S2 Attendees walk past a Facebook Messenger logo during Facebook Inc's annual F8 developers conference in San Jose, California, U.S. May 1, 2018.
+S3 REUTERS/Stephen Lam
+
+S4 Members of a joint federal and state task force probing the international criminal gang MS-13 had tried in August to hold Facebook in contempt of court for failing to carry out a wiretap order, Reuters reported last month.
+
+S5 Arguments were heard in a sealed proceeding in a U.S. District Court in Fresno, California weeks before 16 suspected gang members were indicted there, but the judge ruled in Facebook’s favor, the sources said.
+
+S6 The details of his reasoning were not available.
+
+S7 The government’s request had alarmed technology executives and privacy advocates.
+S8 Officials in the United States and other Western countries are stepping up attempts to ban or limit strong encryption and expand their wiretapping capabilities.
+
+S9 An affidavit by an FBI agent filed publicly in the Fresno criminal proceedings said that at the time of the arrests, law enforcement could not monitor any Messenger calls.
+
+S10 Telecommunications companies are required to give police access to calls under federal law, but many apps that rely solely on internet infrastructure are exempt.
+S11 Facebook contended Messenger was covered by that exemption.
+
+S12 The public court filings showed the government was intercepting all ordinary phone calls and Messenger texts between the accused gang members.
+
+S13 The FBI affidavit cited three Messenger calls that investigators were unable to hear.
+S14 The participants in those calls are now in jail pending trial.
+
+S15 Neither prosecutors nor Facebook would answer questions about the Fresno U.S. Attorney’s office attempt to hold Facebook in contempt or about the underlying wiretap request, including why the matter was dismissed.
+
+S16 The judge heard oral arguments on the contempt motion on Aug. 14.
+S17 Facebook and a Department of Justice spokeswoman declined to comment.
+
+S18 FBI agent Ryan Yetter, in the affidavit dated Aug. 30, wrote “currently, there is no practical method available by which law enforcement can monitor” calls on Messenger.
+S19 The affidavit was filed in support of a criminal complaint against members of MS-13, which is active in the United States and Central America.
+
+S20 MS-13 also known as Mara Salvatrucha is an international criminal gang that originated in Los Angeles in the 1980s.
+S21 The gang’s activities later spread to many parts of the United States, Canada, Mexico, and Central America.
+
+S22 U.S. President Donald Trump frequently uses the gang to symbolize what he faults as lax U.S. immigration policy.
+
+S23 Most of the 16 gang suspects were arrested by Aug. 30, and the indictment was issued on Sep. 13.
+S24 Including charges by California state, more than two dozen people were accused of murder and other crimes.
+
+S25 More information about the government’s court tussle with Facebook may come to light through lawyers for the 16 defendants.
+S26 Mark Broughton, an attorney for one of the defendants, Denis Barrera-Palma, said he would soon start receiving the government’s evidence.
+
+S27 If the prosecutors’ application to wiretap Facebook Messenger voice calls is not included, Broughton said he would ask for it.
+
+S28 “I would be interested in seeing, or trying to get an order unsealing that information to properly represent my client,” Broughton said.
+
+S29 Barrera-Palma faces federal counts of assault with a deadly weapon and drug conspiracy, and California charges of murder conspiracy.
+S30 He has pleaded not guilty to the federal counts and has not yet entered a plea in state court.
+
+S31 The still-private filings in the skirmish with Facebook might explain why federal officials picked Messenger’s voice calls as a target.
+
+S32 One matter judges weigh in wiretap matters is how much of a burden it would be for the company to help.
+S33 In contrast to Facebook’s WhatsApp messaging app and a separate part of Messenger called secret conversations, Facebook plays a small technical role facilitating Messenger voice calls, making interception possible with some effort.
+
+S34 Nevertheless, Facebook maintained it could not be ordered to alter its software or hack its user in order to help the FBI.
+S35 Apple made a similar argument in refusing to break into a terrorist’s iPhone in 2016.
+

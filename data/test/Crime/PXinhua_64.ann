@@ -1,0 +1,20 @@
+T1	Main 180 182	S1
+E1	Main:T1 
+T2	Main 393 395	S2
+E2	Main:T2 
+T3	Main 745 747	S3
+E3	Main:T3 
+T4	Cause_Specific 1004 1006	S4
+E4	Cause_Specific:T4 
+T5	Distant_Expectations_Consequences 1152 1154	S5
+E5	Distant_Expectations_Consequences:T5 
+T6	Distant_Historical 1252 1254	S6
+E6	Distant_Historical:T6 
+T7	Cause_General 1424 1426	S7
+E7	Cause_General:T7 
+T8	Distant_Historical 1614 1616	S8
+E8	Distant_Historical:T8 
+T9	Distant_Historical 1773 1775	S9
+E9	Distant_Historical:T9 
+T10	Cause_General 1944 1947	S10
+E10	Cause_General:T10 

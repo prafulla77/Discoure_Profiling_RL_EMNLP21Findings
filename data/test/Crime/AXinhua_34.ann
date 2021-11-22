@@ -1,0 +1,22 @@
+T1	Main 180 182	S1
+E1	Main:T1 
+T2	Speech 430 432	S2
+E2	Speech:T2 
+T3	Cause_Specific 430 432	S2
+E3	Cause_Specific:T3 
+T4	Speech 605 607	S3
+E4	Speech:T4 
+T5	Cause_General 605 607	S3
+E5	Cause_General:T5 
+T6	Cause_General 790 792	S4
+E6	Cause_General:T6 
+T7	Cause_General 903 905	S5
+E7	Cause_General:T7 
+T8	Distant_Historical 1052 1054	S6
+E8	Distant_Historical:T8 
+T9	Cause_General 1182 1184	S7
+E9	Cause_General:T9 
+T10	Cause_General 1399 1401	S8
+E10	Cause_General:T10 
+T11	Cause_General 1568 1570	S9
+E11	Cause_General:T11 

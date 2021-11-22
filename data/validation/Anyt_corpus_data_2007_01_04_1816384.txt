@@ -1,0 +1,15 @@
+URL http://query.nytimes.com/gst/fullpage.html?res=9504E2D61730F937A35752C0A9619C8B63
+
+DATE/ AUTHOR None	AUTHORS: Sarah Abruzzese
+
+H 26-year Sentence in Reporter’s Death
+
+S1 One of two men convicted in the killing of a retired reporter for The New York Times was sentenced to 26 years in prison.
+S2 The defendant, Michael C. Hamlin, had faced a term of up to 60 years after pleading guilty late last year to second-degree murder, robbery and conspiracy to commit robbery for his part in the attack on the reporter, David E. Rosenbaum, near Mr. Rosenbaum's Washington home a year ago.
+S3 At the trial of his cousin Percey Jordan Jr., Mr. Hamlin, 24, testified that he had stolen Mr. Rosenbaum's wallet but that it was Mr. Jordan, wielding a pipe, who had delivered a fatal blow to the victim's head.
+S4 Mr. Rosenbaum, 63, died two days later.
+S5 Mr. Jordan is to be sentenced before the same judge, Erik P. Christian of District of Columbia Superior Court, later this month.
+S6 Convicted of first-degree murder, he faces at least 30 years in prison and a maximum of life without the possibility of parole.
+
+S7 SARAH ABRUZZESE
+

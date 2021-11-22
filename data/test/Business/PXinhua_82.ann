@@ -1,0 +1,84 @@
+T1	NA 215 217	S1
+E1	NA:T1 
+T2	NA 272 274	S2
+E2	NA:T2 
+T3	Main 295 297	S3
+E3	Main:T3 
+T4	Speech 295 297	S3
+E4	Speech:T4 
+T5	Cause_General 935 937	S6
+E5	Cause_General:T5 
+T6	Speech 513 515	S4
+E6	Speech:T6 
+T7	Speech 725 727	S5
+E7	Speech:T7 
+T8	Distant_Historical 1026 1028	S7
+E8	Distant_Historical:T8 
+T9	Distant_Evaluation 1314 1316	S8
+E9	Distant_Evaluation:T9 
+T10	Speech 1314 1316	S8
+E10	Speech:T10 
+T11	Distant_Evaluation 1440 1442	S9
+E11	Distant_Evaluation:T11 
+T12	Speech 1440 1442	S9
+E12	Speech:T12 
+T13	Distant_Evaluation 1542 1545	S10
+E13	Distant_Evaluation:T13 
+T14	Speech 1542 1545	S10
+E14	Speech:T14 
+T15	Distant_Evaluation 513 515	S4
+E15	Distant_Evaluation:T15 
+T16	Main 725 727	S5
+E16	Main:T16 
+T17	Cause_General 1673 1676	S11
+E17	Cause_General:T17 
+T18	Speech 1673 1676	S11
+E18	Speech:T18 
+T19	Distant_Historical 1846 1849	S12
+E19	Distant_Historical:T19 
+T20	Distant_Evaluation 2090 2093	S13
+E20	Distant_Evaluation:T20 
+T21	Distant_Evaluation 2248 2251	S14
+E21	Distant_Evaluation:T21 
+T22	Speech 2090 2093	S13
+E22	Speech:T22 
+T23	Speech 2248 2251	S14
+E23	Speech:T23 
+T24	Distant_Evaluation 2292 2295	S15
+E24	Distant_Evaluation:T24 
+T25	Speech 2292 2295	S15
+E25	Speech:T25 
+T26	Speech 2490 2493	S16
+E26	Speech:T26 
+T27	Distant_Evaluation 2490 2493	S16
+E27	Distant_Evaluation:T27 
+T28	Speech 2612 2615	S17
+E28	Speech:T28 
+T29	Distant_Evaluation 2612 2615	S17
+E29	Distant_Evaluation:T29 
+T30	Cause_General 2859 2862	S18
+E30	Cause_General:T30 
+T31	Distant_Evaluation 3107 3110	S19
+E31	Distant_Evaluation:T31 
+T32	Speech 3107 3110	S19
+E32	Speech:T32 
+T33	Cause_General 3257 3260	S20
+E33	Cause_General:T33 
+T34	Distant_Evaluation 3399 3402	S21
+E34	Distant_Evaluation:T34 
+T35	Distant_Historical 3584 3587	S22
+E35	Distant_Historical:T35 
+T36	Speech 3584 3587	S22
+E36	Speech:T36 
+T37	Distant_Evaluation 3891 3894	S23
+E37	Distant_Evaluation:T37 
+T38	Distant_Evaluation 4029 4032	S24
+E38	Distant_Evaluation:T38 
+T39	Speech 3891 3894	S23
+E39	Speech:T39 
+T40	Speech 4029 4032	S24
+E40	Speech:T40 
+T41	Speech 2859 2862	S18
+E41	Speech:T41 
+T42	Speech 3399 3402	S21
+E42	Speech:T42 

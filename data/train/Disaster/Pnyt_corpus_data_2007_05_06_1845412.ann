@@ -1,0 +1,38 @@
+T1	Main 175 177	S1
+E1	Main:T1 
+T2	Distant_Expectations_Consequences 492 494	S2
+E2	Distant_Expectations_Consequences:T2 
+T3	Distant_Expectations_Consequences 630 632	S3
+E3	Distant_Expectations_Consequences:T3 
+T4	Main 711 713	S4
+E4	Main:T4 
+T5	Distant_Expectations_Consequences 819 821	S5
+E5	Distant_Expectations_Consequences:T5 
+T6	Speech 819 821	S5
+E6	Speech:T6 
+T7	Cause_General 1017 1019	S6
+E7	Cause_General:T7 
+T8	Distant_Expectations_Consequences 1118 1120	S7
+E8	Distant_Expectations_Consequences:T8 
+T9	Speech 1118 1120	S7
+E9	Speech:T9 
+T10	Distant_Evaluation 1499 1502	S10
+E10	Distant_Evaluation:T10 
+T11	Speech 1499 1502	S10
+E11	Speech:T11 
+T12	Distant_Expectations_Consequences 1707 1710	S11
+E12	Distant_Expectations_Consequences:T12 
+T13	Speech 1707 1710	S11
+E13	Speech:T13 
+T14	Distant_Expectations_Consequences 1820 1823	S12
+E14	Distant_Expectations_Consequences:T14 
+T15	Distant_Expectations_Consequences 1893 1896	S13
+E15	Distant_Expectations_Consequences:T15 
+T16	Speech 1893 1896	S13
+E16	Speech:T16 
+T17	NA 2113 2116	S14
+E17	NA:T17 
+T18	Cause_General 1269 1271	S8
+E18	Cause_General:T18 
+T19	Cause_General 1447 1449	S9
+E19	Cause_General:T19 

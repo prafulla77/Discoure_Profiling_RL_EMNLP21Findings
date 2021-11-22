@@ -1,0 +1,18 @@
+T1	NA 191 193	S1
+E1	NA:T1 
+T2	NA 349 351	S2
+E2	NA:T2 
+T3	Main 365 367	S3
+E3	Main:T3 
+T4	Cause_General 577 579	S4
+E4	Cause_General:T4 
+T5	Cause_General 847 849	S5
+E5	Cause_General:T5 
+T6	Cause_General 1002 1004	S6
+E6	Cause_General:T6 
+T7	Cause_General 1203 1205	S7
+E7	Cause_General:T7 
+T8	Distant_Expectations_Consequences 1275 1277	S8
+E8	Distant_Expectations_Consequences:T8 
+T9	Distant_Expectations_Consequences 1435 1437	S9
+E9	Distant_Expectations_Consequences:T9 

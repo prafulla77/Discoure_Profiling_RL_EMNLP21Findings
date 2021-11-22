@@ -1,0 +1,80 @@
+T1	Distant_Expectations_Consequences 279 281	S2
+E1	Distant_Expectations_Consequences:T1 
+T2	Main 447 449	S3
+E2	Main:T2 
+T3	Distant_Historical 211 213	S1
+E3	Distant_Historical:T3 
+T4	Main 670 672	S4
+E4	Main:T4 
+T5	Distant_Evaluation 784 786	S5
+E5	Distant_Evaluation:T5 
+T6	Distant_Evaluation 1065 1067	S6
+E6	Distant_Evaluation:T6 
+T7	Distant_Expectations_Consequences 1249 1251	S7
+E7	Distant_Expectations_Consequences:T7 
+T8	Speech 1249 1251	S7
+E8	Speech:T8 
+T9	Distant_Evaluation 1490 1492	S8
+E9	Distant_Evaluation:T9 
+T10	Speech 1490 1492	S8
+E10	Speech:T10 
+T11	Distant_Evaluation 2111 2114	S13
+E11	Distant_Evaluation:T11 
+T12	Speech 1644 1646	S9
+E12	Speech:T12 
+T13	Distant_Anecdotal 1644 1646	S9
+E13	Distant_Anecdotal:T13 
+T14	Distant_Anecdotal 1848 1851	S10
+E14	Distant_Anecdotal:T14 
+T15	Distant_Anecdotal 1962 1965	S11
+E15	Distant_Anecdotal:T15 
+T16	Distant_Anecdotal 2068 2071	S12
+E16	Distant_Anecdotal:T16 
+T17	Speech 1848 1851	S10
+E17	Speech:T17 
+T18	Speech 1962 1965	S11
+E18	Speech:T18 
+T19	Speech 2068 2071	S12
+E19	Speech:T19 
+T20	Cause_General 3258 3261	S22
+E20	Cause_General:T20 
+T21	Cause_General 3442 3445	S23
+E21	Cause_General:T21 
+T22	Cause_General 3559 3562	S24
+E22	Cause_General:T22 
+T23	Distant_Evaluation 3689 3692	S25
+E23	Distant_Evaluation:T23 
+T24	Cause_General 3821 3824	S26
+E24	Cause_General:T24 
+T25	Cause_General 3873 3876	S27
+E25	Cause_General:T25 
+T26	Main 4056 4059	S28
+E26	Main:T26 
+T27	Distant_Historical 4160 4163	S29
+E27	Distant_Historical:T27 
+T28	Cause_General 4312 4315	S30
+E28	Cause_General:T28 
+T29	Distant_Historical 4392 4395	S31
+E29	Distant_Historical:T29 
+T30	Distant_Evaluation 4532 4535	S32
+E30	Distant_Evaluation:T30 
+T31	Cause_General 4611 4614	S33
+E31	Cause_General:T31 
+T32	Cause_General 4794 4797	S34
+E32	Cause_General:T32 
+T33	Distant_Evaluation 2162 2165	S14
+E33	Distant_Evaluation:T33 
+T34	Distant_Evaluation 2312 2315	S15
+E34	Distant_Evaluation:T34 
+T35	Distant_Evaluation 2406 2409	S16
+E35	Distant_Evaluation:T35 
+T36	Cause_General 2543 2546	S17
+E36	Cause_General:T36 
+T37	Cause_General 2738 2741	S18
+E37	Cause_General:T37 
+T38	Cause_General 3020 3023	S19
+E38	Cause_General:T38 
+T39	Cause_General 3073 3076	S20
+E39	Cause_General:T39 
+T40	Distant_Evaluation 3168 3171	S21
+E40	Distant_Evaluation:T40 

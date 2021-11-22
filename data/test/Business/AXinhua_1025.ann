@@ -1,0 +1,26 @@
+T1	NA 159 161	S1
+E1	NA:T1 
+T2	NA 210 212	S2
+E2	NA:T2 
+T3	Main 233 235	S3
+E3	Main:T3 
+T4	Main 384 386	S4
+E4	Main:T4 
+T5	Cause_Specific 445 447	S5
+E5	Cause_Specific:T5 
+T6	Cause_Specific 566 568	S6
+E6	Cause_Specific:T6 
+T7	Cause_General 644 646	S7
+E7	Cause_General:T7 
+T8	Cause_General 836 838	S8
+E8	Cause_General:T8 
+T9	Cause_General 944 946	S9
+E9	Cause_General:T9 
+T10	Cause_General 1011 1014	S10
+E10	Cause_General:T10 
+T11	Cause_General 1098 1101	S11
+E11	Cause_General:T11 
+T12	Main_Consequence 1228 1231	S12
+E12	Main_Consequence:T12 
+T13	Main_Consequence 1261 1264	S13
+E13	Main_Consequence:T13 

@@ -1,0 +1,54 @@
+T1	NA 163 165	S1
+E1	NA:T1 
+T2	NA 214 216	S2
+E2	NA:T2 
+T3	Main 237 239	S3
+E3	Main:T3 
+T4	Cause_General 477 479	S4
+E4	Cause_General:T4 
+T5	Cause_General 548 550	S5
+E5	Cause_General:T5 
+T6	Cause_General 619 621	S6
+E6	Cause_General:T6 
+T7	Cause_Specific 743 745	S7
+E7	Cause_Specific:T7 
+T8	Cause_General 846 848	S8
+E8	Cause_General:T8 
+T9	Cause_General 986 988	S9
+E9	Cause_General:T9 
+T10	Cause_General 1128 1131	S10
+E10	Cause_General:T10 
+T11	Cause_Specific 1232 1235	S11
+E11	Cause_Specific:T11 
+T12	Cause_General 1339 1342	S12
+E12	Cause_General:T12 
+T13	Distant_Expectations_Consequences 1482 1485	S13
+E13	Distant_Expectations_Consequences:T13 
+T14	Cause_Specific 1715 1718	S14
+E14	Cause_Specific:T14 
+T15	Cause_General 1848 1851	S15
+E15	Cause_General:T15 
+T16	Cause_Specific 1990 1993	S16
+E16	Cause_Specific:T16 
+T17	Cause_General 2119 2122	S17
+E17	Cause_General:T17 
+T18	Cause_Specific 2261 2264	S18
+E18	Cause_Specific:T18 
+T19	Cause_Specific 2380 2383	S19
+E19	Cause_Specific:T19 
+T20	Cause_General 2475 2478	S20
+E20	Cause_General:T20 
+T21	Cause_General 2563 2566	S21
+E21	Cause_General:T21 
+T22	Cause_General 2770 2773	S22
+E22	Cause_General:T22 
+T23	Cause_General 2953 2956	S23
+E23	Cause_General:T23 
+T24	Cause_General 3076 3079	S24
+E24	Cause_General:T24 
+T25	Cause_General 3194 3197	S25
+E25	Cause_General:T25 
+T26	Distant_Evaluation 3296 3299	S26
+E26	Distant_Evaluation:T26 
+T27	Distant_Evaluation 3435 3438	S27
+E27	Distant_Evaluation:T27 

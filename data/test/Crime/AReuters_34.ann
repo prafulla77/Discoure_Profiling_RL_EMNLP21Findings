@@ -1,0 +1,80 @@
+T1	NA 561 563	S2
+E1	NA:T1 
+T2	NA 805 807	S3
+E2	NA:T2 
+T3	Speech 867 869	S4
+E3	Speech:T3 
+T4	Speech 1051 1053	S5
+E4	Speech:T4 
+T5	Speech 1247 1249	S7
+E5	Speech:T5 
+T6	Speech 1335 1337	S8
+E6	Speech:T6 
+T7	Speech 1386 1388	S9
+E7	Speech:T7 
+T8	Speech 1905 1908	S13
+E8	Speech:T8 
+T9	Speech 2099 2102	S14
+E9	Speech:T9 
+T10	Distant_Expectations_Consequences 2322 2325	S15
+E10	Distant_Expectations_Consequences:T10 
+T11	Speech 3059 3062	S20
+E11	Speech:T11 
+T12	Speech 3717 3720	S26
+E12	Speech:T12 
+T13	Distant_Historical 4251 4254	S30
+E13	Distant_Historical:T13 
+T14	Cause_General 4371 4374	S31
+E14	Cause_General:T14 
+T15	Main 280 282	S1
+E15	Main:T15 
+T16	Main 867 869	S4
+E16	Main:T16 
+T17	Main 1051 1053	S5
+E17	Main:T17 
+T18	Cause_General 1090 1092	S6
+E18	Cause_General:T18 
+T19	Distant_Evaluation 1247 1249	S7
+E19	Distant_Evaluation:T19 
+T20	Distant_Evaluation 1335 1337	S8
+E20	Distant_Evaluation:T20 
+T21	Distant_Evaluation 1386 1388	S9
+E21	Distant_Evaluation:T21 
+T22	Cause_General 1421 1424	S10
+E22	Cause_General:T22 
+T23	Distant_Historical 1603 1606	S11
+E23	Distant_Historical:T23 
+T24	Cause_General 1733 1736	S12
+E24	Cause_General:T24 
+T25	Distant_Evaluation 1905 1908	S13
+E25	Distant_Evaluation:T25 
+T26	Distant_Evaluation 2099 2102	S14
+E26	Distant_Evaluation:T26 
+T27	Cause_General 2395 2398	S16
+E27	Cause_General:T27 
+T28	Distant_Historical 2546 2549	S17
+E28	Distant_Historical:T28 
+T29	Distant_Historical 2730 2733	S18
+E29	Distant_Historical:T29 
+T30	Distant_Historical 2892 2895	S19
+E30	Distant_Historical:T30 
+T31	Cause_General 3059 3062	S20
+E31	Cause_General:T31 
+T32	Cause_General 3198 3201	S21
+E32	Cause_General:T32 
+T33	Cause_General 3262 3265	S22
+E33	Cause_General:T33 
+T34	Cause_General 3470 3473	S23
+E34	Cause_General:T34 
+T35	Cause_General 3596 3599	S24
+E35	Cause_General:T35 
+T36	Cause_General 3666 3669	S25
+E36	Cause_General:T36 
+T37	Distant_Evaluation 3717 3720	S26
+E37	Distant_Evaluation:T37 
+T38	Cause_General 3979 3982	S27
+E38	Cause_General:T38 
+T39	Cause_General 4055 4058	S28
+E39	Cause_General:T39 
+T40	Cause_General 4147 4150	S29
+E40	Cause_General:T40 

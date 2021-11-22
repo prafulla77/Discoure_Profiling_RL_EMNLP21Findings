@@ -1,0 +1,146 @@
+T1	NA 200 202	S1
+E1	NA:T1 
+T2	NA 260 262	S2
+E2	NA:T2 
+T3	NA 622 624	S5
+E3	NA:T3 
+T4	NA 283 285	S3
+E4	NA:T4 
+T5	NA 453 455	S4
+E5	NA:T5 
+T6	Distant_Historical 818 820	S7
+E6	Distant_Historical:T6 
+T7	Distant_Anecdotal 1517 1520	S11
+E7	Distant_Anecdotal:T7 
+T8	Distant_Anecdotal 1649 1652	S12
+E8	Distant_Anecdotal:T8 
+T9	Distant_Anecdotal 1712 1715	S13
+E9	Distant_Anecdotal:T9 
+T10	Distant_Anecdotal 1741 1744	S14
+E10	Distant_Anecdotal:T10 
+T11	Speech 1517 1520	S11
+E11	Speech:T11 
+T12	Speech 1649 1652	S12
+E12	Speech:T12 
+T13	Speech 1712 1715	S13
+E13	Speech:T13 
+T14	Speech 1741 1744	S14
+E14	Speech:T14 
+T15	Main 643 645	S6
+E15	Main:T15 
+T16	Cause_General 1002 1004	S8
+E16	Cause_General:T16 
+T17	Distant_Evaluation 1225 1227	S9
+E17	Distant_Evaluation:T17 
+T18	Speech 1225 1227	S9
+E18	Speech:T18 
+T19	Distant_Evaluation 1401 1404	S10
+E19	Distant_Evaluation:T19 
+T20	Distant_Evaluation 1780 1783	S15
+E20	Distant_Evaluation:T20 
+T21	Distant_Evaluation 1911 1914	S16
+E21	Distant_Evaluation:T21 
+T22	Distant_Expectations_Consequences 2012 2015	S17
+E22	Distant_Expectations_Consequences:T22 
+T23	Distant_Expectations_Consequences 2231 2234	S18
+E23	Distant_Expectations_Consequences:T23 
+T24	Distant_Evaluation 2360 2363	S19
+E24	Distant_Evaluation:T24 
+T25	Cause_General 2440 2443	S20
+E25	Cause_General:T25 
+T26	Distant_Evaluation 2666 2669	S21
+E26	Distant_Evaluation:T26 
+T27	Distant_Evaluation 2757 2760	S22
+E27	Distant_Evaluation:T27 
+T28	Speech 2757 2760	S22
+E28	Speech:T28 
+T29	Distant_Evaluation 2864 2867	S23
+E29	Distant_Evaluation:T29 
+T30	Distant_Evaluation 3042 3045	S24
+E30	Distant_Evaluation:T30 
+T31	Speech 2864 2867	S23
+E31	Speech:T31 
+T32	Speech 3042 3045	S24
+E32	Speech:T32 
+T33	Distant_Evaluation 3192 3195	S25
+E33	Distant_Evaluation:T33 
+T34	Speech 3192 3195	S25
+E34	Speech:T34 
+T35	Distant_Evaluation 3456 3459	S26
+E35	Distant_Evaluation:T35 
+T36	Speech 3456 3459	S26
+E36	Speech:T36 
+T37	Distant_Evaluation 3501 3504	S27
+E37	Distant_Evaluation:T37 
+T38	Speech 3501 3504	S27
+E38	Speech:T38 
+T39	Distant_Evaluation 3680 3683	S28
+E39	Distant_Evaluation:T39 
+T40	Speech 3680 3683	S28
+E40	Speech:T40 
+T41	Distant_Evaluation 3781 3784	S29
+E41	Distant_Evaluation:T41 
+T42	Speech 3781 3784	S29
+E42	Speech:T42 
+T43	Distant_Evaluation 3965 3968	S30
+E43	Distant_Evaluation:T43 
+T44	Speech 3965 3968	S30
+E44	Speech:T44 
+T45	Distant_Evaluation 4076 4079	S31
+E45	Distant_Evaluation:T45 
+T46	Speech 4076 4079	S31
+E46	Speech:T46 
+T47	Distant_Evaluation 4226 4229	S32
+E47	Distant_Evaluation:T47 
+T48	Speech 4226 4229	S32
+E48	Speech:T48 
+T49	Distant_Evaluation 4378 4381	S33
+E49	Distant_Evaluation:T49 
+T50	Distant_Evaluation 4555 4558	S34
+E50	Distant_Evaluation:T50 
+T51	Speech 4555 4558	S34
+E51	Speech:T51 
+T52	Distant_Evaluation 4807 4810	S35
+E52	Distant_Evaluation:T52 
+T53	Speech 4807 4810	S35
+E53	Speech:T53 
+T54	Distant_Evaluation 4979 4982	S36
+E54	Distant_Evaluation:T54 
+T55	Speech 4979 4982	S36
+E55	Speech:T55 
+T56	Distant_Evaluation 5058 5061	S37
+E56	Distant_Evaluation:T56 
+T57	Speech 5058 5061	S37
+E57	Speech:T57 
+T58	Distant_Evaluation 5224 5227	S38
+E58	Distant_Evaluation:T58 
+T59	Distant_Evaluation 5341 5344	S39
+E59	Distant_Evaluation:T59 
+T60	Distant_Evaluation 5449 5452	S40
+E60	Distant_Evaluation:T60 
+T61	Speech 5224 5227	S38
+E61	Speech:T61 
+T62	Speech 5341 5344	S39
+E62	Speech:T62 
+T63	Speech 5449 5452	S40
+E63	Speech:T63 
+T64	Speech 5563 5566	S41
+E64	Speech:T64 
+T65	Distant_Evaluation 5563 5566	S41
+E65	Distant_Evaluation:T65 
+T66	Distant_Expectations_Consequences 5624 5627	S42
+E66	Distant_Expectations_Consequences:T66 
+T67	Speech 5624 5627	S42
+E67	Speech:T67 
+T68	Distant_Expectations_Consequences 5687 5690	S43
+E68	Distant_Expectations_Consequences:T68 
+T69	Speech 5687 5690	S43
+E69	Speech:T69 
+T70	Distant_Expectations_Consequences 5805 5808	S44
+E70	Distant_Expectations_Consequences:T70 
+T71	Speech 5805 5808	S44
+E71	Speech:T71 
+T72	Distant_Expectations_Consequences 6030 6033	S45
+E72	Distant_Expectations_Consequences:T72 
+T73	Speech 6030 6033	S45
+E73	Speech:T73 

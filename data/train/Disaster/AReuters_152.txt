@@ -1,0 +1,43 @@
+URL https://www.reuters.com/article/us-usa-alerts/false-tsunami-warnings-sent-over-phones-spook-americans-idUSKBN1FQ2AB
+
+DATE/ AUTHOR 2018-02-07 01:01:15+00:00	AUTHORS: Jonathan Allen, Min Read
+
+H False tsunami warnings sent over phones spook Americans
+
+S1 NEW YORK (Reuters) - False tsunami warnings flashed on cellphones along the U.S. East and Gulf Coasts on Tuesday morning when a U.S. National Weather Service (NWS) systems test went awry, unnerving Americans from Maine to Texas.
+
+S2 The false alerts appeared to have been sent by the private forecasting company AccuWeather, according to cellphone images posted on social media.
+S3 AccuWeather pointed the finger at the NWS.
+
+S4 “Yikes!” Trish Milburn, a writer of romance novels who lives on Florida’s Gulf Coast, wrote on Twitter.
+S5 “That warning is not what you want to see when you live less than 10 feet (3 meters) above sea level.”
+
+S6 It was not the first time this year Americans were roused by their cellphones warning of an impending catastrophe.
+S7 Last month’s false alarm was a missile headed for Hawaii.
+
+S8 The National Weather Service said its National Tsunami Warning Center issued a routine monthly test message that was misconstrued, spooking people in cities as far apart as Boston and Houston.
+
+S9 “The test message was released by at least one private sector company as an official Tsunami Warning, resulting in widespread reports of tsunami warnings received via phones and other media across the East Coast, Gulf of Mexico, and the Caribbean,” the service said in a statement.
+
+S10 At least some people who clicked the alert to read the full message saw a disclaimer that the alert was in fact a test, according to screenshots posted online.
+
+S11 AccuWeather said the National Weather Service wrongly coded the test as a real warning, confusing its automated alerts system.
+
+S12 “AccuWeather has the most sophisticated system for passing on NWS tsunami warnings based on a complete computer scan of the codes used by the NWS,” the company said in a statement.
+S13 “While the words ‘TEST’ were in the header, the actual codes read by computers used coding for real warning, indicating it was a real warning.”
+
+S14 AccuWeather said it had warned the National Weather Service in 2014 of this vulnerability after a similar error.
+
+S15 The National Weather Service said its investigation confirmed the message was coded as a test.
+
+S16 “We are working with private sector companies to determine why some systems did not recognize the coding.
+S17 Private sector partners perform a valuable service in disseminating warnings to the public.
+S18 We will continue to work with our partners to prevent this from occurring again,” NWS said in a statement.
+
+S19 An AccuWeather spokesman could not be reached late Tuesday to respond.
+
+S20 It was not clear how many people saw the false alerts.
+
+S21 Residents of the West Coast were warned in January to brace for a possible tsunami after an earthquake off the coast of Alaska.
+S22 The warnings were later lifted and no significant damage was reported.
+

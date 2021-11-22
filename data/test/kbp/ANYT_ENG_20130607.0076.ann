@@ -1,0 +1,162 @@
+T1	Speech 39 41	S1
+E1	Speech:T1 
+T2	Speech 251 253	S2
+E2	Speech:T2 
+T3	Speech 526 528	S4
+E3	Speech:T3 
+T4	Speech 1079 1081	S7
+E4	Speech:T4 
+T5	Speech 1289 1291	S8
+E5	Speech:T5 
+T6	Speech 1381 1383	S9
+E6	Speech:T6 
+T7	Speech 1472 1475	S10
+E7	Speech:T7 
+T8	Speech 1663 1666	S13
+E8	Speech:T8 
+T9	Speech 2224 2227	S18
+E9	Speech:T9 
+T10	Speech 2400 2403	S19
+E10	Speech:T10 
+T11	Speech 2444 2447	S20
+E11	Speech:T11 
+T12	Speech 2646 2649	S22
+E12	Speech:T12 
+T13	Speech 2862 2865	S24
+E13	Speech:T13 
+T14	Speech 3645 3648	S32
+E14	Speech:T14 
+T15	Speech 4931 4934	S42
+E15	Speech:T15 
+T16	Speech 5192 5195	S43
+E16	Speech:T16 
+T17	Speech 5289 5292	S44
+E17	Speech:T17 
+T18	Speech 5363 5366	S45
+E18	Speech:T18 
+T19	Speech 5445 5448	S46
+E19	Speech:T19 
+T20	Speech 5568 5571	S47
+E20	Speech:T20 
+T21	Speech 5685 5688	S48
+E21	Speech:T21 
+T22	Speech 5946 5949	S51
+E22	Speech:T22 
+T23	Speech 6182 6185	S53
+E23	Speech:T23 
+T24	Speech 6254 6257	S54
+E24	Speech:T24 
+T25	NA 6651 6654	S56
+E25	NA:T25 
+T26	Speech 6405 6408	S55
+E26	Speech:T26 
+T27	Main 39 41	S1
+E27	Main:T27 
+T28	Main_Consequence 251 253	S2
+E28	Main_Consequence:T28 
+T29	Distant_Historical 391 393	S3
+E29	Distant_Historical:T29 
+T30	Distant_Evaluation 526 528	S4
+E30	Distant_Evaluation:T30 
+T31	Distant_Evaluation 765 767	S5
+E31	Distant_Evaluation:T31 
+T32	Distant_Historical 889 891	S6
+E32	Distant_Historical:T32 
+T33	Distant_Evaluation 1079 1081	S7
+E33	Distant_Evaluation:T33 
+T34	Main_Consequence 1289 1291	S8
+E34	Main_Consequence:T34 
+T35	Distant_Evaluation 1381 1383	S9
+E35	Distant_Evaluation:T35 
+T36	Distant_Evaluation 1472 1475	S10
+E36	Distant_Evaluation:T36 
+T37	Cause_General 1519 1522	S11
+E37	Cause_General:T37 
+T38	Cause_General 1587 1590	S12
+E38	Cause_General:T38 
+T39	Distant_Evaluation 1663 1666	S13
+E39	Distant_Evaluation:T39 
+T40	Cause_Specific 1725 1728	S14
+E40	Cause_Specific:T40 
+T41	Cause_General 1889 1892	S15
+E41	Cause_General:T41 
+T42	Cause_General 2003 2006	S16
+E42	Cause_General:T42 
+T43	Cause_General 2135 2138	S17
+E43	Cause_General:T43 
+T44	Distant_Expectations_Consequences 2224 2227	S18
+E44	Distant_Expectations_Consequences:T44 
+T45	Distant_Evaluation 2400 2403	S19
+E45	Distant_Evaluation:T45 
+T46	Distant_Evaluation 2444 2447	S20
+E46	Distant_Evaluation:T46 
+T47	Distant_Historical 2532 2535	S21
+E47	Distant_Historical:T47 
+T48	Distant_Evaluation 2646 2649	S22
+E48	Distant_Evaluation:T48 
+T49	Distant_Historical 2747 2750	S23
+E49	Distant_Historical:T49 
+T50	Distant_Evaluation 2862 2865	S24
+E50	Distant_Evaluation:T50 
+T51	Distant_Historical 3012 3015	S25
+E51	Distant_Historical:T51 
+T52	Distant_Historical 3054 3057	S26
+E52	Distant_Historical:T52 
+T53	Distant_Historical 3113 3116	S27
+E53	Distant_Historical:T53 
+T54	Distant_Historical 3286 3289	S28
+E54	Distant_Historical:T54 
+T55	Distant_Historical 3310 3313	S29
+E55	Distant_Historical:T55 
+T56	Distant_Historical 3361 3364	S30
+E56	Distant_Historical:T56 
+T57	Distant_Historical 3497 3500	S31
+E57	Distant_Historical:T57 
+T58	Distant_Historical 3645 3648	S32
+E58	Distant_Historical:T58 
+T59	Distant_Historical 3798 3801	S33
+E59	Distant_Historical:T59 
+T60	Distant_Historical 3826 3829	S34
+E60	Distant_Historical:T60 
+T61	Distant_Historical 3873 3876	S35
+E61	Distant_Historical:T61 
+T62	Distant_Historical 4051 4054	S36
+E62	Distant_Historical:T62 
+T63	Distant_Historical 4225 4228	S37
+E63	Distant_Historical:T63 
+T64	Distant_Historical 4393 4396	S38
+E64	Distant_Historical:T64 
+T65	Distant_Historical 4504 4507	S39
+E65	Distant_Historical:T65 
+T66	Distant_Historical 4573 4576	S40
+E66	Distant_Historical:T66 
+T67	Distant_Historical 4810 4813	S41
+E67	Distant_Historical:T67 
+T68	Distant_Historical 4931 4934	S42
+E68	Distant_Historical:T68 
+T69	Distant_Evaluation 5192 5195	S43
+E69	Distant_Evaluation:T69 
+T70	Distant_Evaluation 5289 5292	S44
+E70	Distant_Evaluation:T70 
+T71	Distant_Evaluation 5363 5366	S45
+E71	Distant_Evaluation:T71 
+T72	Distant_Evaluation 5445 5448	S46
+E72	Distant_Evaluation:T72 
+T73	Distant_Evaluation 5568 5571	S47
+E73	Distant_Evaluation:T73 
+T74	Distant_Evaluation 5685 5688	S48
+E74	Distant_Evaluation:T74 
+T75	Distant_Historical 5769 5772	S49
+E75	Distant_Historical:T75 
+T76	Distant_Historical 5862 5865	S50
+E76	Distant_Historical:T76 
+T77	Distant_Historical 5946 5949	S51
+E77	Distant_Historical:T77 
+T78	Distant_Expectations_Consequences 6082 6085	S52
+E78	Distant_Expectations_Consequences:T78 
+T79	Distant_Evaluation 6182 6185	S53
+E79	Distant_Evaluation:T79 
+T80	Distant_Evaluation 6254 6257	S54
+E80	Distant_Evaluation:T80 
+T81	Distant_Evaluation 6405 6408	S55
+E81	Distant_Evaluation:T81 

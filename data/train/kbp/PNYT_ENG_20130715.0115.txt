@@ -1,0 +1,28 @@
+H  CALIFORNIA IS FACING MORE WOES ON PRISONS 
+
+S1  This article is part of TIMES EXPRESS.
+S2 It is a condensed version of a story that will appear in tomorrow’s New York Times.
+S3 );
+
+S4  LOS ANGELES - Just six months after declaring that “the prison crisis is over in California,” Gov.
+S5 Jerry Brown is facing dire predictions about the future of the state’s prison system, one of the largest in the nation.
+
+S6  A widespread inmate hunger strike against California’s policy of solitary confinement was approaching its second week on Sunday.
+S7 The federal courts have demanded the release of nearly 10,000 inmates and the transfer of 2,600 others who are at risk of contracting a deadly disease in the state’s overcrowded prisons.
+
+S8  State lawmakers have called for an investigation into a new report that nearly 150 women behind bars were coerced into being sterilized over the last decade.
+S9 And last week, a federal judge ruled that prisoners were not receiving adequate medical care
+
+S10  “It is like a tinderbox, and all you had to do is light a match,” said Jules Lobel, the president of the Center for Constitutional Rights and the lead lawyer in a federal lawsuit over solitary confinement.
+S11 “They see the state has shown no willingness to change, even when the high court orders it.
+S12 They have decided to circle the wagons and keep the system that exists today as intact as possible.”
+
+S13  In many ways California prison system officials have been among the most reluctant to adapt systemic changes, experts say, doing so only when forced to by the federal courts.
+S14 Even then, lawyers and advocates for prisoners say, the changes have come slowly and unevenly.
+
+S15  Brown, a Democrat, has aggressively fought several federal court orders in the two years since the U.S. Supreme Court ruled that conditions and overcrowding in the system amounted to a violation of the Eighth Amendment - cruel and unusual punishment.
+S16 Since then, federal judges overseeing the case have repeatedly declared that the state was not making changes quickly enough, and that conditions in the prisons remained appalling - that the state had been “deliberately indifferent.”
+
+S17  The judges have twice threatened to hold the governor in contempt if he does not comply with their order to release prisoners.
+S18 Last week, Brown appealed to the Supreme Court to stop the order, arguing that the system had already improved dramatically and that stopping the release of prisoners was essential for public safety.
+

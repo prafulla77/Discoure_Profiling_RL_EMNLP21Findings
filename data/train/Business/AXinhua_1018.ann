@@ -1,0 +1,16 @@
+T1	NA 179 181	S1
+E1	NA:T1 
+T2	NA 235 237	S2
+E2	NA:T2 
+T3	Speech 258 260	S3
+E3	Speech:T3 
+T4	Main 258 260	S3
+E4	Main:T4 
+T5	Cause_General 523 525	S4
+E5	Cause_General:T5 
+T6	Cause_General 679 681	S5
+E6	Cause_General:T6 
+T7	Cause_General 932 934	S6
+E7	Cause_General:T7 
+T8	Cause_General 1136 1138	S7
+E8	Cause_General:T8 

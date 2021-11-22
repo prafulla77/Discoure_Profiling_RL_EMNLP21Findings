@@ -1,0 +1,40 @@
+T1	NA 184 186	S1
+E1	NA:T1 
+T2	NA 238 240	S2
+E2	NA:T2 
+T3	NA 261 263	S3
+E3	NA:T3 
+T4	NA 363 365	S4
+E4	NA:T4 
+T5	NA 539 541	S5
+E5	NA:T5 
+T6	Main 569 571	S6
+E6	Main:T6 
+T7	Main_Consequence 770 772	S7
+E7	Main_Consequence:T7 
+T8	Main_Consequence 944 946	S8
+E8	Main_Consequence:T8 
+T9	Main_Consequence 1063 1065	S9
+E9	Main_Consequence:T9 
+T10	Cause_General 1196 1199	S10
+E10	Cause_General:T10 
+T11	Distant_Evaluation 1403 1406	S12
+E11	Distant_Evaluation:T11 
+T12	Main_Consequence 1616 1619	S13
+E12	Main_Consequence:T12 
+T13	Cause_General 1316 1319	S11
+E13	Cause_General:T13 
+T14	Cause_General 1679 1682	S14
+E14	Cause_General:T14 
+T15	Main_Consequence 1751 1754	S15
+E15	Main_Consequence:T15 
+T16	Distant_Expectations_Consequences 1906 1909	S16
+E16	Distant_Expectations_Consequences:T16 
+T17	Distant_Historical 2021 2024	S17
+E17	Distant_Historical:T17 
+T18	Distant_Historical 2158 2161	S18
+E18	Distant_Historical:T18 
+T19	Distant_Expectations_Consequences 2210 2213	S19
+E19	Distant_Expectations_Consequences:T19 
+T20	Distant_Expectations_Consequences 2366 2369	S20
+E20	Distant_Expectations_Consequences:T20 

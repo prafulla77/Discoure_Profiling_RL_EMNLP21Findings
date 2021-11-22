@@ -1,0 +1,20 @@
+T1	Main 163 165	S1
+E1	Main:T1 
+T2	Main 371 373	S2
+E2	Main:T2 
+T3	Main_Consequence 482 484	S3
+E3	Main_Consequence:T3 
+T4	Speech 482 484	S3
+E4	Speech:T4 
+T5	Main_Consequence 602 604	S4
+E5	Main_Consequence:T5 
+T6	Speech 602 604	S4
+E6	Speech:T6 
+T7	Cause_Specific 734 736	S5
+E7	Cause_Specific:T7 
+T8	Cause_General 825 827	S6
+E8	Cause_General:T8 
+T9	Distant_Expectations_Consequences 917 919	S7
+E9	Distant_Expectations_Consequences:T9 
+T10	Cause_General 1097 1099	S8
+E10	Cause_General:T10 

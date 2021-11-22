@@ -1,0 +1,74 @@
+T1	Main 255 257	S1
+E1	Main:T1 
+T2	Distant_Evaluation 461 463	S2
+E2	Distant_Evaluation:T2 
+T3	Main_Consequence 648 650	S3
+E3	Main_Consequence:T3 
+T4	Cause_General 866 868	S4
+E4	Cause_General:T4 
+T5	Cause_General 1022 1024	S5
+E5	Cause_General:T5 
+T6	Main_Consequence 1185 1187	S6
+E6	Main_Consequence:T6 
+T7	Distant_Evaluation 1431 1433	S7
+E7	Distant_Evaluation:T7 
+T8	Speech 1431 1433	S7
+E8	Speech:T8 
+T9	Distant_Expectations_Consequences 1748 1750	S8
+E9	Distant_Expectations_Consequences:T9 
+T10	NA 2209 2212	S11
+E10	NA:T10 
+T11	NA 1976 1978	S9
+E11	NA:T11 
+T12	NA 2183 2186	S10
+E12	NA:T12 
+T13	Distant_Expectations_Consequences 2281 2284	S12
+E13	Distant_Expectations_Consequences:T13 
+T14	Cause_General 2653 2656	S15
+E14	Cause_General:T14 
+T15	Distant_Evaluation 2824 2827	S16
+E15	Distant_Evaluation:T15 
+T16	NA 3235 3238	S18
+E16	NA:T16 
+T17	Distant_Evaluation 3261 3264	S19
+E17	Distant_Evaluation:T17 
+T18	Speech 3261 3264	S19
+E18	Speech:T18 
+T19	Speech 3531 3534	S20
+E19	Speech:T19 
+T20	Distant_Evaluation 3531 3534	S20
+E20	Distant_Evaluation:T20 
+T21	Cause_General 5359 5362	S31
+E21	Cause_General:T21 
+T22	Cause_General 2492 2495	S14
+E22	Cause_General:T22 
+T23	Distant_Expectations_Consequences 2300 2303	S13
+E23	Distant_Expectations_Consequences:T23 
+T24	Distant_Expectations_Consequences 3011 3014	S17
+E24	Distant_Expectations_Consequences:T24 
+T25	Speech 3011 3014	S17
+E25	Speech:T25 
+T26	Cause_General 3695 3698	S21
+E26	Cause_General:T26 
+T27	Distant_Evaluation 3718 3721	S22
+E27	Distant_Evaluation:T27 
+T28	Main_Consequence 3964 3967	S23
+E28	Main_Consequence:T28 
+T29	Distant_Expectations_Consequences 4402 4405	S25
+E29	Distant_Expectations_Consequences:T29 
+T30	Main_Consequence 4780 4783	S28
+E30	Main_Consequence:T30 
+T31	Cause_General 4635 4638	S27
+E31	Cause_General:T31 
+T32	Distant_Evaluation 4870 4873	S29
+E32	Distant_Evaluation:T32 
+T33	Distant_Evaluation 5171 5174	S30
+E33	Distant_Evaluation:T33 
+T34	Speech 5171 5174	S30
+E34	Speech:T34 
+T35	Main_Consequence 4213 4216	S24
+E35	Main_Consequence:T35 
+T36	Main_Consequence 4504 4507	S26
+E36	Main_Consequence:T36 
+T37	Speech 4504 4507	S26
+E37	Speech:T37 

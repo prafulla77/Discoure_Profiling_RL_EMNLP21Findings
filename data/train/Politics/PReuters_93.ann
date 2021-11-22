@@ -1,0 +1,60 @@
+T1	NA 2423 2426	S16
+E1	NA:T1 
+T2	Cause_Specific 591 593	S2
+E2	Cause_Specific:T2 
+T3	Main 282 284	S1
+E3	Main:T3 
+T4	Speech 282 284	S1
+E4	Speech:T4 
+T5	Cause_Specific 849 851	S3
+E5	Cause_Specific:T5 
+T6	Distant_Evaluation 974 976	S4
+E6	Distant_Evaluation:T6 
+T7	Distant_Evaluation 1139 1141	S5
+E7	Distant_Evaluation:T7 
+T8	Distant_Evaluation 1377 1379	S6
+E8	Distant_Evaluation:T8 
+T9	Speech 1377 1379	S6
+E9	Speech:T9 
+T10	Distant_Evaluation 1541 1543	S7
+E10	Distant_Evaluation:T10 
+T11	Speech 1541 1543	S7
+E11	Speech:T11 
+T12	Distant_Evaluation 1719 1721	S8
+E12	Distant_Evaluation:T12 
+T13	Distant_Evaluation 1760 1762	S9
+E13	Distant_Evaluation:T13 
+T14	Distant_Evaluation 1803 1806	S10
+E14	Distant_Evaluation:T14 
+T15	Speech 1719 1721	S8
+E15	Speech:T15 
+T16	Speech 1760 1762	S9
+E16	Speech:T16 
+T17	Speech 1803 1806	S10
+E17	Speech:T17 
+T18	Distant_Evaluation 1841 1844	S11
+E18	Distant_Evaluation:T18 
+T19	Speech 1841 1844	S11
+E19	Speech:T19 
+T20	Distant_Evaluation 2096 2099	S12
+E20	Distant_Evaluation:T20 
+T21	Distant_Expectations_Consequences 2210 2213	S13
+E21	Distant_Expectations_Consequences:T21 
+T22	Speech 2210 2213	S13
+E22	Speech:T22 
+T23	Cause_General 2242 2245	S14
+E23	Cause_General:T23 
+T24	Distant_Evaluation 2321 2324	S15
+E24	Distant_Evaluation:T24 
+T25	Distant_Expectations_Consequences 2449 2452	S17
+E25	Distant_Expectations_Consequences:T25 
+T26	Distant_Expectations_Consequences 2548 2551	S18
+E26	Distant_Expectations_Consequences:T26 
+T27	Distant_Evaluation 2712 2715	S19
+E27	Distant_Evaluation:T27 
+E28	Speech:T30 
+T28	Distant_Evaluation 2807 2810	S20
+E29	Distant_Evaluation:T28 
+T29	Speech 2807 2810	S20
+E30	Speech:T29 
+T30	Speech 2712 2715	S19

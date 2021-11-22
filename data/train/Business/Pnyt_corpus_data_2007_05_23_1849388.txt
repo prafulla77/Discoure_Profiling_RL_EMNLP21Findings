@@ -1,0 +1,84 @@
+URL http://query.nytimes.com/gst/fullpage.html?res=950CEFD71F31F930A15756C0A9619C8B63
+
+DATE/ AUTHOR None	AUTHORS: David Leonhardt
+
+H Worth a Lot, but Are Hedge Funds Worth It?
+
+S1 When Institutional Investor's Alpha magazine released its annual list of the highest paid hedge fund managers last month, it allowed the rest of us to play an entertaining little parlor game: what could you buy if you made as much money as those guys?
+
+S2 James Simons, a 69-year-old mathematician who was at the top of the list, earned $1.7 billion, which equaled the amount of money that the federal government spent last year running its vast network of national parks.
+S3 Down at No.
+S4 3 on the list, Edward S. Lampert of Greenwich, Conn., the investor who owns a large chunk of Sears, made $1.3 billion, which, if you forget about taxes, would have allowed him to buy the entire economic output of Sierra Leone.
+S5 We're talking about real money here.
+
+S6 Today, Alpha magazine will release another big list, and this one offers a chance to answer another, arguably more important, question: Are these billionaire hedge fund managers really worth it?
+
+S7 The reason hedge funds are a license to print money is their fee structure.
+S8 A typical fund charges a 2 percent management fee, which means that it keeps 2 cents of every dollar that it manages, regardless of performance.
+S9 Mutual funds, on average, charge about 1 percent.
+
+S10 On top of the management fee, hedge funds also take a big cut -- usually at least 20 percent -- of any profits that exceed a predetermined benchmark.
+
+S11 So in a good year, a fund's managers bring in stunning amounts of money, and in a bad year, they still do very well.
+S12 Some quick math shows why: 2 percent of a $5 billion portfolio, which was roughly the cutoff for making Alpha's list of the 100 largest funds, equals $100 million.
+S13 A fund's managers get to take that fee every single year.
+
+S14 Last year was actually a pretty tough year for the industry.
+S15 Because hedge funds tend to make a lot of countercyclical bets -- thus the name -- they can often turn a profit even when the stock market falls.
+S16 When it's rising broadly, though, many struggle to keep up.
+S17 Last year, the Standard & Poor's 500-stock index jumped 14 percent, while the average hedge fund returned less than 13 percent, after investment fees, according to Hedge Fund Research in Chicago.
+
+S18 But the men -- and they are all men -- who appear on Alpha's list of top earners don't manage average hedge funds.
+S19 They manage the biggest funds in the world, the ones that are winning the Darwinian competition for capital, and many of them aren't having any trouble beating the market.
+S20 One of the funds at Mr. Simons's firm, Renaissance Technologies, delivered a net return of 21 percent last year.
+S21 The other returned 44 percent after fees.
+S22 And Mr. Simons, who relies on a fantastically complex set of algorithms, doesn't charge ''2 and 20'' -- as the typical industry fees are called.
+S23 He charges ''5 and 44'' -- a 5 percent management fee and 44 percent of profits -- yet he has still been doing very well by his investors for almost two decades.
+
+S24 I realize that a lot of people find 9- and 10-figure incomes to be inherently excessive.
+S25 Or even immoral.
+S26 From a strictly economic point of view, however, they are also perfectly rational.
+S27 You cannot find anyone else who is providing the same returns as the best hedge fund managers at a lower price.
+S28 If you don't like it, you don't have to give them your money.
+
+S29 (Even if you do like it, they probably won't take your money.
+S30 In exchange for being lightly regulated, hedge funds are open only to wealthy investors and big institutions.)
+
+S31 Thanks to their incredible performance, the biggest funds have grown far bigger in recent years.
+S32 The 100 largest firms in the world managed $1 trillion at the end of last year, or 69 percent of all the assets in hedge funds, according to Alpha.
+S33 At the end of 2003, the top 100 had less than $500 billion, or only 54 percent of total hedge fund investments.
+
+S34 ''The best performance is coming from the largest funds,'' said Christy Wood, who oversees equities investments for the California Public Employees' Retirement System, which, like a lot of pension funds, is moving more money into hedge funds.
+
+S35 But there is an irony to this influx of money.
+S36 It all but guarantees that hedge fund pay over the next few years won't be as closely tied to performance as it has been.
+S37 The hundreds of millions of dollars that have flowed into hedge funds have made it all the harder for fund managers to find truly undervalued investments.
+S38 The world is awash in capital.
+
+S39 All that capital, of course, also translates into ever-greater management fees, regardless of a fund's performance.
+S40 The flagship hedge fund at Goldman Sachs lost 6 percent last year, but it still brought in a nice stream of fees.
+S41 Bridgewater Associates, which is based in Greenwich, has earned a net return of less than 4 percent in each of the last two years.
+S42 Yet its founder, Raymond T. Dalio, made $350 million in 2006.
+
+S43 ''When we have a bad year, we're essentially flat,'' Parag Shah, a Bridgewater executive, told me.
+S44 ''And when we have a good year, we have a great year.''
+
+S45 Goldman and Bridgewater may well bounce back, but the combination of extraordinary pay and ordinary performance is going to occur more and more in the coming years.
+
+S46 Outside of the highfliers on the Alpha list, it's already the norm.
+S47 Since 2000, the average hedge fund hasn't done any better, after fees, than the market as a whole, according to research by David A. Hsieh, a finance professor at Duke.
+S48 Still, even mediocre managers, after a lucky year or two, are able to attract gobs of capital and charge ''2 and 20.''
+
+S49 So are today's hedge fund managers really worth it?
+S50 Sure, but only if they deliver the sort of performance that Mr. Simons has, and very few will in the years ahead.
+S51 More to the point, it's extremely difficult to know who the stars will be.
+
+S52 In all sorts of walks of life, people tend to think that the past is a better predictor of the future than it really is.
+S53 That's why journeyman baseball players -- a Yankees pitcher named Carl Pavano comes to mind -- are able to sign huge contracts based on a single good season.
+S54 It's also why so many investors chase returns.
+
+S55 The genius of the world's hedge fund managers isn't only in how they invest their money.
+S56 It also lies in having set up an industry that takes advantage of a timeless human trait.
+
+S57 ECONOMIX E-mail: Leonhardt@nytimes.com
+

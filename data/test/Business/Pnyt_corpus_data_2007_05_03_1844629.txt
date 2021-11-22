@@ -1,0 +1,73 @@
+URL http://query.nytimes.com/gst/fullpage.html?res=940DEEDA103EF930A35756C0A9619C8B63
+
+DATE/ AUTHOR None	AUTHORS: Hal R. Varian, Economic Scene
+
+H Sometimes the Stock Does Better Than the Investor That Buys the Stock
+
+S1 Stocks have been a great investment in the last 80 years, with an average return of about 10 percent a year.
+S2 But have investors in the stock market done as well as stocks?
+S3 Surprisingly, the answer is no.
+S4 The average dollar invested in the stock market in those years has earned only about 8.6 percent a year.
+
+S5 The discrepancy between stock market return and investor return is examined by Ilia D. Dichev, a University of Michigan accounting professor, in a paper  published in the March 2007 edition of The American Economic Review, ''What Are Stock Investors' Actual Historical Returns?
+S6 Evidence From Dollar-Weighted Returns.''
+
+S7 To understand the difference between a stock's return and an investor's return, consider someone who buys 100 shares of a company at a price of $10 a share.
+S8 A year later, the share price is up to $20, and the investor buys 100 more shares.
+
+S9 Alas, the investor's luck has run out.
+S10 By the end of the next year, the price has fallen back to $10 and the investor sells his 200 shares.
+
+S11 A buy-and-hold investor who bought at $10, held the stock for two years, and then sold at $10 would have had a zero return.
+
+S12 But our friend who tried to time the market did much worse: over the two years, he invested $3,000 in the stock and ended up with only $2,000.
+S13 E
+
+S14 ven though the stock broke even, the investor lost money because of bad timing: most of his money was invested right before the market fell.
+
+S15 To calculate a meaningful measure of the investor's return, it is necessary to weight the yearly returns by the dollars invested during that year.
+
+S16 When Mr. Dichev calculates the dollar-weighted returns on this stock according to his preferred method, our hypothetical investor's average yearly return ends up being negative 16.8 percent, far below the zero return that the buy-and-hold investor would have received.
+
+S17 Some mutual fund families and reporting services currently report dollar-weighted returns for individual investors and funds.
+S18 Mr. Dichev's contribution is to apply this methodology to the stock market as a whole, weighting each month's return by the amount of money invested in the market during that period.
+
+S19 An investor who bought a value-weighted portfolio of stocks in the New York Stock Exchange and American Stock Exchange in 1926 and held them until 2002 would have earned an average annual return of about 10 percent.
+
+S20 By contrast, an individual who bought in 1926 but moved his dollars in and out of the market in the same pattern as the average dollar invested in the market would have earned a return of only 8.6 percent a year.
+
+S21 For Nasdaq, the difference between buy-and-hold and dollar-weighted returns is even larger.
+S22 An investor who bought the Nasdaq index in 1973 and sold in 2002 would have earned an average yearly return of 9.6 percent.
+S23 But the typical investor in Nasdaq earned only 4.3 percent over this period.
+S24 This is true not just in the United States -- the same thing occurred in 18 of 19 international markets that Mr. Dichev examined.
+
+S25 It appears that taken as a whole, investors just aren't very good at market timing.
+S26 But why?
+
+S27 There's an old adage on Wall Street: ''Buy on the rumor, sell on the news.''
+S28 Unfortunately, small investors do not seem to follow this rule.
+S29 Terrance Odean, a finance professor at the University of California, Berkeley, has found that small individual investors tend to buy stocks when they are mentioned in the media: they buy on the news.
+S30 The professional and institutional investors are happy to sell to retail investors in such periods.
+
+S31 A recent article in The Financial Analysts Journal by Thomas Arnold, John H. Earl Jr. and David S. North, all finance professors at the University of Richmond, called ''Are Cover Stories Effective Contrarian Indicators?''
+S32 offers an intriguing finding.
+
+S33 The professors look at how a company's stock responds to a cover story in BusinessWeek, Fortune and Forbes.
+S34 They find that positive stories follow periods of positive performance and negative stories follow periods of negative performance, which admittedly is not too surprising.
+S35 More interesting, they also find that the appearance of a cover story tends to signal the end of the abnormal performance.
+S36 Hence, individuals who trade on such ''news'' are not likely to do well.
+
+S37 This is not to say that articles in the financial press are not worth reading.
+S38 Quite the contrary.
+S39 They often provide insightful reporting and in-depth analysis.
+S40 But by the time the articles have been researched, written and published, they are no longer news -- the market price of the stock already reflects the company's future prospects.
+
+S41 Taken together, this research offers yet more support for the time-tested investment strategy of buy and hold.
+S42 Anything that you think is news is old hat to the professionals.
+S43 Trying to outguess the market is a sucker's game.
+
+S44 ECONOMIC SCENE Hal R. Varian is a professor of business, economics and information management at the University of California, Berkeley.
+
+S45 Correction:  May 10, 2007, Thursday  The Economic Scene column in Business Day last Thursday, about research into the discrepancy between stock market returns and individual investors' returns, misstated the average yearly dollar-weighted return for a hypothetical investor who bought 100 shares of a company at $10 a share, then a year later bought 100 more shares when the share price was $20, then sold all 200 shares when the price fell to $10 a share at the end of that second year.
+S46 The investor's average yearly return was a negative 26.8 percent, not a negative 16.8 percent.
+

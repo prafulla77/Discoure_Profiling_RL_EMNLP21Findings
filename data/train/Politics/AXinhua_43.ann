@@ -1,0 +1,56 @@
+T1	NA 196 198	S1
+E1	NA:T1 
+T2	NA 255 257	S2
+E2	NA:T2 
+T3	Main 278 280	S3
+E3	Main:T3 
+T4	Distant_Expectations_Consequences 534 536	S4
+E4	Distant_Expectations_Consequences:T4 
+T5	Distant_Expectations_Consequences 640 642	S5
+E5	Distant_Expectations_Consequences:T5 
+T6	Cause_General 831 833	S6
+E6	Cause_General:T6 
+T7	Cause_Specific 968 970	S7
+E7	Cause_Specific:T7 
+T8	Distant_Expectations_Consequences 1153 1155	S8
+E8	Distant_Expectations_Consequences:T8 
+T9	Speech 1280 1282	S9
+E9	Speech:T9 
+T10	Cause_General 1280 1282	S9
+E10	Cause_General:T10 
+T11	Distant_Expectations_Consequences 1486 1489	S10
+E11	Distant_Expectations_Consequences:T11 
+T12	Distant_Expectations_Consequences 1686 1689	S11
+E12	Distant_Expectations_Consequences:T12 
+T13	Speech 1845 1848	S12
+E13	Speech:T13 
+T14	Distant_Evaluation 1845 1848	S12
+E14	Distant_Evaluation:T14 
+T15	Speech 1996 1999	S13
+E15	Speech:T15 
+T16	Distant_Evaluation 1996 1999	S13
+E16	Distant_Evaluation:T16 
+T17	Distant_Expectations_Consequences 2110 2113	S14
+E17	Distant_Expectations_Consequences:T17 
+T18	Distant_Expectations_Consequences 2306 2309	S15
+E18	Distant_Expectations_Consequences:T18 
+T19	Distant_Expectations_Consequences 2445 2448	S16
+E19	Distant_Expectations_Consequences:T19 
+T20	Distant_Expectations_Consequences 2524 2527	S17
+E20	Distant_Expectations_Consequences:T20 
+T21	Distant_Expectations_Consequences 2604 2607	S18
+E21	Distant_Expectations_Consequences:T21 
+T22	Distant_Expectations_Consequences 2746 2749	S19
+E22	Distant_Expectations_Consequences:T22 
+T23	Distant_Expectations_Consequences 2874 2877	S20
+E23	Distant_Expectations_Consequences:T23 
+T24	Cause_General 3023 3026	S21
+E24	Cause_General:T24 
+T25	Distant_Historical 3108 3111	S22
+E25	Distant_Historical:T25 
+T26	Distant_Historical 3355 3358	S23
+E26	Distant_Historical:T26 
+T27	Distant_Expectations_Consequences 3605 3608	S24
+E27	Distant_Expectations_Consequences:T27 
+T28	Distant_Expectations_Consequences 3723 3726	S25
+E28	Distant_Expectations_Consequences:T28 

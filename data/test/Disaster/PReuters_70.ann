@@ -1,0 +1,22 @@
+T1	Main 294 296	S1
+E1	Main:T1 
+T2	Distant_Historical 506 508	S2
+E2	Distant_Historical:T2 
+T3	Cause_Specific 697 699	S3
+E3	Cause_Specific:T3 
+T4	Main 886 888	S4
+E4	Main:T4 
+T5	Cause_General 1105 1107	S5
+E5	Cause_General:T5 
+T6	Cause_General 1270 1272	S6
+E6	Cause_General:T6 
+T7	Cause_General 1484 1486	S7
+E7	Cause_General:T7 
+T8	Cause_General 1603 1605	S8
+E8	Cause_General:T8 
+T9	Cause_General 1765 1767	S9
+E9	Cause_General:T9 
+T10	Speech 1829 1832	S10
+E10	Speech:T10 
+T11	Distant_Evaluation 1829 1832	S10
+E11	Distant_Evaluation:T11 

@@ -1,0 +1,80 @@
+T1	Speech 920 922	S4
+E1	Speech:T1 
+T2	Speech 1097 1099	S5
+E2	Speech:T2 
+T3	Speech 1378 1380	S7
+E3	Speech:T3 
+T4	NA 1962 1965	S11
+E4	NA:T4 
+T5	NA 2568 2571	S17
+E5	NA:T5 
+T6	NA 2672 2675	S18
+E6	NA:T6 
+T7	Speech 3180 3183	S22
+E7	Speech:T7 
+T8	Speech 4663 4666	S30
+E8	Speech:T8 
+T9	NA 4920 4923	S31
+E9	NA:T9 
+T10	Main 252 254	S1
+E10	Main:T10 
+T11	Cause_General 505 507	S2
+E11	Cause_General:T11 
+T12	Cause_General 734 736	S3
+E12	Cause_General:T12 
+T13	Distant_Evaluation 920 922	S4
+E13	Distant_Evaluation:T13 
+T14	Distant_Expectations_Consequences 1097 1099	S5
+E14	Distant_Expectations_Consequences:T14 
+T15	Main 1179 1181	S6
+E15	Main:T15 
+T16	Distant_Evaluation 1378 1380	S7
+E16	Distant_Evaluation:T16 
+T17	Cause_Specific 1613 1615	S8
+E17	Cause_Specific:T17 
+T18	Cause_General 1782 1784	S9
+E18	Cause_General:T18 
+T19	Cause_General 1838 1841	S10
+E19	Cause_General:T19 
+T20	Distant_Evaluation 2048 2051	S12
+E20	Distant_Evaluation:T20 
+T21	Distant_Evaluation 2161 2164	S13
+E21	Distant_Evaluation:T21 
+T22	Cause_General 2261 2264	S14
+E22	Cause_General:T22 
+T23	Cause_General 2340 2343	S15
+E23	Cause_General:T23 
+T24	Cause_General 2427 2430	S16
+E24	Cause_General:T24 
+T25	Cause_General 2702 2705	S19
+E25	Cause_General:T25 
+T26	Cause_General 2953 2956	S20
+E26	Cause_General:T26 
+T27	Cause_General 3015 3018	S21
+E27	Cause_General:T27 
+T28	Distant_Evaluation 3180 3183	S22
+E28	Distant_Evaluation:T28 
+T29	Main 4946 4949	S32
+E29	Main:T29 
+T30	Cause_General 5030 5033	S33
+E30	Cause_General:T30 
+T31	Cause_General 5110 5113	S34
+E31	Cause_General:T31 
+T32	Cause_General 5277 5280	S35
+E32	Cause_General:T32 
+T33	Cause_General 3891 3894	S25
+E33	Cause_General:T33 
+T34	Cause_General 4083 4086	S26
+E34	Cause_General:T34 
+T35	Cause_General 4232 4235	S27
+E35	Cause_General:T35 
+T36	Distant_Evaluation 4663 4666	S30
+E36	Distant_Evaluation:T36 
+T37	Cause_General 4411 4414	S28
+E37	Cause_General:T37 
+T38	Cause_General 4591 4594	S29
+E38	Cause_General:T38 
+T39	Cause_General 3649 3652	S24
+E39	Cause_General:T39 
+T40	Cause_General 3431 3434	S23
+E40	Cause_General:T40 

@@ -1,0 +1,68 @@
+T1	Speech 307 309	S1
+E1	Speech:T1 
+T2	NA 556 558	S2
+E2	NA:T2 
+T3	NA 766 768	S3
+E3	NA:T3 
+T4	Speech 1716 1719	S10
+E4	Speech:T4 
+T5	Speech 1801 1804	S11
+E5	Speech:T5 
+T6	Speech 1951 1954	S12
+E6	Speech:T6 
+T7	Speech 2048 2051	S13
+E7	Speech:T7 
+T8	Speech 2124 2127	S14
+E8	Speech:T8 
+T9	Speech 2200 2203	S15
+E9	Speech:T9 
+T10	Speech 2255 2258	S16
+E10	Speech:T10 
+T11	Speech 2361 2364	S17
+E11	Speech:T11 
+T12	Main 307 309	S1
+E12	Main:T12 
+T13	Cause_Specific 795 797	S4
+E13	Cause_Specific:T13 
+T14	Distant_Evaluation 983 985	S5
+E14	Distant_Evaluation:T14 
+T15	Distant_Expectations_Consequences 1084 1086	S6
+E15	Distant_Expectations_Consequences:T15 
+T16	Cause_General 1222 1224	S7
+E16	Cause_General:T16 
+T17	Cause_General 1497 1499	S8
+E17	Cause_General:T17 
+T18	Cause_General 1613 1615	S9
+E18	Cause_General:T18 
+T19	Distant_Evaluation 1716 1719	S10
+E19	Distant_Evaluation:T19 
+T20	Main 1801 1804	S11
+E20	Main:T20 
+T21	Main 1951 1954	S12
+E21	Main:T21 
+T22	Distant_Expectations_Consequences 2048 2051	S13
+E22	Distant_Expectations_Consequences:T22 
+T23	Distant_Evaluation 2124 2127	S14
+E23	Distant_Evaluation:T23 
+T24	Distant_Evaluation 2200 2203	S15
+E24	Distant_Evaluation:T24 
+T25	Distant_Evaluation 2255 2258	S16
+E25	Distant_Evaluation:T25 
+T26	Distant_Evaluation 2361 2364	S17
+E26	Distant_Evaluation:T26 
+T27	Distant_Expectations_Consequences 2484 2487	S18
+E27	Distant_Expectations_Consequences:T27 
+T28	Distant_Expectations_Consequences 2645 2648	S19
+E28	Distant_Expectations_Consequences:T28 
+T29	Distant_Expectations_Consequences 2693 2696	S20
+E29	Distant_Expectations_Consequences:T29 
+T30	Distant_Expectations_Consequences 2789 2792	S21
+E30	Distant_Expectations_Consequences:T30 
+T31	Distant_Expectations_Consequences 2874 2877	S22
+E31	Distant_Expectations_Consequences:T31 
+T32	Distant_Expectations_Consequences 3007 3010	S23
+E32	Distant_Expectations_Consequences:T32 
+T33	Cause_General 3162 3165	S24
+E33	Cause_General:T33 
+T34	Cause_General 3327 3330	S25
+E34	Cause_General:T34 

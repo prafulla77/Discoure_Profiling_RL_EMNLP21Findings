@@ -1,0 +1,48 @@
+T1	Main 324 326	S1
+E1	Main:T1 
+T2	Distant_Historical 572 574	S2
+E2	Distant_Historical:T2 
+T3	Cause_General 734 736	S3
+E3	Cause_General:T3 
+T4	Speech 919 921	S4
+E4	Speech:T4 
+T5	Cause_General 919 921	S4
+E5	Cause_General:T5 
+T6	Distant_Historical 1167 1169	S5
+E6	Distant_Historical:T6 
+T7	Cause_General 1283 1285	S6
+E7	Cause_General:T7 
+T8	Distant_Evaluation 1499 1501	S7
+E8	Distant_Evaluation:T8 
+T9	Distant_Historical 1752 1754	S8
+E9	Distant_Historical:T9 
+T10	Distant_Historical 1855 1857	S9
+E10	Distant_Historical:T10 
+T11	Distant_Historical 1885 1888	S10
+E11	Distant_Historical:T11 
+T12	Speech 2017 2020	S11
+E12	Speech:T12 
+T13	Distant_Expectations_Consequences 2017 2020	S11
+E13	Distant_Expectations_Consequences:T13 
+T14	Distant_Evaluation 2137 2140	S12
+E14	Distant_Evaluation:T14 
+T15	Speech 2225 2228	S13
+E15	Speech:T15 
+T16	Distant_Evaluation 2225 2228	S13
+E16	Distant_Evaluation:T16 
+T17	Distant_Evaluation 2380 2383	S14
+E17	Distant_Evaluation:T17 
+T18	Speech 2380 2383	S14
+E18	Speech:T18 
+T19	Speech 2570 2573	S15
+E19	Speech:T19 
+T20	Distant_Evaluation 2570 2573	S15
+E20	Distant_Evaluation:T20 
+T21	Distant_Evaluation 2688 2691	S16
+E21	Distant_Evaluation:T21 
+T22	Speech 2688 2691	S16
+E22	Speech:T22 
+T23	Cause_General 2937 2940	S18
+E23	Cause_General:T23 
+T24	Cause_General 2740 2743	S17
+E24	Cause_General:T24 

@@ -1,0 +1,102 @@
+T1	NA 570 572	S2
+E1	NA:T1 
+T2	Distant_Anecdotal 933 935	S4
+E2	Distant_Anecdotal:T2 
+T3	Distant_Anecdotal 972 974	S5
+E3	Distant_Anecdotal:T3 
+T4	Distant_Anecdotal 1141 1143	S6
+E4	Distant_Anecdotal:T4 
+T5	Distant_Anecdotal 1184 1186	S7
+E5	Distant_Anecdotal:T5 
+T6	Distant_Anecdotal 1233 1235	S8
+E6	Distant_Anecdotal:T6 
+T7	Distant_Anecdotal 1259 1261	S9
+E7	Distant_Anecdotal:T7 
+T8	Distant_Anecdotal 1296 1299	S10
+E8	Distant_Anecdotal:T8 
+T9	Speech 933 935	S4
+E9	Speech:T9 
+T10	Speech 972 974	S5
+E10	Speech:T10 
+T11	Speech 1184 1186	S7
+E11	Speech:T11 
+T12	Speech 1233 1235	S8
+E12	Speech:T12 
+T13	Speech 1259 1261	S9
+E13	Speech:T13 
+T14	Speech 1296 1299	S10
+E14	Speech:T14 
+T15	Distant_Historical 2104 2107	S16
+E15	Distant_Historical:T15 
+T16	NA 4725 4728	S31
+E16	NA:T16 
+T17	Distant_Expectations_Consequences 4882 4885	S32
+E17	Distant_Expectations_Consequences:T17 
+T18	Speech 5123 5126	S33
+E18	Speech:T18 
+T19	Distant_Anecdotal 5123 5126	S33
+E19	Distant_Anecdotal:T19 
+T20	Distant_Anecdotal 5284 5287	S34
+E20	Distant_Anecdotal:T20 
+T21	Distant_Anecdotal 5426 5429	S35
+E21	Distant_Anecdotal:T21 
+T22	Speech 5284 5287	S34
+E22	Speech:T22 
+T23	Speech 5426 5429	S35
+E23	Speech:T23 
+T24	Cause_General 291 293	S1
+E24	Cause_General:T24 
+T25	Cause_General 717 719	S3
+E25	Cause_General:T25 
+T26	Distant_Evaluation 1362 1365	S11
+E26	Distant_Evaluation:T26 
+T27	Cause_Specific 1608 1611	S12
+E27	Cause_Specific:T27 
+T28	Cause_General 1844 1847	S13
+E28	Cause_General:T28 
+T29	Distant_Evaluation 1965 1968	S14
+E29	Distant_Evaluation:T29 
+T30	Distant_Historical 2313 2316	S17
+E30	Distant_Historical:T30 
+T31	Distant_Historical 2088 2091	S15
+E31	Distant_Historical:T31 
+T32	Distant_Evaluation 2537 2540	S18
+E32	Distant_Evaluation:T32 
+T33	Speech 2537 2540	S18
+E33	Speech:T33 
+T34	Distant_Evaluation 2778 2781	S19
+E34	Distant_Evaluation:T34 
+T35	Speech 2778 2781	S19
+E35	Speech:T35 
+T36	Main 2860 2863	S20
+E36	Main:T36 
+T37	Cause_General 2973 2976	S21
+E37	Cause_General:T37 
+T38	Distant_Evaluation 3104 3107	S22
+E38	Distant_Evaluation:T38 
+T39	Speech 3104 3107	S22
+E39	Speech:T39 
+T40	Distant_Evaluation 3222 3225	S23
+E40	Distant_Evaluation:T40 
+T41	Speech 3222 3225	S23
+E41	Speech:T41 
+T42	Distant_Expectations_Consequences 3287 3290	S24
+E42	Distant_Expectations_Consequences:T42 
+T43	Main 3506 3509	S25
+E43	Main:T43 
+T44	Distant_Expectations_Consequences 3739 3742	S26
+E44	Distant_Expectations_Consequences:T44 
+T45	Distant_Evaluation 3987 3990	S27
+E45	Distant_Evaluation:T45 
+T46	Speech 3987 3990	S27
+E46	Speech:T46 
+T47	Distant_Evaluation 4230 4233	S28
+E47	Distant_Evaluation:T47 
+T48	Speech 4230 4233	S28
+E48	Speech:T48 
+T49	Distant_Evaluation 4465 4468	S29
+E49	Distant_Evaluation:T49 
+T50	Speech 4465 4468	S29
+E50	Speech:T50 
+T51	Cause_General 4528 4531	S30
+E51	Cause_General:T51 

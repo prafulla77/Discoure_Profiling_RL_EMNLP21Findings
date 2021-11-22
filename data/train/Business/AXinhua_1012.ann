@@ -1,0 +1,16 @@
+T1	NA 155 157	S1
+E1	NA:T1 
+T2	NA 209 211	S2
+E2	NA:T2 
+T3	Main 232 234	S3
+E3	Main:T3 
+T4	Cause_General 395 397	S4
+E4	Cause_General:T4 
+T5	Cause_General 491 493	S5
+E5	Cause_General:T5 
+T6	Cause_General 572 574	S6
+E6	Cause_General:T6 
+T7	Cause_General 714 716	S7
+E7	Cause_General:T7 
+T8	Cause_General 798 800	S8
+E8	Cause_General:T8 

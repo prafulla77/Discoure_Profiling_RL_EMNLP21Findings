@@ -1,0 +1,84 @@
+T1	NA 200 202	S1
+E1	NA:T1 
+T2	NA 259 261	S2
+E2	NA:T2 
+T3	NA 282 284	S3
+E3	NA:T3 
+T4	NA 445 447	S4
+E4	NA:T4 
+T5	NA 472 474	S5
+E5	NA:T5 
+T6	Main 491 493	S6
+E6	Main:T6 
+T7	Distant_Evaluation 756 758	S7
+E7	Distant_Evaluation:T7 
+T8	Speech 756 758	S7
+E8	Speech:T8 
+T9	Cause_General 930 932	S8
+E9	Cause_General:T9 
+T10	Distant_Evaluation 1263 1265	S9
+E10	Distant_Evaluation:T10 
+T11	Speech 1263 1265	S9
+E11	Speech:T11 
+T12	Cause_General 1372 1375	S10
+E12	Cause_General:T12 
+T13	Cause_General 1516 1519	S11
+E13	Cause_General:T13 
+T14	Speech 1722 1725	S12
+E14	Speech:T14 
+T15	Distant_Evaluation 1722 1725	S12
+E15	Distant_Evaluation:T15 
+T16	Distant_Historical 1857 1860	S13
+E16	Distant_Historical:T16 
+T17	Cause_General 2052 2055	S14
+E17	Cause_General:T17 
+T18	Cause_General 2231 2234	S15
+E18	Cause_General:T18 
+T19	Speech 2394 2397	S16
+E19	Speech:T19 
+T20	Distant_Expectations_Consequences 2394 2397	S16
+E20	Distant_Expectations_Consequences:T20 
+T21	Distant_Expectations_Consequences 2551 2554	S17
+E21	Distant_Expectations_Consequences:T21 
+T22	Speech 2551 2554	S17
+E22	Speech:T22 
+T23	Speech 2656 2659	S18
+E23	Speech:T23 
+T24	Distant_Expectations_Consequences 2656 2659	S18
+E24	Distant_Expectations_Consequences:T24 
+T25	Speech 3006 3009	S19
+E25	Speech:T25 
+T26	Distant_Expectations_Consequences 3006 3009	S19
+E26	Distant_Expectations_Consequences:T26 
+T27	Speech 3132 3135	S20
+E27	Speech:T27 
+T28	Distant_Evaluation 3132 3135	S20
+E28	Distant_Evaluation:T28 
+T29	Speech 3192 3195	S21
+E29	Speech:T29 
+T30	Distant_Evaluation 3192 3195	S21
+E30	Distant_Evaluation:T30 
+T31	Distant_Expectations_Consequences 3316 3319	S22
+E31	Distant_Expectations_Consequences:T31 
+T32	Speech 3316 3319	S22
+E32	Speech:T32 
+T33	Speech 3537 3540	S23
+E33	Speech:T33 
+T34	Cause_Specific 3537 3540	S23
+E34	Cause_Specific:T34 
+T35	Main 3765 3768	S24
+E35	Main:T35 
+T36	Speech 3765 3768	S24
+E36	Speech:T36 
+T37	Distant_Expectations_Consequences 3906 3909	S25
+E37	Distant_Expectations_Consequences:T37 
+T38	Speech 3906 3909	S25
+E38	Speech:T38 
+T39	Speech 4064 4067	S26
+E39	Speech:T39 
+T40	Distant_Expectations_Consequences 4064 4067	S26
+E40	Distant_Expectations_Consequences:T40 
+T41	Distant_Expectations_Consequences 4215 4218	S27
+E41	Distant_Expectations_Consequences:T41 
+T42	Speech 4215 4218	S27
+E42	Speech:T42 

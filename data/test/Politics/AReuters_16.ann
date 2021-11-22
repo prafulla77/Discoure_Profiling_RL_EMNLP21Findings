@@ -1,0 +1,72 @@
+T1	NA 534 536	S2
+E1	NA:T1 
+T2	NA 687 689	S3
+E2	NA:T2 
+T3	Speech 1227 1229	S7
+E3	Speech:T3 
+T4	Speech 1586 1588	S8
+E4	Speech:T4 
+T5	Distant_Historical 4126 4129	S26
+E5	Distant_Historical:T5 
+T6	Speech 4551 4554	S28
+E6	Speech:T6 
+T7	Speech 4705 4708	S29
+E7	Speech:T7 
+T8	Speech 5007 5010	S31
+E8	Speech:T8 
+T9	Main 308 310	S1
+E9	Main:T9 
+T10	Distant_Evaluation 723 725	S4
+E10	Distant_Evaluation:T10 
+T11	Cause_General 860 862	S5
+E11	Cause_General:T11 
+T12	Cause_Specific 995 997	S6
+E12	Cause_Specific:T12 
+T13	Distant_Evaluation 1227 1229	S7
+E13	Distant_Evaluation:T13 
+T14	Distant_Evaluation 1586 1588	S8
+E14	Distant_Evaluation:T14 
+T15	Cause_General 1679 1681	S9
+E15	Cause_General:T15 
+T16	Distant_Expectations_Consequences 1747 1750	S10
+E16	Distant_Expectations_Consequences:T16 
+T17	Distant_Expectations_Consequences 1943 1946	S11
+E17	Distant_Expectations_Consequences:T17 
+T18	Cause_Specific 2029 2032	S12
+E18	Cause_Specific:T18 
+T19	Cause_Specific 2151 2154	S13
+E19	Cause_Specific:T19 
+T20	Cause_Specific 2272 2275	S14
+E20	Cause_Specific:T20 
+T21	Cause_Specific 2448 2451	S15
+E21	Cause_Specific:T21 
+T22	Cause_Specific 2642 2645	S16
+E22	Cause_Specific:T22 
+T23	Cause_Specific 2860 2863	S17
+E23	Cause_Specific:T23 
+T24	Cause_Specific 2971 2974	S18
+E24	Cause_Specific:T24 
+T25	Cause_Specific 3087 3090	S19
+E25	Cause_Specific:T25 
+T26	Distant_Evaluation 3261 3264	S20
+E26	Distant_Evaluation:T26 
+T27	Distant_Evaluation 3353 3356	S21
+E27	Distant_Evaluation:T27 
+T28	Cause_General 3564 3567	S23
+E28	Cause_General:T28 
+T29	Distant_Expectations_Consequences 3733 3736	S24
+E29	Distant_Expectations_Consequences:T29 
+T30	Cause_General 3888 3891	S25
+E30	Cause_General:T30 
+T31	Cause_Specific 4297 4300	S27
+E31	Cause_Specific:T31 
+T32	Main_Consequence 4551 4554	S28
+E32	Main_Consequence:T32 
+T33	Main_Consequence 3531 3534	S22
+E33	Main_Consequence:T33 
+T34	Main_Consequence 4705 4708	S29
+E34	Main_Consequence:T34 
+T35	Cause_Specific 4840 4843	S30
+E35	Cause_Specific:T35 
+T36	Distant_Expectations_Consequences 5007 5010	S31
+E36	Distant_Expectations_Consequences:T36 

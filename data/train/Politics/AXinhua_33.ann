@@ -1,0 +1,68 @@
+T1	NA 197 199	S1
+E1	NA:T1 
+T2	NA 251 253	S2
+E2	NA:T2 
+T3	Speech 543 545	S4
+E3	Speech:T3 
+T4	Speech 810 812	S5
+E4	Speech:T4 
+T5	Speech 1060 1062	S6
+E5	Speech:T5 
+T6	Speech 1303 1305	S7
+E6	Speech:T6 
+T7	Speech 2301 2304	S11
+E7	Speech:T7 
+T8	Speech 2594 2597	S12
+E8	Speech:T8 
+T9	Speech 2710 2713	S13
+E9	Speech:T9 
+T10	Speech 3049 3052	S15
+E10	Speech:T10 
+T11	Speech 3228 3231	S16
+E11	Speech:T11 
+T12	Speech 3309 3312	S17
+E12	Speech:T12 
+T13	Speech 3501 3504	S18
+E13	Speech:T13 
+T14	Speech 3565 3568	S19
+E14	Speech:T14 
+T15	Speech 3857 3860	S20
+E15	Speech:T15 
+T16	Distant_Expectations_Consequences 4072 4075	S21
+E16	Distant_Expectations_Consequences:T16 
+T17	Main 274 276	S3
+E17	Main:T17 
+T18	Main 543 545	S4
+E18	Main:T18 
+T19	Main 810 812	S5
+E19	Main:T19 
+T20	Main 1060 1062	S6
+E20	Main:T20 
+T21	Main 1303 1305	S7
+E21	Main:T21 
+T22	Cause_General 1415 1417	S8
+E22	Cause_General:T22 
+T23	Distant_Expectations_Consequences 1823 1825	S9
+E23	Distant_Expectations_Consequences:T23 
+T24	Cause_General 2001 2004	S10
+E24	Cause_General:T24 
+T25	Main 2301 2304	S11
+E25	Main:T25 
+T26	Main 2594 2597	S12
+E26	Main:T26 
+T27	Main 2710 2713	S13
+E27	Main:T27 
+T28	Main 2890 2893	S14
+E28	Main:T28 
+T29	Main 3049 3052	S15
+E29	Main:T29 
+T30	Main 3228 3231	S16
+E30	Main:T30 
+T31	Main 3309 3312	S17
+E31	Main:T31 
+T32	Main 3501 3504	S18
+E32	Main:T32 
+T33	Main 3565 3568	S19
+E33	Main:T33 
+T34	Main 3857 3860	S20
+E34	Main:T34 

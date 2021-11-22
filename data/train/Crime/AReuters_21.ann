@@ -1,0 +1,36 @@
+T1	Speech 274 276	S1
+E1	Speech:T1 
+T2	Speech 472 474	S2
+E2	Speech:T2 
+T3	Speech 716 718	S3
+E3	Speech:T3 
+T4	Speech 1106 1108	S6
+E4	Speech:T4 
+T5	Speech 1408 1410	S9
+E5	Speech:T5 
+T6	Main 274 276	S1
+E6	Main:T6 
+T7	Cause_General 472 474	S2
+E7	Cause_General:T7 
+T8	Cause_General 716 718	S3
+E8	Cause_General:T8 
+T9	Cause_General 945 947	S4
+E9	Cause_General:T9 
+T10	Cause_General 1007 1009	S5
+E10	Cause_General:T10 
+T11	Cause_Specific 1106 1108	S6
+E11	Cause_Specific:T11 
+T12	Cause_General 1236 1238	S7
+E12	Cause_General:T12 
+T13	Cause_Specific 1281 1283	S8
+E13	Cause_Specific:T13 
+T14	Main 1408 1410	S9
+E14	Main:T14 
+T15	Distant_Historical 1472 1475	S10
+E15	Distant_Historical:T15 
+T16	Distant_Historical 1592 1595	S11
+E16	Distant_Historical:T16 
+T17	Distant_Historical 1720 1723	S12
+E17	Distant_Historical:T17 
+T18	Distant_Evaluation 1827 1830	S13
+E18	Distant_Evaluation:T18 

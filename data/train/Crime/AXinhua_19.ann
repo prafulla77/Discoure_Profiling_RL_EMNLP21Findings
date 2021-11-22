@@ -1,0 +1,22 @@
+T1	Speech 463 465	S3
+E1	Speech:T1 
+T2	Distant_Historical 1127 1129	S7
+E2	Distant_Historical:T2 
+T3	Main 167 169	S1
+E3	Main:T3 
+T4	Cause_Specific 356 358	S2
+E4	Cause_Specific:T4 
+T5	Distant_Expectations_Consequences 463 465	S3
+E5	Distant_Expectations_Consequences:T5 
+T6	Cause_Specific 609 611	S4
+E6	Cause_Specific:T6 
+T7	Distant_Evaluation 754 756	S5
+E7	Distant_Evaluation:T7 
+T8	Distant_Evaluation 950 952	S6
+E8	Distant_Evaluation:T8 
+T9	Distant_Evaluation 1221 1223	S8
+E9	Distant_Evaluation:T9 
+T10	Cause_General 1430 1432	S9
+E10	Cause_General:T10 
+T11	Distant_Expectations_Consequences 1548 1551	S10
+E11	Distant_Expectations_Consequences:T11 

@@ -1,0 +1,34 @@
+URL https://www.reuters.com/article/us-equifax-cyber/uk-regulator-fines-equifax-ltd-500000-pounds-for-2017-security-breach-idUSKCN1LZ311
+
+DATE/ AUTHOR 2018-09-20 01:04:46+00:00	AUTHORS: Reuters Editorial, Min Read
+
+H UK regulator fines Equifax Ltd 500,000 pounds for 2017 security breach
+
+S1 (Reuters) - A British regulator on Thursday fined credit reference company Equifax Inc’s UK arm, Equifax Ltd, 500,000 pounds for failing to protect the personal information of up to 15 million people in Britain during a 2017 cyber attack.
+
+S2 The Information Commissioner’s Office (ICO) said in a statement its investigation found that although Equifax systems in the United States were compromised, Equifax Ltd was responsible for the personal information of its customers in Britain.
+
+S3 Equifax said its UK office received the Monetary Penalty Notice from the ICO on Wednesday and was evaluating the notice and its response.
+
+S4 Equifax added that it cooperated fully throughout the investigation.
+
+S5 The cyber attack, which took place between May 13 and July 30, 2017, affected 146 million Equifax customers globally, the ICO said.
+S6 bit.ly/2xv5cTk
+
+S7 The British arm of the company failed to take appropriate steps to ensure its American parent company, Equifax Inc, which was processing the data on its behalf, was protecting the information, the ICO said.
+
+S8 It said the investigation, carried out in parallel with the Financial Conduct Authority, revealed multiple failures at the company, which led to personal information being retained for longer than necessary and vulnerable to unauthorized access.
+
+S9 The personal information lost or compromised ranged from names and dates of birth to addresses, passwords, driving license and financial details.
+
+S10 Equifax contravened five out of eight data protection principles of the Data Protection Act 1998, including failure to secure personal data, poor retention practices and lack of legal basis for international transfers of UK citizens’ data, the ICO said.
+
+S11 The ICO found that measures that should have been in place to manage the personal information were inadequate and ineffective.
+S12 Investigators found significant problems with data retention, IT system patching and audit procedures.
+
+S13 The investigation also found that the U.S. Department of Homeland Security had warned Equifax about a critical vulnerability as far back as March 2017 and that sufficient steps to address the vulnerability were not taken, the ICO said.
+
+S14 As a credit reporting agency, Equifax keeps vast amounts of consumer data for banks and other creditors to use to determine the chances of their customers’ defaulting.
+
+S15 Equifax first disclosed in September 2017 that it had been the target of a massive data breach, mostly in the United States.
+

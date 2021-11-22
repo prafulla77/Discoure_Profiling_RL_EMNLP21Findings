@@ -1,0 +1,27 @@
+H  NEW POWERS INVOKED TO CURB A HIGH-SPEED TRADING FEINT 
+
+S1  Regulators are using new powers to crack down on a high-speed trading firm that they contend was trying to manipulate the prices of futures contracts.
+
+S2  The Commodity Futures Trading Commission said Monday that it had set penalties of $2.8 million on Panther Energy Trading for a practice known as “spoofing,” in which bogus orders are used to draw in other traders.
+S3 The firm and its owner, Michael J. Coscia, were also barred from trading for a year.
+
+S4  The agency said it was the first case to be brought using new rules against spoofing contained in the Dodd-Frank financial reform legislation.
+
+S5  In addition, British regulators imposed their own fine of $903,176 on Coscia, while the Chicago Mercantile Exchange set a penalty of $2.1 million on Panther Energy and Coscia, who was also banned from trading on its exchanges for six months.
+
+S6  A number of regulatory agencies have stepped up their scrutiny of high-speed trading firms, which are coming to dominate a growing number of financial markets.
+S7 On Friday, the Financial Industry Regulatory Authority sent letters to 10 firms asking for information about their systems and controls.
+
+S8  Panther Energy Trading, based in Red Bank, N.J., engaged in the problematic practices for two months in 2011 on the Chicago Mercantile Exchange’s electronic trading platform, according to the order filed by the futures commission.
+S9 The order said the firm and Coscia used computer programs to place orders to buy futures contracts, hoping to give other traders the impression that the price of a contract was heading higher.
+S10 Panther would sell contracts at that higher price before quickly canceling its buy orders, the commission said.
+S11 Panther used the strategy in 18 types of futures contracts, including those involving oil, natural gas and corn.
+
+S12  “We will use the Dodd-Frank anti-disruptive practices provision against schemes like this one to protect market participants and promote market integrity, particularly in the growing world of electronic trading platforms,” the agency’s enforcement director, David Meister, said in a statement.
+
+S13  Bart Chilton, a commissioner with the agency who has been critical of high-speed trading, called the one-year trading ban inadequate.
+
+S14  Chilton said in a concurring statement that the violation “warrants the imposition of a much more significant trading ban to protect markets and consumers, and to act as a sufficient deterrent to other would-be wrongdoers.”
+
+S15  A person who answered the phone at Panther said the firm and Coscia had no comment on the case.
+

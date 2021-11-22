@@ -1,0 +1,22 @@
+T1	NA 179 181	S1
+E1	NA:T1 
+T2	NA 231 233	S2
+E2	NA:T2 
+T3	Main 254 256	S3
+E3	Main:T3 
+T4	Cause_General 473 475	S4
+E4	Cause_General:T4 
+T5	Cause_General 593 595	S5
+E5	Cause_General:T5 
+T6	Distant_Historical 727 729	S6
+E6	Distant_Historical:T6 
+T7	Distant_Evaluation 870 872	S7
+E7	Distant_Evaluation:T7 
+T8	Cause_General 1051 1053	S8
+E8	Cause_General:T8 
+T9	Cause_General 1174 1176	S9
+E9	Cause_General:T9 
+T10	Cause_General 1383 1386	S10
+E10	Cause_General:T10 
+T11	Distant_Historical 1490 1493	S11
+E11	Distant_Historical:T11 

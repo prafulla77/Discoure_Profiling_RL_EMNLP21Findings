@@ -1,0 +1,18 @@
+T1	Main 206 208	S1
+E1	Main:T1 
+T2	Speech 206 208	S1
+E2	Speech:T2 
+T3	Cause_General 415 417	S2
+E3	Cause_General:T3 
+T4	Cause_General 592 594	S3
+E4	Cause_General:T4 
+T5	Speech 592 594	S3
+E5	Speech:T5 
+T6	Cause_General 666 668	S4
+E6	Cause_General:T6 
+T7	Cause_General 858 860	S5
+E7	Cause_General:T7 
+T8	Cause_General 961 963	S6
+E8	Cause_General:T8 
+T9	Cause_General 1090 1092	S7
+E9	Cause_General:T9 

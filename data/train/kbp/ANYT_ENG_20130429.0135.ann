@@ -1,0 +1,70 @@
+T1	Speech 517 519	S4
+E1	Speech:T1 
+T2	Speech 1152 1155	S10
+E2	Speech:T2 
+T3	Speech 1330 1333	S11
+E3	Speech:T3 
+T4	Speech 2415 2418	S18
+E4	Speech:T4 
+T5	Speech 2689 2692	S19
+E5	Speech:T5 
+T6	Speech 2810 2813	S20
+E6	Speech:T6 
+T7	Speech 2876 2879	S21
+E7	Speech:T7 
+T8	Speech 3079 3082	S22
+E8	Speech:T8 
+T9	Speech 3256 3259	S24
+E9	Speech:T9 
+T10	Speech 3388 3391	S25
+E10	Speech:T10 
+T11	Main 57 59	S1
+E11	Main:T11 
+T12	Cause_General 359 361	S2
+E12	Cause_General:T12 
+T13	Cause_General 405 407	S3
+E13	Cause_General:T13 
+T14	Distant_Evaluation 517 519	S4
+E14	Distant_Evaluation:T14 
+T15	Main 636 638	S5
+E15	Main:T15 
+T16	Main 782 784	S6
+E16	Main:T16 
+T17	Main 931 933	S7
+E17	Main:T17 
+T18	Cause_General 995 997	S8
+E18	Cause_General:T18 
+T19	Cause_General 1117 1119	S9
+E19	Cause_General:T19 
+T20	Distant_Evaluation 1152 1155	S10
+E20	Distant_Evaluation:T20 
+T21	Distant_Evaluation 1330 1333	S11
+E21	Distant_Evaluation:T21 
+T22	Main_Consequence 1390 1393	S12
+E22	Main_Consequence:T22 
+T23	Cause_General 1618 1621	S13
+E23	Cause_General:T23 
+T24	Cause_Specific 1817 1820	S14
+E24	Cause_Specific:T24 
+T25	Cause_Specific 2028 2031	S15
+E25	Cause_Specific:T25 
+T26	Cause_Specific 2139 2142	S16
+E26	Cause_Specific:T26 
+T27	Cause_Specific 2279 2282	S17
+E27	Cause_Specific:T27 
+T28	Cause_Specific 2415 2418	S18
+E28	Cause_Specific:T28 
+T29	Distant_Evaluation 2689 2692	S19
+E29	Distant_Evaluation:T29 
+T30	Distant_Expectations_Consequences 2810 2813	S20
+E30	Distant_Expectations_Consequences:T30 
+T31	Cause_Specific 2876 2879	S21
+E31	Cause_Specific:T31 
+T32	Cause_Specific 3079 3082	S22
+E32	Cause_Specific:T32 
+T33	Cause_Specific 3140 3143	S23
+E33	Cause_Specific:T33 
+T34	Distant_Evaluation 3256 3259	S24
+E34	Distant_Evaluation:T34 
+T35	Distant_Expectations_Consequences 3388 3391	S25
+E35	Distant_Expectations_Consequences:T35 

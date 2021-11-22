@@ -1,0 +1,50 @@
+URL https://www.reuters.com/article/us-health-ethics-genealogy-dna/experts-outline-ethics-issues-with-use-of-genealogy-dna-to-solve-crimes-idUSKCN1IX5O6
+
+DATE/ AUTHOR 2018-06-01 19:00:03+00:00	AUTHORS: Carolyn Crist, Min Read
+
+H Experts outline ethics issues with use of genealogy DNA to solve crimes
+
+S1 (Reuters Health) - With recent revelations that U.S. law enforcement can - and already has - dipped into consumer genealogy DNA databases to help solve crimes, experts say more discussion of the ethical issues raised by this unintended use of personal information is needed.
+
+S2 It’s unclear, for instance, whether online genealogy site users know their DNA is available to criminal investigators - and whether they’d object to it being used for that purpose, write the authors of an essay exploring the topic in the Annals of Internal Medicine.
+
+S3 “We’re seeing a divide about this right now.
+S4 On one hand, it’s a powerful technology to solve cases, but it also raises questions for consumers,” said lead author Benjamin Berkman, who heads the section on the ethics of genetics and new technologies at the National Institutes of Health’s Department of Bioethics in Bethesda, Maryland.
+
+S5 “The idea that they upload their data for genealogy purposes and it’s used in such a different way really surprises some people,” he told Reuters Health in a telephone interview.
+S6 “The terms of service agreements don’t explain this clearly, and even if they did, people wouldn’t read it or find it in the dense legalese.”
+
+S7 Berkman and his co-authors were moved to write about the issue after the April arrest of a 72-year-old man suspected of being the Golden State Killer, a serial rapist and murderer who committed at least 12 murders, more than 50 rapes and more than 100 burglaries in California from 1974 to 1986.
+S8 Police detectives had compared DNA from several crime scenes against online DNA-genealogy data to track down this suspect.
+
+S9 Although investigators have long used DNA for forensic purposes, they have typically compared samples to databases created specifically for criminal justice purposes, the authors note.
+
+S10 And in the realm of scientific and medical research, people who provide samples have clear expectations for “informed consent.” They want researchers to ask permission, but are generally comfortable with giving it for wide-ranging research uses of the material.
+
+S11 Ethicists disagree over how specific consumers’ consent should be for their genealogy DNA information.
+
+S12 “Genealogy is typically done for entertainment purposes,” Berkman said.
+S13 “People may not realize uploading their DNA could be responsible for a cousin’s arrest as well.”
+
+S14 This use of DNA information has consequences beyond the person who uploaded it.
+S15 It can result in arrests of guilty relatives for crimes they committed but also potentially false-positives mistakenly identifying innocent people, the study authors note.
+S16 When investigators conduct forensics research with genealogy DNA, they may also interview suspects and contact relatives to obtain more information.
+
+S17 Since law enforcement agencies haven’t been clear about how these investigations are conducted, it’s tough to debate whether these communications are harmful or an ethical quandary, said Stephanie Malia Fullerton of the University of Washington School of Medicine’s Department of Bioethics and Humanities, who wasn’t involved in the essay.
+
+S18 “We don’t actually know how many people who have placed their data in these online databases are subject to forensic uses,” she said in a telephone interview.
+S19 “We also don’t know how these partial genetic matches are used, and we can speculate about the possible harms, but we don’t know what exactly is involved or who is contacted.”
+
+S20 Berkman and his colleagues note that, under legal theory, people have no reasonable expectation of privacy for “abandoned” materials such as hair or nail clippings or cigarette butts.
+S21 Courts have allowed law enforcement officials to test DNA left behind in different settings, and it can be argued that since users voluntarily upload their DNA into online commercial databases, the legal implications may be simpler to understand than the ethical ones.
+
+S22 In the future, a commitment to transparency is important, they write.
+S23 Researchers should begin to study how many law enforcement agencies use forensic DNA searching and how they do it.
+S24 These departments should also adopt formalized standards and mechanisms for accountability.
+S25 Lawmakers should also consider placing some restrictions on using DNA evidence so it’s an investigative tool rather than a primary source of evidence, they write.
+
+S26 “Think carefully before uploading your genealogy data,” Berkman added.
+S27 “We’re not saying it’s unduly risky or a bad idea, but be comfortable with the idea that police may use your information to solve crimes before you sign up for these services.”
+
+S28 SOURCE: bit.ly/2kC8der Annals of Internal Medicine, online May 29, 2018.
+

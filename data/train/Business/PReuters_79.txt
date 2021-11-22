@@ -1,0 +1,36 @@
+URL https://www.reuters.com/article/us-qualcomm-chips/qualcomm-will-not-exit-data-center-business-chip-chief-says-idUSKBN1J902Z
+
+DATE/ AUTHOR 2018-06-13 00:49:33+00:00	AUTHORS: Stephen Nellis, Min Read
+
+H Qualcomm will not exit data center business, chip chief says
+
+S1 (Reuters) - Qualcomm Inc has no plans to abandon its efforts to create processors for data centers, the company’s president, who oversees the chip division, said.
+
+S2 FILE PHOTO: Cristiano Amon, president of Qualcomm and Qualcomm CDMA Technologies, responds to a question during a panel discussion on 5G wireless broadband technology during the 2018 CES in Las Vegas, Nevada, U.S. January 10, 2018.
+S3 REUTERS/Steve Marcus
+
+S4 Qualcomm, the largest maker of chips in mobile phones, last year launched chips that use technology from Softbank Group Corp’s ARM Holdings to power the workhorse computer servers behind cloud-based services such as social networks.
+
+S5 Qualcomm’s push to enter the data center market puts it in direct competition with Intel Corp, which dominates data centers and now draws half of its revenue from servers and other “data centric” chips.
+
+S6 But in May, Bloomberg reported that Qualcomm was exploring whether to sell or shut down the server chip unit.
+
+S7 Qualcomm President Cristiano Amon told Reuters on Monday that the chipmaker is making staff reductions in the unit but intends to keep operating it, albeit with a narrower focus on large internet companies in the United States and China.
+
+S8 “We are not looking at strategic options.
+S9 We are not selling.
+S10 We are still focused on it,” Amon told Reuters.
+
+S11 San Diego-based Qualcomm declined to say whether it had considered selling the server chip unit at some point in the past.
+S12 The company instead pointed to an April earnings call in which Chief Executive Officer Steve Mollenkopf said Qualcomm was considering cost-cutting options in areas that are not central to Qualcomm’s business, which overwhelmingly comes from selling chips and licensing technology for mobile phones.
+
+S13 Amon told Reuters that the server chip business will be rolled into Qualcom’s Qualcomm CDMA Technologies unit, which designs and sells mobile phone chips, to gain cost efficiencies.
+
+S14 Amon said the restructured server chip unit will focus on large cloud computing players.
+S15 He would not name U.S. targets, but said the company is hoping to sell to Chinese internet giants such as Alibaba Group Holding Ltd, Tencent Holdings Ltd and Baidu Inc through a joint venture in China.
+
+S16 Large internet companies tend to write much of their own internal software and can customize it for Qualcomm’s chips.
+S17 That means they will not struggle like smaller players to adapt off-the-shelf data center software that is overwhelmingly written to run on Intel’s so-called x86 chips.
+
+S18 “It’s very clear to us that the ARM opportunity is focused on a few players where you don’t have the software x86 barrier to entry,” Amon said.
+

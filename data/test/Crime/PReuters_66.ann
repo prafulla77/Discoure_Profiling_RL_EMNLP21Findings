@@ -1,0 +1,26 @@
+T1	NA 536 538	S2
+E1	NA:T1 
+T2	NA 285 287	S1
+E2	NA:T2 
+T3	Main 574 576	S3
+E3	Main:T3 
+T4	Main 815 817	S4
+E4	Main:T4 
+T5	Cause_General 1019 1021	S5
+E5	Cause_General:T5 
+T6	Cause_General 1191 1193	S6
+E6	Cause_General:T6 
+T7	Cause_Specific 1368 1370	S7
+E7	Cause_Specific:T7 
+T8	Cause_General 1481 1483	S8
+E8	Cause_General:T8 
+T9	Cause_General 1718 1720	S9
+E9	Cause_General:T9 
+T10	Distant_Historical 1869 1872	S10
+E10	Distant_Historical:T10 
+T11	Distant_Historical 1924 1927	S11
+E11	Distant_Historical:T11 
+T12	Cause_General 2064 2067	S12
+E12	Cause_General:T12 
+T13	Cause_General 2210 2213	S13
+E13	Cause_General:T13 

@@ -1,0 +1,50 @@
+T1	NA 186 188	S1
+E1	NA:T1 
+T2	NA 240 242	S2
+E2	NA:T2 
+T3	NA 263 265	S3
+E3	NA:T3 
+T4	NA 442 444	S4
+E4	NA:T4 
+T5	NA 594 596	S5
+E5	NA:T5 
+T6	Main 617 619	S6
+E6	Main:T6 
+T7	Speech 617 619	S6
+E7	Speech:T7 
+T8	Cause_General 838 840	S7
+E8	Cause_General:T8 
+T9	Speech 1003 1005	S8
+E9	Speech:T9 
+T10	Speech 1129 1131	S9
+E10	Speech:T10 
+T11	Main 1003 1005	S8
+E11	Main:T11 
+T12	Main 1129 1131	S9
+E12	Main:T12 
+T13	Cause_General 1250 1253	S10
+E13	Cause_General:T13 
+T14	Speech 1375 1378	S11
+E14	Speech:T14 
+T15	Cause_Specific 1375 1378	S11
+E15	Cause_Specific:T15 
+T16	Speech 1485 1488	S12
+E16	Speech:T16 
+T17	Cause_General 1485 1488	S12
+E17	Cause_General:T17 
+T18	Cause_General 1579 1582	S13
+E18	Cause_General:T18 
+T19	Speech 1638 1641	S14
+E19	Speech:T19 
+T20	Cause_General 1638 1641	S14
+E20	Cause_General:T20 
+T21	Speech 1707 1710	S15
+E21	Speech:T21 
+T22	Cause_General 1707 1710	S15
+E22	Cause_General:T22 
+T23	Cause_General 1790 1793	S16
+E23	Cause_General:T23 
+T24	Cause_General 1913 1916	S17
+E24	Cause_General:T24 
+T25	Cause_General 2041 2044	S18
+E25	Cause_General:T25 

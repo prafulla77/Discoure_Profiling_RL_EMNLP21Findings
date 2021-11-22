@@ -1,0 +1,22 @@
+T1	Distant_Evaluation 943 945	S6
+E1	Distant_Evaluation:T1 
+T2	Main 196 198	S1
+E2	Main:T2 
+T3	Speech 196 198	S1
+E3	Speech:T3 
+T4	Cause_General 384 386	S2
+E4	Cause_General:T4 
+T5	Speech 384 386	S2
+E5	Speech:T5 
+T6	Speech 549 551	S3
+E6	Speech:T6 
+T7	Cause_General 549 551	S3
+E7	Cause_General:T7 
+T8	Speech 661 663	S4
+E8	Speech:T8 
+T9	Cause_General 661 663	S4
+E9	Cause_General:T9 
+T10	Speech 794 796	S5
+E10	Speech:T10 
+T11	Distant_Evaluation 794 796	S5
+E11	Distant_Evaluation:T11 

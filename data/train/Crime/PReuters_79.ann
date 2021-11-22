@@ -1,0 +1,76 @@
+T1	NA 567 569	S2
+E1	NA:T1 
+T2	NA 756 758	S3
+E2	NA:T2 
+T3	Main 288 290	S1
+E3	Main:T3 
+T4	Speech 288 290	S1
+E4	Speech:T4 
+T5	Cause_Specific 796 798	S4
+E5	Cause_Specific:T5 
+T6	Cause_General 1077 1079	S6
+E6	Cause_General:T6 
+T7	Cause_Specific 982 984	S5
+E7	Cause_Specific:T7 
+T8	Cause_Specific 1237 1239	S7
+E8	Cause_Specific:T8 
+T9	Distant_Evaluation 1321 1323	S8
+E9	Distant_Evaluation:T9 
+T10	Distant_Evaluation 1384 1386	S9
+E10	Distant_Evaluation:T10 
+T11	Speech 1321 1323	S8
+E11	Speech:T11 
+T12	Speech 1384 1386	S9
+E12	Speech:T12 
+T13	Speech 1529 1532	S10
+E13	Speech:T13 
+T14	Distant_Expectations_Consequences 1529 1532	S10
+E14	Distant_Expectations_Consequences:T14 
+T15	Distant_Evaluation 1656 1659	S11
+E15	Distant_Evaluation:T15 
+T16	Cause_General 1812 1815	S12
+E16	Cause_General:T16 
+T17	Distant_Evaluation 1902 1905	S13
+E17	Distant_Evaluation:T17 
+T18	Cause_General 2079 2082	S14
+E18	Cause_General:T18 
+T19	Cause_General 2221 2224	S15
+E19	Cause_General:T19 
+T20	Distant_Evaluation 2301 2304	S16
+E20	Distant_Evaluation:T20 
+T21	Distant_Expectations_Consequences 2451 2454	S17
+E21	Distant_Expectations_Consequences:T21 
+T22	Speech 2451 2454	S17
+E22	Speech:T22 
+T23	Distant_Expectations_Consequences 2575 2578	S18
+E23	Distant_Expectations_Consequences:T23 
+T24	Speech 2575 2578	S18
+E24	Speech:T24 
+T25	Distant_Evaluation 2762 2765	S19
+E25	Distant_Evaluation:T25 
+T26	Speech 2762 2765	S19
+E26	Speech:T26 
+T27	Cause_General 2899 2902	S20
+E27	Cause_General:T27 
+T28	Distant_Evaluation 3198 3201	S21
+E28	Distant_Evaluation:T28 
+T29	Distant_Evaluation 3399 3402	S23
+E29	Distant_Evaluation:T29 
+T30	Cause_General 3235 3238	S22
+E30	Cause_General:T30 
+T31	Cause_General 3472 3475	S24
+E31	Cause_General:T31 
+T32	Distant_Evaluation 3634 3637	S25
+E32	Distant_Evaluation:T32 
+T33	Speech 3634 3637	S25
+E33	Speech:T33 
+T34	Distant_Expectations_Consequences 3764 3767	S26
+E34	Distant_Expectations_Consequences:T34 
+T35	Speech 3764 3767	S26
+E35	Speech:T35 
+T36	Speech 3890 3893	S27
+E36	Speech:T36 
+T37	Distant_Evaluation 3890 3893	S27
+E37	Distant_Evaluation:T37 
+T38	Distant_Evaluation 4035 4038	S28
+E38	Distant_Evaluation:T38 

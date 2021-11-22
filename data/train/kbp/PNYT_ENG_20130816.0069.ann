@@ -1,0 +1,150 @@
+T1	NA 76 78	S1
+E1	NA:T1 
+T2	Main 128 130	S2
+E2	Main:T2 
+T3	Cause_General 371 373	S3
+E3	Cause_General:T3 
+T4	Cause_Specific 386 388	S4
+E4	Cause_Specific:T4 
+T5	Main 541 543	S5
+E5	Main:T5 
+T7	Distant_Evaluation 667 669	S6
+E7	Distant_Evaluation:T7 
+T9	Distant_Evaluation 950 952	S7
+E9	Distant_Evaluation:T9 
+T10	Distant_Evaluation 992 994	S8
+E10	Distant_Evaluation:T10 
+T11	Cause_General 1036 1038	S9
+E11	Cause_General:T11 
+T12	Cause_General 1279 1282	S10
+E12	Cause_General:T12 
+T13	Cause_General 1451 1454	S11
+E13	Cause_General:T13 
+T14	Distant_Evaluation 1680 1683	S12
+E14	Distant_Evaluation:T14 
+T15	Cause_General 1787 1790	S13
+E15	Cause_General:T15 
+T16	Cause_General 1815 1818	S14
+E16	Cause_General:T16 
+T17	Cause_General 1948 1951	S15
+E17	Cause_General:T17 
+T18	Distant_Historical 2052 2055	S16
+E18	Distant_Historical:T18 
+T19	Distant_Historical 2177 2180	S17
+E19	Distant_Historical:T19 
+T20	Speech 2177 2180	S17
+E20	Speech:T20 
+T21	Distant_Historical 2361 2364	S18
+E21	Distant_Historical:T21 
+T22	Speech 2361 2364	S18
+E22	Speech:T22 
+T23	Distant_Historical 2391 2394	S19
+E23	Distant_Historical:T23 
+T24	Distant_Historical 2417 2420	S20
+E24	Distant_Historical:T24 
+T25	Distant_Historical 2487 2490	S21
+E25	Distant_Historical:T25 
+T26	Speech 2391 2394	S19
+E26	Speech:T26 
+T27	Speech 2417 2420	S20
+E27	Speech:T27 
+T28	Speech 2487 2490	S21
+E28	Speech:T28 
+T29	Distant_Historical 2544 2547	S22
+E29	Distant_Historical:T29 
+T30	Distant_Historical 2756 2759	S23
+E30	Distant_Historical:T30 
+T31	Distant_Historical 2974 2977	S24
+E31	Distant_Historical:T31 
+T32	Distant_Historical 3333 3336	S25
+E32	Distant_Historical:T32 
+T33	Distant_Historical 3472 3475	S26
+E33	Distant_Historical:T33 
+T34	Distant_Evaluation 3608 3611	S27
+E34	Distant_Evaluation:T34 
+T35	Distant_Historical 3833 3836	S28
+E35	Distant_Historical:T35 
+T36	Distant_Historical 3991 3994	S29
+E36	Distant_Historical:T36 
+T37	Distant_Historical 4091 4094	S30
+E37	Distant_Historical:T37 
+T38	Distant_Evaluation 4281 4284	S31
+E38	Distant_Evaluation:T38 
+T39	Distant_Historical 4343 4346	S32
+E39	Distant_Historical:T39 
+T40	Distant_Historical 4425 4428	S33
+E40	Distant_Historical:T40 
+T41	Speech 4425 4428	S33
+E41	Speech:T41 
+T42	Distant_Historical 4636 4639	S34
+E42	Distant_Historical:T42 
+T43	Distant_Historical 4675 4678	S35
+E43	Distant_Historical:T43 
+T44	Speech 4636 4639	S34
+E44	Speech:T44 
+T45	Speech 4675 4678	S35
+E45	Speech:T45 
+T46	Distant_Historical 4724 4727	S36
+E46	Distant_Historical:T46 
+T47	Distant_Historical 4838 4841	S37
+E47	Distant_Historical:T47 
+T48	Distant_Historical 4992 4995	S38
+E48	Distant_Historical:T48 
+T49	Distant_Historical 6423 6426	S54
+E49	Distant_Historical:T49 
+T50	Distant_Historical 6280 6283	S53
+E50	Distant_Historical:T50 
+T51	Distant_Historical 6247 6250	S52
+E51	Distant_Historical:T51 
+T52	Distant_Historical 6182 6185	S51
+E52	Distant_Historical:T52 
+T53	Distant_Historical 6136 6139	S50
+E53	Distant_Historical:T53 
+T54	Distant_Historical 6088 6091	S49
+E54	Distant_Historical:T54 
+T55	Distant_Historical 6024 6027	S48
+E55	Distant_Historical:T55 
+T56	Distant_Historical 5930 5933	S47
+E56	Distant_Historical:T56 
+T57	Distant_Historical 5892 5895	S46
+E57	Distant_Historical:T57 
+T58	Distant_Historical 5794 5797	S45
+E58	Distant_Historical:T58 
+T59	Distant_Historical 5091 5094	S39
+E59	Distant_Historical:T59 
+T60	Distant_Historical 5241 5244	S40
+E60	Distant_Historical:T60 
+T61	Distant_Historical 5396 5399	S41
+E61	Distant_Historical:T61 
+T62	Distant_Historical 5479 5482	S42
+E62	Distant_Historical:T62 
+T63	Distant_Historical 5556 5559	S43
+E63	Distant_Historical:T63 
+T64	Distant_Historical 5663 5666	S44
+E64	Distant_Historical:T64 
+T65	Distant_Historical 6489 6492	S55
+E65	Distant_Historical:T65 
+T66	Distant_Historical 6701 6704	S56
+E66	Distant_Historical:T66 
+T67	Distant_Historical 6872 6875	S57
+E67	Distant_Historical:T67 
+T68	Distant_Historical 8098 8101	S66
+E68	Distant_Historical:T68 
+T69	Distant_Historical 7004 7007	S58
+E69	Distant_Historical:T69 
+T70	Distant_Historical 7114 7117	S59
+E70	Distant_Historical:T70 
+T71	Distant_Historical 7188 7191	S60
+E71	Distant_Historical:T71 
+T72	Distant_Historical 7327 7330	S61
+E72	Distant_Historical:T72 
+T73	Distant_Historical 7425 7428	S62
+E73	Distant_Historical:T73 
+T74	Distant_Historical 7548 7551	S63
+E74	Distant_Historical:T74 
+T75	Distant_Historical 7612 7615	S64
+E75	Distant_Historical:T75 
+T76	Distant_Historical 7903 7906	S65
+E76	Distant_Historical:T76 
+T6	Speech 4281 4284	S31
+E6	Speech:T6 

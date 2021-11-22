@@ -1,0 +1,74 @@
+T1	NA 603 605	S2
+E1	NA:T1 
+T2	NA 756 758	S3
+E2	NA:T2 
+T3	Main 274 276	S1
+E3	Main:T3 
+T4	Distant_Evaluation 796 798	S4
+E4	Distant_Evaluation:T4 
+T5	Distant_Evaluation 910 912	S5
+E5	Distant_Evaluation:T5 
+T6	Cause_General 1073 1075	S6
+E6	Cause_General:T6 
+T7	Cause_General 1270 1272	S7
+E7	Cause_General:T7 
+T8	Distant_Evaluation 1351 1353	S8
+E8	Distant_Evaluation:T8 
+T9	Distant_Expectations_Consequences 1550 1552	S9
+E9	Distant_Expectations_Consequences:T9 
+T10	Speech 1550 1552	S9
+E10	Speech:T10 
+T11	Distant_Expectations_Consequences 1777 1780	S10
+E11	Distant_Expectations_Consequences:T11 
+T12	Speech 1777 1780	S10
+E12	Speech:T12 
+T13	Distant_Historical 1985 1988	S11
+E13	Distant_Historical:T13 
+T14	Distant_Historical 2135 2138	S12
+E14	Distant_Historical:T14 
+T15	Distant_Evaluation 2320 2323	S13
+E15	Distant_Evaluation:T15 
+T16	Distant_Evaluation 2538 2541	S14
+E16	Distant_Evaluation:T16 
+T17	Speech 2538 2541	S14
+E17	Speech:T17 
+T18	Distant_Expectations_Consequences 2701 2704	S15
+E18	Distant_Expectations_Consequences:T18 
+T19	Speech 2701 2704	S15
+E19	Speech:T19 
+T20	Distant_Evaluation 2790 2793	S17
+E20	Distant_Evaluation:T20 
+T21	Cause_General 3063 3066	S19
+E21	Cause_General:T21 
+T22	Distant_Evaluation 2929 2932	S18
+E22	Distant_Evaluation:T22 
+T23	Distant_Evaluation 2764 2767	S16
+E23	Distant_Evaluation:T23 
+T24	Distant_Evaluation 3110 3113	S20
+E24	Distant_Evaluation:T24 
+T25	Speech 3110 3113	S20
+E25	Speech:T25 
+T26	Cause_General 3302 3305	S21
+E26	Cause_General:T26 
+T27	Distant_Expectations_Consequences 3380 3383	S22
+E27	Distant_Expectations_Consequences:T27 
+T28	Cause_General 3764 3767	S24
+E28	Cause_General:T28 
+T29	Cause_General 3546 3549	S23
+E29	Cause_General:T29 
+T30	Distant_Evaluation 3877 3880	S25
+E30	Distant_Evaluation:T30 
+T31	Distant_Expectations_Consequences 4075 4078	S26
+E31	Distant_Expectations_Consequences:T31 
+T32	Cause_General 4258 4261	S27
+E32	Cause_General:T32 
+T33	Distant_Evaluation 4483 4486	S28
+E33	Distant_Evaluation:T33 
+T34	Speech 4483 4486	S28
+E34	Speech:T34 
+T35	Distant_Expectations_Consequences 4668 4671	S29
+E35	Distant_Expectations_Consequences:T35 
+T36	Cause_General 4803 4806	S30
+E36	Cause_General:T36 
+T37	Cause_General 4916 4919	S31
+E37	Cause_General:T37 

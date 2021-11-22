@@ -1,0 +1,14 @@
+T1	NA 200 202	S1
+E1	NA:T1 
+T2	NA 252 254	S2
+E2	NA:T2 
+T3	Main 275 277	S3
+E3	Main:T3 
+T4	Main 489 491	S4
+E4	Main:T4 
+T5	Distant_Evaluation 686 688	S5
+E5	Distant_Evaluation:T5 
+T6	Cause_Specific 852 854	S6
+E6	Cause_Specific:T6 
+T7	Distant_Evaluation 1035 1037	S7
+E7	Distant_Evaluation:T7 

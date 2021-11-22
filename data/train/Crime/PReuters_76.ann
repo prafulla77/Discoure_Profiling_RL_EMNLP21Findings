@@ -1,0 +1,74 @@
+T1	Main 263 265	S1
+E1	Main:T1 
+T2	Cause_General 485 487	S2
+E2	Cause_General:T2 
+T3	Speech 485 487	S2
+E3	Speech:T3 
+T4	Speech 734 736	S3
+E4	Speech:T4 
+T5	Speech 929 931	S4
+E5	Speech:T5 
+T6	Distant_Evaluation 734 736	S3
+E6	Distant_Evaluation:T6 
+T7	Distant_Historical 929 931	S4
+E7	Distant_Historical:T7 
+T8	Distant_Historical 1005 1007	S5
+E8	Distant_Historical:T8 
+T9	Speech 1005 1007	S5
+E9	Speech:T9 
+T10	Distant_Evaluation 1155 1157	S6
+E10	Distant_Evaluation:T10 
+T11	Speech 1155 1157	S6
+E11	Speech:T11 
+T12	Cause_Specific 1438 1440	S7
+E12	Cause_Specific:T12 
+T13	Cause_General 1678 1680	S8
+E13	Cause_General:T13 
+T14	Distant_Historical 1844 1846	S9
+E14	Distant_Historical:T14 
+T15	NA 2014 2017	S10
+E15	NA:T15 
+T16	NA 2114 2117	S11
+E16	NA:T16 
+T17	Cause_General 2172 2175	S12
+E17	Cause_General:T17 
+T18	Distant_Evaluation 2268 2271	S13
+E18	Distant_Evaluation:T18 
+T20	Distant_Evaluation 2343 2346	S14
+E20	Distant_Evaluation:T20 
+T19	Distant_Expectations_Consequences 2527 2530	S15
+E19	Distant_Expectations_Consequences:T19 
+T21	Distant_Evaluation 2669 2672	S16
+E21	Distant_Evaluation:T21 
+T22	Distant_Evaluation 2734 2737	S17
+E22	Distant_Evaluation:T22 
+T23	Distant_Evaluation 2756 2759	S18
+E23	Distant_Evaluation:T23 
+T24	Distant_Evaluation 2997 3000	S19
+E24	Distant_Evaluation:T24 
+T25	Distant_Evaluation 3041 3044	S20
+E25	Distant_Evaluation:T25 
+T26	Distant_Historical 3207 3210	S21
+E26	Distant_Historical:T26 
+T27	Distant_Historical 3342 3345	S22
+E27	Distant_Historical:T27 
+T28	Distant_Historical 3401 3404	S23
+E28	Distant_Historical:T28 
+T29	NA 3583 3586	S24
+E29	NA:T29 
+T30	NA 3762 3765	S25
+E30	NA:T30 
+T31	Speech 3847 3850	S26
+E31	Speech:T31 
+T32	Speech 4017 4020	S27
+E32	Speech:T32 
+T33	Distant_Evaluation 3847 3850	S26
+E33	Distant_Evaluation:T33 
+T34	Distant_Evaluation 4017 4020	S27
+E34	Distant_Evaluation:T34 
+T35	Cause_General 4185 4188	S28
+E35	Cause_General:T35 
+T36	Speech 4306 4309	S29
+E36	Speech:T36 
+T37	Cause_General 4306 4309	S29
+E37	Cause_General:T37 

@@ -1,0 +1,32 @@
+T1	NA 264 266	S1
+E1	NA:T1 
+T2	NA 449 451	S2
+E2	NA:T2 
+T3	Main 488 490	S3
+E3	Main:T3 
+T4	Speech 488 490	S3
+E4	Speech:T4 
+T5	Main 738 740	S4
+E5	Main:T5 
+T6	Cause_General 940 942	S5
+E6	Cause_General:T6 
+T7	Cause_General 1043 1045	S6
+E7	Cause_General:T7 
+T8	Distant_Evaluation 1153 1155	S7
+E8	Distant_Evaluation:T8 
+T9	Distant_Expectations_Consequences 1283 1285	S8
+E9	Distant_Expectations_Consequences:T9 
+T10	Cause_General 1450 1452	S9
+E10	Cause_General:T10 
+T11	Distant_Expectations_Consequences 1505 1508	S10
+E11	Distant_Expectations_Consequences:T11 
+T12	Distant_Expectations_Consequences 1541 1544	S11
+E12	Distant_Expectations_Consequences:T12 
+T13	Speech 1505 1508	S10
+E13	Speech:T13 
+T14	Speech 1541 1544	S11
+E14	Speech:T14 
+T15	Cause_General 1674 1677	S12
+E15	Cause_General:T15 
+T16	Speech 1674 1677	S12
+E16	Speech:T16 

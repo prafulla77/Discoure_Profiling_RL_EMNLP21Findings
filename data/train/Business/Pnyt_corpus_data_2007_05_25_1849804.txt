@@ -1,0 +1,88 @@
+URL http://query.nytimes.com/gst/fullpage.html?res=9903E1D71630F936A15756C0A9619C8B63
+
+DATE/ AUTHOR None	AUTHORS: Keith Bradsher
+
+H China’s Leaders Confront Their Manic Market
+
+S1 WANTED: Central banker who can curb ''irrational exuberance'' among stock market investors.
+S2 Statesmen with international credibility preferred.
+S3 Availability soon.
+
+S4 Too bad Alan Greenspan, who does not speak Chinese, can't apply.
+S5 One of the biggest challenges for Chinese leaders these days lies in when and how to rein in the country's soaring stock market and, just as important, whom to pick as the next governor of the central bank.
+
+S6 The challenges are closely intertwined.
+S7 Like Mr. Greenspan nearly a decade ago, Zhou Xiaochuan, the current governor of the People's Bank of China, faces the knotty question of what to do about a speculative mania that has drawn millions of people with limited investing experience into betting their savings on the stock market.
+
+S8 Mr. Greenspan, now 81, struggled to contain the tech stock boom, issuing his famous ''irrational exuberance'' warning in December 1996 only to watch the American market keep rising and finally collapse in early 2000.
+S9 He tried his hand at forecasting Chinese stocks on Wednesday, telling an audience in Madrid by satellite that the Chinese market was ''clearly unsustainable'' and could undergo a ''dramatic contraction.''
+
+S10 After setting records on Monday, Tuesday and Wednesday, the A shares, those traded in yuan, fell 0.47 percent in Shanghai and 0.6 percent in Shenzhen on Thursday as investors responded to the warning.
+
+S11 But the warning was not news to Mr. Zhou and other Chinese officials.
+S12 The central bank, securities regulators and prominent business executives have all been cautioning investors that buying stocks is not a guaranteed path to riches -- all with less apparent effect than Mr. Greenspan.
+
+S13 ''Will the Shanghai market correct at some stage?
+S14 Yes, that's inevitable,'' said Michael R. P. Smith, the chief executive of HSBC's extensive Asian operations.
+S15 ''Valuations are too high, I think; you can't sustain P/E multiples of 40, 50 times.''
+
+S16 The economy is booming, but fairly low inflation, 3 percent, also makes for a conundrum similar to what Mr. Greenspan faced as Federal Reserve chairman: it is harder for Mr. Zhou to justify raising interest rates significantly.
+
+S17 For Mr. Zhou, there is a further complication in that he faces considerable uncertainty about his personal future.
+S18 Five years into his current job, he turns 60 next year, and so by Chinese standards is due for a transfer or promotion.
+
+S19 ''It could come at any time; I tend to think it will happen before the 17th Party Congress,'' expected in October or November, said Victor Shih, a Chinese banking specialist at Northwestern.
+
+S20 Whoever succeeds Mr. Zhou confronts one of the toughest challenges of any financial policy maker.
+S21 Chinese families eager to make money are opening brokerage accounts around the country, with the number of new accounts rocketing from several thousand a day two years ago to nearly 300,000 a day this month.
+
+S22 Investors leaving a Shanghai brokerage firm on Wednesday were exuberant, as the Shanghai A share index closed at 4,354.
+S23 Chen Zhiwei, a restaurant chef, said, ''With more new stocks listed, the bullish trend will keep going until the index hits 15,000.''
+
+S24 Like Mr. Greenspan in the heat of the Internet frenzy, Mr. Zhou and his colleagues in the Chinese government have been cautious about trying to pop the bubble themselves.
+
+S25 The Chinese government chose administrative measures, instead of market forces like higher interest rates, to prevent the economy from overheating in 2004 and to curb real estate speculation over the last two years.
+S26 The government has taken a few such measures this year, like investigating fund managers to make sure that they do not engage in self-dealing at the expense of their clients, and requiring this week that new brokerage customers sign forms acknowledging that they understand the risks of stocks.
+
+S27 But stocks sailed higher on Wednesday after an announcement by the finance ministry and State Administration of Taxation that the government had no plans to raise taxes on share transactions, an approach the government has sometimes taken in the past to curb speculation.
+
+S28 Cash is pouring into the stock market partly because money is pouring into China in general.
+S29 With the Chinese government intervening heavily in currency markets to hold down the value of the yuan against the dollar, China is on course for a surplus this year of up to $400 billion in the current account, the broadest measure of trade.
+
+S30 The Chinese leadership has shown considerable caution in allowing the currency to appreciate.
+S31 Mr. Zhou declared Wednesday morning that gradualism would remain China's policy as it pursues a long-term strategy of making the yuan more ''flexible.''
+S32 Chinese officials frequently refer to flexibility in describing a willingness to see more intraday volatility in the yuan, which remains tightly linked to the dollar.
+S33 But that does not necessarily mean faster appreciation of the yuan.
+
+S34 Raising interest rates, a conventional cure for asset speculation, runs the risk of attracting even more foreign investment to China.
+S35 The People's Bank of China has raised interest rates only four times in the last 13 months, while also raising eight times the percentage of assets that commercial banks must keep as reserves at the central bank.
+
+S36 Partly because the People's Bank of China does not have nearly the same independence as the Federal Reserve and partly because Chinese economic policy makers have shunned the celebrity surrounding many of their overseas counterparts, Mr. Zhou has not attracted as much attention as Mr. Greenspan.
+
+S37 But now he is the subject of a guessing game about possible successors -- and about the extent to which career jockeying may make public officials leery of unpopular decisions.
+
+S38 The most commonly cited potential governors are Shang Fulin, the chairman of the China Securities Regulatory Commission; Guo Shuqing, Communist Party secretary of the China Construction Bank; and Wu Xiaoling, who is the central bank's senior deputy governor but at 60 may already be deemed too old to succeed Mr. Zhou.
+
+S39 Mr. Zhou was president of China Construction Bank and then chairman of the China Securities Regulatory Commission before taking over leadership of the central bank, so Mr. Shang and Mr. Guo could each be viewed as possibly following in his footsteps.
+S40 As for Mr. Zhou himself, he is cited by some experts as a contender to rise as high as deputy prime minister of China -- if he can stay popular a few more months.
+
+S41 But a possible slump in the stock market could hurt Mr. Zhou's future prospects -- even if damage to the broader economy may be limited.
+S42 Some experts, like Jonathan Anderson, the chief Asia economist at UBS, suggest that because the rising stock market seems to have had little effect on the rate of economic growth over the last year and a half, it may not have much effect going down.
+
+S43 ''It's very hard indeed to see where the negative growth impact would come from,'' he said in a research report on Thursday, noting that equities form a tenth of total household and business wealth in China.
+
+S44 As he left a Shanghai brokerage firm on Wednesday, Wang Jianping, a 52-year-old driver, said that he invested only his own savings in the stock market and never borrowed to buy shares.
+
+S45 ''If I make money, that's great -- if I lose money, it won't hurt my quality of life and it will be O.K.,'' he said.
+S46 ''If I don't make money on the investment in my lifetime, I'll leave it to my children and grandchildren.''
+
+S47 The bigger worry, but much harder to calculate, lies in whether the country's banks have unintentionally or secretly lent heavily to stock market speculators who would not be able to repay their loans if the market collapsed.
+
+S48 Chinese banking regulations bar banks from issuing margin loans directly to stock market investors.
+S49 But banks are allowed to lend to securities firms, which in turn provide margin financing.
+
+S50 State-controlled media have also reported this year that regulators are looking into whether stock speculators are misrepresenting their intentions to banks, claiming that they need loans for real estate or other purposes.
+
+S51 For lack of data, credit analysts have been unable to assess the scale of bank exposure to the stock market.
+S52 ''We can't see it,'' said Charlene Chu, an analyst in the Beijing office of Fitch Ratings, ''on the balance sheets.''
+

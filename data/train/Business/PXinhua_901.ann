@@ -1,0 +1,12 @@
+T1	NA 183 185	S1
+E1	NA:T1 
+T2	NA 238 240	S2
+E2	NA:T2 
+T3	Main 261 263	S3
+E3	Main:T3 
+T4	Cause_Specific 486 488	S4
+E4	Cause_Specific:T4 
+T5	Cause_Specific 729 731	S5
+E5	Cause_Specific:T5 
+T6	Cause_General 956 958	S6
+E6	Cause_General:T6 

@@ -1,0 +1,14 @@
+T1	NA 902 904	S7
+E1	NA:T1 
+T2	NA 229 231	S2
+E2	NA:T2 
+T3	NA 175 177	S1
+E3	NA:T3 
+T4	Main 252 254	S3
+E4	Main:T4 
+T5	Cause_General 708 710	S5
+E5	Cause_General:T5 
+T6	Cause_General 804 806	S6
+E6	Cause_General:T6 
+T7	Main 460 462	S4
+E7	Main:T7 

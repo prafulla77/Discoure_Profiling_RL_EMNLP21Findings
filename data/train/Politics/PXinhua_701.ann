@@ -1,0 +1,16 @@
+T1	NA 172 174	S1
+E1	NA:T1 
+T2	NA 231 233	S2
+E2	NA:T2 
+T3	Main 390 392	S4
+E3	Main:T3 
+T4	Main 510 512	S5
+E4	Main:T4 
+T5	Distant_Historical 1162 1164	S8
+E5	Distant_Historical:T5 
+T6	Main 254 256	S3
+E6	Main:T6 
+T7	Distant_Evaluation 702 704	S6
+E7	Distant_Evaluation:T7 
+T8	Distant_Expectations_Consequences 948 950	S7
+E8	Distant_Expectations_Consequences:T8 

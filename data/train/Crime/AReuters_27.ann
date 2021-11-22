@@ -1,0 +1,86 @@
+T1	Speech 282 284	S1
+E1	Speech:T1 
+T2	Distant_Evaluation 562 564	S2
+E2	Distant_Evaluation:T2 
+T3	Distant_Historical 1217 1219	S8
+E3	Distant_Historical:T3 
+T4	Speech 1588 1591	S10
+E4	Speech:T4 
+T5	Speech 1784 1787	S11
+E5	Speech:T5 
+T6	Speech 1898 1901	S12
+E6	Speech:T6 
+T7	Speech 1908 1911	S13
+E7	Speech:T7 
+T8	Speech 1986 1989	S14
+E8	Speech:T8 
+T9	Speech 2004 2007	S15
+E9	Speech:T9 
+T10	Speech 2028 2031	S16
+E10	Speech:T10 
+T11	Speech 2053 2056	S17
+E11	Speech:T11 
+T13	Speech 2399 2402	S19
+E13	Speech:T13 
+T12	Speech 2534 2537	S20
+E12	Speech:T12 
+T14	Speech 2588 2591	S21
+E14	Speech:T14 
+T15	Speech 2665 2668	S22
+E15	Speech:T15 
+T16	Speech 2784 2787	S23
+E16	Speech:T16 
+T17	NA 2957 2960	S24
+E17	NA:T17 
+T18	Speech 2983 2986	S25
+E18	Speech:T18 
+T19	Distant_Evaluation 1466 1468	S9
+E19	Distant_Evaluation:T19 
+T20	Distant_Expectations_Consequences 779 781	S4
+E20	Distant_Expectations_Consequences:T20 
+T21	Cause_General 936 938	S5
+E21	Cause_General:T21 
+T22	Distant_Expectations_Consequences 1034 1036	S6
+E22	Distant_Expectations_Consequences:T22 
+T23	Cause_General 1121 1123	S7
+E23	Cause_General:T23 
+T24	Main 282 284	S1
+E24	Main:T24 
+T25	Cause_General 675 677	S3
+E25	Cause_General:T25 
+T26	Cause_Specific 3116 3119	S26
+E26	Cause_Specific:T26 
+T27	Cause_General 3244 3247	S27
+E27	Cause_General:T27 
+T28	Cause_General 3284 3287	S28
+E28	Cause_General:T28 
+T29	Cause_Specific 1588 1591	S10
+E29	Cause_Specific:T29 
+T30	Cause_Specific 1784 1787	S11
+E30	Cause_Specific:T30 
+T31	Cause_Specific 1898 1901	S12
+E31	Cause_Specific:T31 
+T32	Cause_Specific 1908 1911	S13
+E32	Cause_Specific:T32 
+T33	Cause_Specific 1986 1989	S14
+E33	Cause_Specific:T33 
+T34	Cause_Specific 2004 2007	S15
+E34	Cause_Specific:T34 
+T35	Cause_Specific 2028 2031	S16
+E35	Cause_Specific:T35 
+T36	Cause_Specific 2053 2056	S17
+E36	Cause_Specific:T36 
+T37	Cause_Specific 2282 2285	S18
+E37	Cause_Specific:T37 
+T38	Cause_Specific 2399 2402	S19
+E38	Cause_Specific:T38 
+T39	Cause_Specific 2534 2537	S20
+E39	Cause_Specific:T39 
+T40	Cause_Specific 2588 2591	S21
+E40	Cause_Specific:T40 
+T41	Cause_Specific 2665 2668	S22
+E41	Cause_Specific:T41 
+T42	Cause_Specific 2784 2787	S23
+E42	Cause_Specific:T42 
+T43	Cause_Specific 2983 2986	S25
+E43	Cause_Specific:T43 

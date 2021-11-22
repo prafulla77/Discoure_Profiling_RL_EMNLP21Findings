@@ -1,0 +1,74 @@
+T1	Main 283 285	S1
+E1	Main:T1 
+T2	Cause_Specific 547 549	S2
+E2	Cause_Specific:T2 
+T3	Cause_Specific 774 776	S3
+E3	Cause_Specific:T3 
+T4	Distant_Evaluation 996 998	S4
+E4	Distant_Evaluation:T4 
+T5	Distant_Evaluation 1226 1228	S5
+E5	Distant_Evaluation:T5 
+T6	Speech 1226 1228	S5
+E6	Speech:T6 
+T7	Main 1391 1393	S6
+E7	Main:T7 
+T8	Speech 1391 1393	S6
+E8	Speech:T8 
+T9	Distant_Evaluation 1602 1604	S7
+E9	Distant_Evaluation:T9 
+T10	Speech 1602 1604	S7
+E10	Speech:T10 
+T11	Distant_Evaluation 1823 1825	S8
+E11	Distant_Evaluation:T11 
+T12	Speech 1823 1825	S8
+E12	Speech:T12 
+T13	Main 2074 2076	S9
+E13	Main:T13 
+T14	Speech 2074 2076	S9
+E14	Speech:T14 
+T15	Main 2150 2153	S10
+E15	Main:T15 
+T16	Speech 2150 2153	S10
+E16	Speech:T16 
+T17	Cause_Specific 2395 2398	S12
+E17	Cause_Specific:T17 
+T18	Cause_Specific 2560 2563	S13
+E18	Cause_Specific:T18 
+T19	Cause_Specific 2613 2616	S14
+E19	Cause_Specific:T19 
+T20	Cause_Specific 2841 2844	S15
+E20	Cause_Specific:T20 
+T21	Distant_Evaluation 2375 2378	S11
+E21	Distant_Evaluation:T21 
+T22	Cause_Specific 3074 3077	S16
+E22	Cause_Specific:T22 
+T23	Speech 3074 3077	S16
+E23	Speech:T23 
+T24	Distant_Evaluation 3269 3272	S17
+E24	Distant_Evaluation:T24 
+T25	Speech 3269 3272	S17
+E25	Speech:T25 
+T26	Distant_Expectations_Consequences 3346 3349	S18
+E26	Distant_Expectations_Consequences:T26 
+T27	Distant_Evaluation 3525 3528	S19
+E27	Distant_Evaluation:T27 
+T28	Distant_Evaluation 3610 3613	S20
+E28	Distant_Evaluation:T28 
+T29	Speech 3525 3528	S19
+E29	Speech:T29 
+T30	Speech 3610 3613	S20
+E30	Speech:T30 
+T31	Distant_Evaluation 3733 3736	S21
+E31	Distant_Evaluation:T31 
+T32	Distant_Expectations_Consequences 3910 3913	S22
+E32	Distant_Expectations_Consequences:T32 
+T33	Distant_Evaluation 4160 4163	S23
+E33	Distant_Evaluation:T33 
+T34	Distant_Evaluation 4394 4397	S24
+E34	Distant_Evaluation:T34 
+T35	Speech 4394 4397	S24
+E35	Speech:T35 
+T36	Distant_Evaluation 4591 4594	S25
+E36	Distant_Evaluation:T36 
+T37	Speech 4591 4594	S25
+E37	Speech:T37 

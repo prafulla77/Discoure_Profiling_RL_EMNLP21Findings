@@ -1,0 +1,14 @@
+T1	NA 304 306	S1
+E1	NA:T1 
+T2	NA 486 488	S2
+E2	NA:T2 
+T3	Main 527 529	S3
+E3	Main:T3 
+T4	Main 783 785	S4
+E4	Main:T4 
+T5	Cause_General 962 964	S6
+E5	Cause_General:T5 
+T6	Cause_General 1156 1158	S7
+E6	Cause_General:T6 
+T7	Main 882 884	S5
+E7	Main:T7 

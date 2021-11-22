@@ -1,0 +1,140 @@
+T1	NA 8462 8465	S60
+E1	NA:T1 
+T2	Main 261 263	S1
+E2	Main:T2 
+T3	Main 292 294	S2
+E3	Main:T3 
+T4	Cause_General 482 484	S3
+E4	Cause_General:T4 
+T5	Cause_General 497 499	S4
+E5	Cause_General:T5 
+T6	Main 661 663	S5
+E6	Main:T6 
+T7	Cause_General 782 784	S6
+E7	Cause_General:T7 
+T8	Cause_General 900 902	S7
+E8	Cause_General:T8 
+T9	Distant_Evaluation 958 960	S8
+E9	Distant_Evaluation:T9 
+T10	Speech 958 960	S8
+E10	Speech:T10 
+T11	Cause_General 1093 1095	S9
+E11	Cause_General:T11 
+T12	Cause_General 1188 1191	S10
+E12	Cause_General:T12 
+T13	Distant_Evaluation 1265 1268	S11
+E13	Distant_Evaluation:T13 
+T14	Speech 1265 1268	S11
+E14	Speech:T14 
+T15	Distant_Expectations_Consequences 1412 1415	S12
+E15	Distant_Expectations_Consequences:T15 
+T16	Distant_Expectations_Consequences 1527 1530	S13
+E16	Distant_Expectations_Consequences:T16 
+T17	Distant_Expectations_Consequences 1734 1737	S14
+E17	Distant_Expectations_Consequences:T17 
+T18	Distant_Evaluation 1788 1791	S15
+E18	Distant_Evaluation:T18 
+T19	Main_Consequence 1815 1818	S16
+E19	Main_Consequence:T19 
+T20	Main_Consequence 1945 1948	S17
+E20	Main_Consequence:T20 
+T21	Distant_Expectations_Consequences 2065 2068	S18
+E21	Distant_Expectations_Consequences:T21 
+T22	Distant_Evaluation 2235 2238	S19
+E22	Distant_Evaluation:T22 
+T23	Distant_Historical 2452 2455	S20
+E23	Distant_Historical:T23 
+T24	Distant_Historical 2606 2609	S21
+E24	Distant_Historical:T24 
+T25	Distant_Evaluation 2746 2749	S22
+E25	Distant_Evaluation:T25 
+T26	Distant_Evaluation 2890 2893	S23
+E26	Distant_Evaluation:T26 
+T27	Distant_Evaluation 3083 3086	S24
+E27	Distant_Evaluation:T27 
+T28	Distant_Evaluation 3254 3257	S25
+E28	Distant_Evaluation:T28 
+T29	Distant_Historical 3416 3419	S26
+E29	Distant_Historical:T29 
+T30	Distant_Evaluation 3562 3565	S27
+E30	Distant_Evaluation:T30 
+T31	Distant_Evaluation 3753 3756	S28
+E31	Distant_Evaluation:T31 
+T32	Speech 3868 3871	S29
+E32	Speech:T32 
+T33	Distant_Evaluation 3868 3871	S29
+E33	Distant_Evaluation:T33 
+T34	Distant_Evaluation 4159 4162	S30
+E34	Distant_Evaluation:T34 
+T35	Speech 4159 4162	S30
+E35	Speech:T35 
+T36	Distant_Evaluation 4373 4376	S32
+E36	Distant_Evaluation:T36 
+T37	Distant_Evaluation 4556 4559	S33
+E37	Distant_Evaluation:T37 
+T38	Distant_Historical 4659 4662	S34
+E38	Distant_Historical:T38 
+T39	Distant_Historical 4356 4359	S31
+E39	Distant_Historical:T39 
+T40	Distant_Historical 4879 4882	S35
+E40	Distant_Historical:T40 
+T41	Distant_Historical 5137 5140	S36
+E41	Distant_Historical:T41 
+T42	Distant_Historical 5222 5225	S37
+E42	Distant_Historical:T42 
+T43	NA 5483 5486	S38
+E43	NA:T43 
+T44	NA 5639 5642	S39
+E44	NA:T44 
+T45	Distant_Evaluation 5678 5681	S40
+E45	Distant_Evaluation:T45 
+T46	Distant_Historical 5907 5910	S42
+E46	Distant_Historical:T46 
+T47	Distant_Historical 6066 6069	S43
+E47	Distant_Historical:T47 
+T48	Distant_Historical 6218 6221	S44
+E48	Distant_Historical:T48 
+T49	Distant_Historical 6411 6414	S45
+E49	Distant_Historical:T49 
+T50	Distant_Historical 6577 6580	S46
+E50	Distant_Historical:T50 
+T51	Distant_Historical 6702 6705	S47
+E51	Distant_Historical:T51 
+T52	Distant_Evaluation 6813 6816	S48
+E52	Distant_Evaluation:T52 
+T53	Distant_Historical 5882 5885	S41
+E53	Distant_Historical:T53 
+T54	Distant_Historical 6972 6975	S50
+E54	Distant_Historical:T54 
+T55	Distant_Historical 6954 6957	S49
+E55	Distant_Historical:T55 
+T56	Distant_Historical 7048 7051	S51
+E56	Distant_Historical:T56 
+T57	Distant_Historical 7199 7202	S52
+E57	Distant_Historical:T57 
+T58	Distant_Historical 7271 7274	S53
+E58	Distant_Historical:T58 
+T59	Distant_Historical 7406 7409	S54
+E59	Distant_Historical:T59 
+T60	Cause_General 7483 7486	S55
+E60	Cause_General:T60 
+T61	Distant_Evaluation 7621 7624	S56
+E61	Distant_Evaluation:T61 
+T62	Speech 7621 7624	S56
+E62	Speech:T62 
+T63	Distant_Evaluation 7889 7892	S57
+E63	Distant_Evaluation:T63 
+T64	Distant_Historical 8034 8037	S58
+E64	Distant_Historical:T64 
+T65	Distant_Historical 8301 8304	S59
+E65	Distant_Historical:T65 
+T66	Distant_Historical 8489 8492	S61
+E66	Distant_Historical:T66 
+T67	Distant_Historical 8658 8661	S62
+E67	Distant_Historical:T67 
+T68	Distant_Historical 8943 8946	S63
+E68	Distant_Historical:T68 
+T69	Distant_Historical 9052 9055	S64
+E69	Distant_Historical:T69 
+T70	Distant_Historical 9195 9198	S65
+E70	Distant_Historical:T70 

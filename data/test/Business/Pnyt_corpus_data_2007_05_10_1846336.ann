@@ -1,0 +1,70 @@
+T1	Distant_Expectations_Consequences 1300 1302	S6
+E1	Distant_Expectations_Consequences:T1 
+T2	Main 1549 1551	S7
+E2	Main:T2 
+T3	Cause_General 1778 1780	S8
+E3	Cause_General:T3 
+T4	Main 1847 1849	S9
+E4	Main:T4 
+T5	Distant_Expectations_Consequences 2030 2033	S10
+E5	Distant_Expectations_Consequences:T5 
+T6	Distant_Expectations_Consequences 2147 2150	S11
+E6	Distant_Expectations_Consequences:T6 
+T7	Cause_General 2223 2226	S12
+E7	Cause_General:T7 
+T8	Distant_Expectations_Consequences 2387 2390	S13
+E8	Distant_Expectations_Consequences:T8 
+T9	Distant_Evaluation 2462 2465	S14
+E9	Distant_Evaluation:T9 
+T10	Distant_Evaluation 2603 2606	S15
+E10	Distant_Evaluation:T10 
+T11	Distant_Expectations_Consequences 2670 2673	S16
+E11	Distant_Expectations_Consequences:T11 
+T12	Distant_Evaluation 2819 2822	S17
+E12	Distant_Evaluation:T12 
+T13	Cause_General 153 155	S1
+E13	Cause_General:T13 
+T14	Distant_Evaluation 543 545	S2
+E14	Distant_Evaluation:T14 
+T15	Main 663 665	S3
+E15	Main:T15 
+T16	Distant_Evaluation 840 842	S4
+E16	Distant_Evaluation:T16 
+T17	Distant_Expectations_Consequences 891 893	S5
+E17	Distant_Expectations_Consequences:T17 
+T18	Distant_Expectations_Consequences 2974 2977	S18
+E18	Distant_Expectations_Consequences:T18 
+T19	Distant_Expectations_Consequences 3124 3127	S19
+E19	Distant_Expectations_Consequences:T19 
+T20	Distant_Expectations_Consequences 3278 3281	S20
+E20	Distant_Expectations_Consequences:T20 
+T21	Distant_Evaluation 3364 3367	S21
+E21	Distant_Evaluation:T21 
+T22	Distant_Expectations_Consequences 3407 3410	S22
+E22	Distant_Expectations_Consequences:T22 
+T23	Distant_Evaluation 3554 3557	S23
+E23	Distant_Evaluation:T23 
+T24	Distant_Evaluation 3733 3736	S24
+E24	Distant_Evaluation:T24 
+T25	Distant_Expectations_Consequences 3935 3938	S25
+E25	Distant_Expectations_Consequences:T25 
+T26	Cause_General 4213 4216	S27
+E26	Cause_General:T26 
+T27	Distant_Evaluation 4367 4370	S28
+E27	Distant_Evaluation:T27 
+T28	NA 5492 5495	S35
+E28	NA:T28 
+T29	Distant_Evaluation 5318 5321	S34
+E29	Distant_Evaluation:T29 
+T30	Distant_Expectations_Consequences 5175 5178	S33
+E30	Distant_Expectations_Consequences:T30 
+T31	Distant_Expectations_Consequences 5037 5040	S32
+E31	Distant_Expectations_Consequences:T31 
+T32	Distant_Expectations_Consequences 4738 4741	S31
+E32	Distant_Expectations_Consequences:T32 
+T33	Distant_Expectations_Consequences 4497 4500	S29
+E33	Distant_Expectations_Consequences:T33 
+T34	Distant_Expectations_Consequences 4592 4595	S30
+E34	Distant_Expectations_Consequences:T34 
+T35	Distant_Evaluation 4077 4080	S26
+E35	Distant_Evaluation:T35 

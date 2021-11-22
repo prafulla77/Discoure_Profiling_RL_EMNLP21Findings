@@ -1,0 +1,12 @@
+T1	Main 193 195	S1
+E1	Main:T1 
+T2	Cause_Specific 422 424	S2
+E2	Cause_Specific:T2 
+T3	Cause_Specific 695 697	S3
+E3	Cause_Specific:T3 
+T4	Distant_Evaluation 783 785	S4
+E4	Distant_Evaluation:T4 
+T5	Cause_Specific 1082 1084	S5
+E5	Cause_Specific:T5 
+T6	Main 1281 1283	S6
+E6	Main:T6 

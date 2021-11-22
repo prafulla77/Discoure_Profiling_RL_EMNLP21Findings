@@ -1,0 +1,34 @@
+H  CALL FOR CALM AS LOS ANGELES GIRDS FOR MORE UNREST 
+
+S1  EDS: SUBS throughout; NEW headline; SUBS byline.)
+S2 ; (This article is part of TIMES EXPRESS.
+S3 It is a condensed version of a story that will appear in tomorrow’s New York Times.
+S4 );
+
+S5  LOS ANGELES - The police here were preparing for another night of protests on Tuesday, and community activists were working to maintain the peace after anger over the acquittal of George Zimmerman in the shooting death of Trayvon Martin turned violent in South Los Angeles on Monday night.
+
+S6  A group of about 150 mostly young people broke away from a peaceful demonstration in the Crenshaw district, long home to many of the city’s black residents.
+S7 Protesters ran through the streets, blocking traffic, hitting cars, assaulting pedestrians and ransacking businesses, the police reported.
+
+S8  Hundreds of police officers in riot gear descended on the area to quell the unrest.
+S9 Fourteen people were arrested, the police said, half of them juveniles.
+
+S10  Two decades after the acquittal of white Los Angeles police officers in the beating of Rodney King sparked deadly riots in the same part of the city, residents and public officials agreed that the more muted anger over the Zimmerman verdict in Florida - and the much smaller outbreak of violence - showed how much, and how little, has changed.
+
+S11  “Twenty-one years ago we witnessed what could happen when there’s a reaction to a verdict,” Mark Ridley-Thomas, a Los Angeles County supervisor who represents South Los Angeles, said at a news conference on Monday night.
+S12 “Similar sentiments are being expressed here in this space, but the response of the LAPD is qualitatively different.”
+
+S13  Many in the neighborhood, while remaining wary of law enforcement officials, agreed that relations between black residents and the Police Department had vastly improved.
+S14 The police allowed the demonstration to continue until the violence began.
+
+S15  “The police did a top-notch job,” said Trebien Bellows, 46, a lifelong neighborhood resident.
+S16 “I have to give it up for the new police chief.
+S17 Before things got crazy, they jumped right on it.” Charlie Beck was appointed police chief in 2009.
+
+S18  Attorney General Eric H. Holder Jr., in a speech Tuesday at the NAACP convention in Orlando, Fla., condemned Florida’s Stand Your Ground law.
+S19 “It’s time to question laws that senselessly expand the concept of self-defense and sow dangerous conflict in our neighborhoods,” he said.
+S20 “These laws try to fix something that was never broken.”
+
+S21  The unrest in Los Angeles followed consecutive nights of largely peaceful protests in cities like Atlanta, Chicago, New York and Washington.
+S22 In Oakland, Calif., demonstrators blocked traffic along Interstate 880 for a brief period during the afternoon rush Monday before authorities were able to clear the road.
+

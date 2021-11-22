@@ -1,0 +1,92 @@
+T1	NA 502 504	S2
+E1	NA:T1 
+T2	NA 674 676	S3
+E2	NA:T2 
+T3	Speech 265 267	S1
+E3	Speech:T3 
+T4	Speech 1172 1174	S7
+E4	Speech:T4 
+T5	Speech 1327 1329	S8
+E5	Speech:T5 
+T6	Speech 1409 1411	S9
+E6	Speech:T6 
+T7	Speech 1442 1445	S10
+E7	Speech:T7 
+T8	Speech 1585 1588	S11
+E8	Speech:T8 
+T9	Speech 1724 1727	S12
+E9	Speech:T9 
+T10	Speech 1784 1787	S13
+E10	Speech:T10 
+T11	Speech 1835 1838	S14
+E11	Speech:T11 
+T12	Speech 2246 2249	S17
+E12	Speech:T12 
+T13	Speech 2425 2428	S18
+E13	Speech:T13 
+T14	Speech 2642 2645	S20
+E14	Speech:T14 
+T15	Speech 2685 2688	S21
+E15	Speech:T15 
+T16	Speech 2770 2773	S22
+E16	Speech:T16 
+T17	Speech 2802 2805	S23
+E17	Speech:T17 
+T18	NA 2905 2908	S24
+E18	NA:T18 
+T19	Speech 3053 3056	S26
+E19	Speech:T19 
+T20	Speech 3211 3214	S27
+E20	Speech:T20 
+T21	Distant_Expectations_Consequences 3251 3254	S28
+E21	Distant_Expectations_Consequences:T21 
+T22	Cause_General 3317 3320	S29
+E22	Cause_General:T22 
+T23	Main 265 267	S1
+E23	Main:T23 
+T24	Cause_Specific 731 733	S4
+E24	Cause_Specific:T24 
+T25	Cause_General 1000 1002	S5
+E25	Cause_General:T25 
+T26	Cause_General 1102 1104	S6
+E26	Cause_General:T26 
+T27	Main 1172 1174	S7
+E27	Main:T27 
+T28	Main 1327 1329	S8
+E28	Main:T28 
+T29	Main 1409 1411	S9
+E29	Main:T29 
+T30	Main 1442 1445	S10
+E30	Main:T30 
+T31	Main 1585 1588	S11
+E31	Main:T31 
+T32	Main 1724 1727	S12
+E32	Main:T32 
+T33	Main 1784 1787	S13
+E33	Main:T33 
+T34	Distant_Evaluation 1835 1838	S14
+E34	Distant_Evaluation:T34 
+T35	Distant_Evaluation 1910 1913	S15
+E35	Distant_Evaluation:T35 
+T36	Cause_General 2080 2083	S16
+E36	Cause_General:T36 
+T37	Main 2246 2249	S17
+E37	Main:T37 
+T38	Main 2425 2428	S18
+E38	Main:T38 
+T39	Cause_General 2472 2475	S19
+E39	Cause_General:T39 
+T40	Main 2642 2645	S20
+E40	Main:T40 
+T41	Main 2685 2688	S21
+E41	Main:T41 
+T42	Main 2770 2773	S22
+E42	Main:T42 
+T43	Main 2802 2805	S23
+E43	Main:T43 
+T44	Cause_General 2931 2934	S25
+E44	Cause_General:T44 
+T45	Main 3053 3056	S26
+E45	Main:T45 
+T46	Main 3211 3214	S27
+E46	Main:T46 

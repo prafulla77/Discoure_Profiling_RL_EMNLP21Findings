@@ -1,0 +1,80 @@
+T1	NA 181 183	S1
+E1	NA:T1 
+T2	NA 235 237	S2
+E2	NA:T2 
+T3	Speech 258 260	S3
+E3	Speech:T3 
+T4	Main 258 260	S3
+E4	Main:T4 
+T5	Speech 491 493	S4
+E5	Speech:T5 
+T6	Cause_General 491 493	S4
+E6	Cause_General:T6 
+T7	Distant_Expectations_Consequences 642 644	S5
+E7	Distant_Expectations_Consequences:T7 
+T8	Speech 842 844	S6
+E8	Speech:T8 
+T9	Distant_Evaluation 842 844	S6
+E9	Distant_Evaluation:T9 
+T10	Cause_General 960 962	S7
+E10	Cause_General:T10 
+T11	Speech 1184 1186	S8
+E11	Speech:T11 
+T12	Distant_Evaluation 1184 1186	S8
+E12	Distant_Evaluation:T12 
+T13	Cause_General 1404 1406	S9
+E13	Cause_General:T13 
+T14	Cause_General 1592 1595	S10
+E14	Cause_General:T14 
+T15	Cause_General 1790 1793	S11
+E15	Cause_General:T15 
+T16	Speech 1977 1980	S12
+E16	Speech:T16 
+T17	Distant_Expectations_Consequences 1977 1980	S12
+E17	Distant_Expectations_Consequences:T17 
+T18	Speech 2135 2138	S13
+E18	Speech:T18 
+T19	Speech 2154 2157	S14
+E19	Speech:T19 
+T20	Distant_Evaluation 2135 2138	S13
+E20	Distant_Evaluation:T20 
+T21	Distant_Evaluation 2154 2157	S14
+E21	Distant_Evaluation:T21 
+T22	Speech 2278 2281	S15
+E22	Speech:T22 
+T23	Cause_General 2278 2281	S15
+E23	Cause_General:T23 
+T24	Cause_General 2511 2514	S16
+E24	Cause_General:T24 
+T25	Speech 2511 2514	S16
+E25	Speech:T25 
+T26	Cause_General 2751 2754	S17
+E26	Cause_General:T26 
+T27	Speech 2901 2904	S18
+E27	Speech:T27 
+T28	Distant_Evaluation 2901 2904	S18
+E28	Distant_Evaluation:T28 
+T29	Speech 3050 3053	S19
+E29	Speech:T29 
+T30	Distant_Expectations_Consequences 3050 3053	S19
+E30	Distant_Expectations_Consequences:T30 
+T31	Distant_Evaluation 3222 3225	S20
+E31	Distant_Evaluation:T31 
+T32	Speech 3222 3225	S20
+E32	Speech:T32 
+T33	Speech 3367 3370	S21
+E33	Speech:T33 
+T34	Distant_Evaluation 3367 3370	S21
+E34	Distant_Evaluation:T34 
+T35	Speech 3430 3433	S22
+E35	Speech:T35 
+T36	Distant_Evaluation 3430 3433	S22
+E36	Distant_Evaluation:T36 
+T37	Distant_Evaluation 3567 3570	S23
+E37	Distant_Evaluation:T37 
+T38	Speech 3567 3570	S23
+E38	Speech:T38 
+T39	Distant_Historical 3662 3665	S24
+E39	Distant_Historical:T39 
+T40	Cause_General 3810 3813	S25
+E40	Cause_General:T40 

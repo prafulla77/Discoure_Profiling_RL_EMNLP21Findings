@@ -1,0 +1,78 @@
+T1	NA 3208 3211	S24
+E1	NA:T1 
+T2	NA 1753 1756	S12
+E2	NA:T2 
+T3	NA 1876 1879	S13
+E3	NA:T3 
+T4	Speech 838 840	S4
+E4	Speech:T4 
+T5	Speech 1021 1023	S5
+E5	Speech:T5 
+T6	Speech 1118 1120	S6
+E6	Speech:T6 
+T7	Speech 1247 1249	S7
+E7	Speech:T7 
+T8	Speech 1552 1554	S9
+E8	Speech:T8 
+T9	Speech 1608 1611	S10
+E9	Speech:T9 
+T10	Speech 1691 1694	S11
+E10	Speech:T10 
+T11	Distant_Anecdotal 1552 1554	S9
+E11	Distant_Anecdotal:T11 
+T12	Distant_Anecdotal 1608 1611	S10
+E12	Distant_Anecdotal:T12 
+T13	Distant_Anecdotal 1691 1694	S11
+E13	Distant_Anecdotal:T13 
+T14	Speech 1917 1920	S14
+E14	Speech:T14 
+T15	Distant_Anecdotal 1917 1920	S14
+E15	Distant_Anecdotal:T15 
+T16	Speech 2148 2151	S16
+E16	Speech:T16 
+T17	Distant_Anecdotal 2148 2151	S16
+E17	Distant_Anecdotal:T17 
+T18	Speech 2308 2311	S17
+E18	Speech:T18 
+T19	Distant_Anecdotal 2369 2372	S18
+E19	Distant_Anecdotal:T19 
+T20	Speech 2369 2372	S18
+E20	Speech:T20 
+T21	Distant_Anecdotal 2308 2311	S17
+E21	Distant_Anecdotal:T21 
+T22	Speech 2451 2454	S19
+E22	Speech:T22 
+T23	Distant_Anecdotal 2451 2454	S19
+E23	Distant_Anecdotal:T23 
+T24	Distant_Expectations_Consequences 2548 2551	S20
+E24	Distant_Expectations_Consequences:T24 
+T25	Cause_General 2642 2645	S21
+E25	Cause_General:T25 
+T26	Cause_General 2798 2801	S22
+E26	Cause_General:T26 
+T27	Speech 3025 3028	S23
+E27	Speech:T27 
+T28	Cause_General 3025 3028	S23
+E28	Cause_General:T28 
+T29	Cause_General 3235 3238	S25
+E29	Cause_General:T29 
+T30	Distant_Evaluation 3309 3312	S26
+E30	Distant_Evaluation:T30 
+T31	Main 268 270	S1
+E31	Main:T31 
+T32	Main_Consequence 519 521	S2
+E32	Main_Consequence:T32 
+T33	Main_Consequence 667 669	S3
+E33	Main_Consequence:T33 
+T34	Main_Consequence 838 840	S4
+E34	Main_Consequence:T34 
+T35	Cause_General 1021 1023	S5
+E35	Cause_General:T35 
+T36	Cause_General 1118 1120	S6
+E36	Cause_General:T36 
+T37	Distant_Evaluation 1247 1249	S7
+E37	Distant_Evaluation:T37 
+T38	Cause_General 1369 1371	S8
+E38	Cause_General:T38 
+T39	Cause_General 2017 2020	S15
+E39	Cause_General:T39 

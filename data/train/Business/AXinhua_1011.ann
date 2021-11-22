@@ -1,0 +1,34 @@
+T1	NA 169 171	S1
+E1	NA:T1 
+T2	NA 226 228	S2
+E2	NA:T2 
+T3	Speech 249 251	S3
+E3	Speech:T3 
+T4	Speech 389 391	S4
+E4	Speech:T4 
+T5	Speech 650 652	S5
+E5	Speech:T5 
+T6	Speech 838 840	S7
+E6	Speech:T6 
+T7	Speech 739 741	S6
+E7	Speech:T7 
+T8	Speech 1284 1286	S9
+E8	Speech:T8 
+T9	Speech 1038 1040	S8
+E9	Speech:T9 
+T10	Main 249 251	S3
+E10	Main:T10 
+T11	Main 389 391	S4
+E11	Main:T11 
+T12	Main 650 652	S5
+E12	Main:T12 
+T13	Main 739 741	S6
+E13	Main:T13 
+T14	Distant_Expectations_Consequences 838 840	S7
+E14	Distant_Expectations_Consequences:T14 
+T15	Distant_Evaluation 1038 1040	S8
+E15	Distant_Evaluation:T15 
+T16	Distant_Expectations_Consequences 1284 1286	S9
+E16	Distant_Expectations_Consequences:T16 
+T17	Distant_Expectations_Consequences 1461 1464	S10
+E17	Distant_Expectations_Consequences:T17 

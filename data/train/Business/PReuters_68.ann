@@ -1,0 +1,74 @@
+T1	NA 581 583	S2
+E1	NA:T1 
+T2	NA 729 731	S3
+E2	NA:T2 
+T3	Main 289 291	S1
+E3	Main:T3 
+T4	Main 763 765	S4
+E4	Main:T4 
+T5	Distant_Historical 999 1001	S5
+E5	Distant_Historical:T5 
+T6	Cause_General 1233 1235	S6
+E6	Cause_General:T6 
+T7	Cause_General 1468 1470	S7
+E7	Cause_General:T7 
+T8	Distant_Evaluation 1556 1558	S8
+E8	Distant_Evaluation:T8 
+T9	Speech 1556 1558	S8
+E9	Speech:T9 
+T10	Speech 1720 1722	S9
+E10	Speech:T10 
+T11	Distant_Evaluation 1720 1722	S9
+E11	Distant_Evaluation:T11 
+T12	Cause_General 1882 1885	S10
+E12	Cause_General:T12 
+T13	Cause_General 2013 2016	S11
+E13	Cause_General:T13 
+T14	Speech 2013 2016	S11
+E14	Speech:T14 
+T15	Cause_General 2154 2157	S12
+E15	Cause_General:T15 
+T16	Distant_Evaluation 2405 2408	S13
+E16	Distant_Evaluation:T16 
+T17	Distant_Anecdotal 2648 2651	S14
+E17	Distant_Anecdotal:T17 
+T18	Distant_Anecdotal 2735 2738	S15
+E18	Distant_Anecdotal:T18 
+T19	Distant_Evaluation 2805 2808	S16
+E19	Distant_Evaluation:T19 
+T20	Speech 2735 2738	S15
+E20	Speech:T20 
+T21	Speech 2648 2651	S14
+E21	Speech:T21 
+T22	Distant_Evaluation 2953 2956	S17
+E22	Distant_Evaluation:T22 
+T23	Cause_General 3131 3134	S18
+E23	Cause_General:T23 
+T24	Distant_Evaluation 3235 3238	S19
+E24	Distant_Evaluation:T24 
+T25	Speech 3235 3238	S19
+E25	Speech:T25 
+T26	Distant_Expectations_Consequences 3401 3404	S20
+E26	Distant_Expectations_Consequences:T26 
+T27	Cause_General 3492 3495	S21
+E27	Cause_General:T27 
+T28	Distant_Evaluation 3685 3688	S23
+E28	Distant_Evaluation:T28 
+T29	Distant_Evaluation 3828 3831	S24
+E29	Distant_Evaluation:T29 
+T30	Cause_General 3911 3914	S25
+E30	Cause_General:T30 
+T31	Distant_Evaluation 3665 3668	S22
+E31	Distant_Evaluation:T31 
+T32	Distant_Evaluation 4172 4175	S26
+E32	Distant_Evaluation:T32 
+T33	Distant_Anecdotal 4461 4464	S27
+E33	Distant_Anecdotal:T33 
+T34	Speech 4461 4464	S27
+E34	Speech:T34 
+T35	Distant_Anecdotal 4575 4578	S28
+E35	Distant_Anecdotal:T35 
+T36	Distant_Evaluation 4672 4675	S29
+E36	Distant_Evaluation:T36 
+T37	Speech 4672 4675	S29
+E37	Speech:T37 

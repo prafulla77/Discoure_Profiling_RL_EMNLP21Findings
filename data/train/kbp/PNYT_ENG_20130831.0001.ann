@@ -1,0 +1,86 @@
+T1	NA 78 80	S1
+E1	NA:T1 
+T2	NA 129 131	S2
+E2	NA:T2 
+T3	Main 136 138	S3
+E3	Main:T3 
+T4	Cause_Specific 457 459	S4
+E4	Cause_Specific:T4 
+T5	Cause_Specific 712 714	S5
+E5	Cause_Specific:T5 
+T6	Cause_Specific 1053 1055	S6
+E6	Cause_Specific:T6 
+T7	Main 1330 1332	S7
+E7	Main:T7 
+T8	Speech 1330 1332	S7
+E8	Speech:T8 
+T9	Main_Consequence 1632 1634	S8
+E9	Main_Consequence:T9 
+T10	Distant_Evaluation 1810 1812	S9
+E10	Distant_Evaluation:T10 
+T11	Speech 1897 1900	S10
+E11	Speech:T11 
+T12	Speech 1965 1968	S11
+E12	Speech:T12 
+T13	Distant_Evaluation 1897 1900	S10
+E13	Distant_Evaluation:T13 
+T14	Distant_Evaluation 1965 1968	S11
+E14	Distant_Evaluation:T14 
+T15	Cause_General 2008 2011	S12
+E15	Cause_General:T15 
+T16	Main_Consequence 2057 2060	S13
+E16	Main_Consequence:T16 
+T17	Speech 2057 2060	S13
+E17	Speech:T17 
+T18	Cause_General 2203 2206	S14
+E18	Cause_General:T18 
+T19	Cause_Specific 2425 2428	S15
+E19	Cause_Specific:T19 
+T20	Cause_Specific 2710 2713	S16
+E20	Cause_Specific:T20 
+T21	Cause_Specific 2831 2834	S17
+E21	Cause_Specific:T21 
+T22	Cause_Specific 2989 2992	S18
+E22	Cause_Specific:T22 
+T23	Cause_Specific 3065 3068	S19
+E23	Cause_Specific:T23 
+T24	Cause_Specific 3105 3108	S20
+E24	Cause_Specific:T24 
+T25	Distant_Evaluation 3274 3277	S21
+E25	Distant_Evaluation:T25 
+T27	Cause_Specific 3361 3364	S22
+E27	Cause_Specific:T27 
+T28	Cause_Specific 3493 3496	S23
+E28	Cause_Specific:T28 
+T29	Speech 4539 4542	S30
+E29	Speech:T29 
+T30	Speech 4638 4641	S31
+E30	Speech:T30 
+T31	Speech 4369 4372	S29
+E31	Speech:T31 
+T32	Speech 1632 1634	S8
+E32	Speech:T32 
+T33	Speech 1810 1812	S9
+E33	Speech:T33 
+T34	Speech 2831 2834	S17
+E34	Speech:T34 
+T35	Speech 2989 2992	S18
+E35	Speech:T35 
+T26	Cause_Specific 3589 3592	S24
+E26	Cause_Specific:T26 
+T36	Cause_Specific 3698 3701	S25
+E36	Cause_Specific:T36 
+T37	Cause_Specific 4161 4164	S27
+E37	Cause_Specific:T37 
+T38	Speech 3900 3903	S26
+E38	Speech:T38 
+T39	Cause_Specific 3900 3903	S26
+E39	Cause_Specific:T39 
+T40	Cause_General 4242 4245	S28
+E40	Cause_General:T40 
+T41	Distant_Evaluation 4369 4372	S29
+E41	Distant_Evaluation:T41 
+T42	Distant_Evaluation 4539 4542	S30
+E42	Distant_Evaluation:T42 
+T43	Distant_Evaluation 4638 4641	S31
+E43	Distant_Evaluation:T43 

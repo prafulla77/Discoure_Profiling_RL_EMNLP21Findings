@@ -1,0 +1,30 @@
+T1	Main 177 179	S1
+E1	Main:T1 
+T2	Main_Consequence 470 472	S2
+E2	Main_Consequence:T2 
+T3	Main_Consequence 645 647	S3
+E3	Main_Consequence:T3 
+T4	Cause_Specific 835 837	S4
+E4	Cause_Specific:T4 
+T5	Distant_Expectations_Consequences 930 932	S5
+E5	Distant_Expectations_Consequences:T5 
+T6	Main_Consequence 1098 1100	S6
+E6	Main_Consequence:T6 
+T7	Distant_Evaluation 1261 1263	S7
+E7	Distant_Evaluation:T7 
+T8	Cause_General 1387 1389	S8
+E8	Cause_General:T8 
+T9	Cause_General 1487 1489	S9
+E9	Cause_General:T9 
+T10	Cause_General 1613 1616	S10
+E10	Cause_General:T10 
+T11	Main 1764 1767	S11
+E11	Main:T11 
+T12	Main_Consequence 1917 1920	S12
+E12	Main_Consequence:T12 
+T13	Distant_Evaluation 2049 2052	S13
+E13	Distant_Evaluation:T13 
+T14	Distant_Evaluation 2233 2236	S14
+E14	Distant_Evaluation:T14 
+T15	Main_Consequence 2359 2362	S15
+E15	Main_Consequence:T15 

@@ -1,0 +1,92 @@
+T1	NA 521 523	S2
+E1	NA:T1 
+T2	NA 667 669	S3
+E2	NA:T2 
+T3	NA 698 700	S4
+E3	NA:T3 
+T4	NA 4952 4955	S38
+E4	NA:T4 
+T5	Main 267 269	S1
+E5	Main:T5 
+T6	Main 721 723	S5
+E6	Main:T6 
+T7	Main_Consequence 968 970	S6
+E7	Main_Consequence:T7 
+T8	Main_Consequence 1168 1170	S7
+E8	Main_Consequence:T8 
+T9	Distant_Evaluation 1276 1278	S8
+E9	Distant_Evaluation:T9 
+T10	Main_Consequence 1632 1635	S10
+E10	Main_Consequence:T10 
+T11	Main_Consequence 1512 1514	S9
+E11	Main_Consequence:T11 
+T12	Cause_General 1750 1753	S11
+E12	Cause_General:T12 
+T13	NA 1815 1818	S12
+E13	NA:T13 
+T14	Main_Consequence 1899 1902	S13
+E14	Main_Consequence:T14 
+T15	Main_Consequence 1978 1981	S14
+E15	Main_Consequence:T15 
+T16	Distant_Expectations_Consequences 2142 2145	S16
+E16	Distant_Expectations_Consequences:T16 
+T17	Distant_Evaluation 2031 2034	S15
+E17	Distant_Evaluation:T17 
+T18	Speech 2031 2034	S15
+E18	Speech:T18 
+T19	Speech 2142 2145	S16
+E19	Speech:T19 
+T20	Main_Consequence 2370 2373	S17
+E20	Main_Consequence:T20 
+T21	NA 2754 2757	S19
+E21	NA:T21 
+T22	Main_Consequence 2540 2543	S18
+E22	Main_Consequence:T22 
+T23	Main_Consequence 2833 2836	S20
+E23	Main_Consequence:T23 
+T24	Main_Consequence 3040 3043	S22
+E24	Main_Consequence:T24 
+T25	Cause_General 2946 2949	S21
+E25	Cause_General:T25 
+T26	Main_Consequence 3136 3139	S23
+E26	Main_Consequence:T26 
+T27	Distant_Evaluation 3243 3246	S24
+E27	Distant_Evaluation:T27 
+T28	Main_Consequence 3340 3343	S25
+E28	Main_Consequence:T28 
+T29	Cause_General 3479 3482	S26
+E29	Cause_General:T29 
+T30	Distant_Evaluation 3620 3623	S27
+E30	Distant_Evaluation:T30 
+T31	Speech 3620 3623	S27
+E31	Speech:T31 
+T32	Distant_Evaluation 3777 3780	S28
+E32	Distant_Evaluation:T32 
+T33	Speech 3777 3780	S28
+E33	Speech:T33 
+T34	Main_Consequence 3906 3909	S29
+E34	Main_Consequence:T34 
+T35	Distant_Evaluation 4179 4182	S32
+E35	Distant_Evaluation:T35 
+T36	Speech 4179 4182	S32
+E36	Speech:T36 
+T37	Distant_Evaluation 4427 4430	S33
+E37	Distant_Evaluation:T37 
+T38	Distant_Evaluation 4584 4587	S34
+E38	Distant_Evaluation:T38 
+T39	Distant_Evaluation 4679 4682	S35
+E39	Distant_Evaluation:T39 
+T40	Speech 4427 4430	S33
+E40	Speech:T40 
+T41	Speech 4584 4587	S34
+E41	Speech:T41 
+T42	Speech 4679 4682	S35
+E42	Speech:T42 
+T43	Main_Consequence 4697 4700	S36
+E43	Main_Consequence:T43 
+T44	Main_Consequence 4873 4876	S37
+E44	Main_Consequence:T44 
+T45	Main_Consequence 4090 4093	S31
+E45	Main_Consequence:T45 
+T46	Main_Consequence 3925 3928	S30
+E46	Main_Consequence:T46 

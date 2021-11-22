@@ -1,0 +1,52 @@
+URL http://query.nytimes.com/gst/fullpage.html?res=9F00EED81430F935A35752C0A9619C8B63
+
+DATE/ AUTHOR None	AUTHORS: David Barboza
+
+H China Moves to Tighten the Money Supply
+
+S1 China's central bank said late Friday that it had raised the reserve requirement ratio for banks, the fourth increase in six months, to further tighten the nation's money supply.
+
+S2 The modest move, which takes effect this month, increases the reserve ratio by half a percentage point, to 9.5 percent.
+S3 Analysts said it was the government's latest warning that too much money in the financial system could ignite inflation and perhaps fuel a stock market bubble.
+
+S4 ''This is a warning shot,'' said Dong Tao, the chief economist for non-Japan Asia at Credit Suisse.
+S5 ''If the stock market continues to go up, we might see further tightening.''
+
+S6 Raising the amount of cash reserves that Chinese banks keep on hand with the central bank effectively restricts the amount of money that banks can lend.
+S7 While not being very restrictive, the central bank aims to curb excessive lending to new factories, real estate projects and road construction.
+
+S8 The move also comes as China's stock market is booming after several years in the doldrums.
+S9 Last year, the country's key index -- the Shanghai exchange -- rose 130 percent to close at 2,675, a record and the best performance of any major stock exchange in the world in 2006.
+
+S10 The market reached a 16-year high in December, as millions of investors who had been sitting on the sidelines in 2004 and 2005 jumped back into stocks.
+
+S11 Analysts say the government is determined to keep the economy expanding but is concerned about growing so quickly that the economy might crash before 2008, when Beijing is host to the Olympic Games, viewed as the ultimate coming-out party for China.
+
+S12 Overinvestment in real estate and construction has been among the chief worries for the government.
+S13 And for much of the last two years there have been frequent warnings and government measures to tame a wild property run.
+
+S14 The Central Bank said that last October, for the first time in five years, the bank savings of Chinese citizens decreased from the month before, presumably as more money went into the stock market.
+S15 Credit Suisse estimated that more than $30 billion in bank deposits have flowed into mutual funds or direct plays into the stock market over the last six weeks.
+
+S16 Many analysts say now that the bull run will continue in 2007, prompting even more money to flow into the market.
+S17 One Chinese mutual fund raised $5 billion in a single day recently before closing its doors to new investors, an astonishing achievement here, according to some economists.
+
+S18 Industrial and Commercial Bank of China, which was publicly listed only last October, here in Shanghai and in Hong Kong, has already gained over 70 percent.
+S19 This week, prices shot up again, before falling sharply Friday.
+
+S20 The run-up means companies in China can once again raise money in the Chinese market rather than relying on the Hong Kong stock market.
+S21 But huge risks remain in a market that many analysts have long derided as a gambling den crowded with companies with suspect accounting.
+
+S22 Several economists say that more increases are expected in the coming months, to tame the economy and the stock market.
+
+S23 Hong Liang, a Hong Kong-based economist at Goldman Sachs, said that the government had used the reserve ratio as a policy tool to help manage the economy but that it had not been very effective in cooling things down.
+S24 She did not ''expect it to have much impact on the real economy or the financial markets.''
+
+S25 Large amounts of money flow into the country through foreign investments and surplus dollars from trade.
+S26 China also has a high savings rate.
+S27 So many people are looking to put that money to work -- in real estate, the stock market and even by investing in art and antiques.
+
+S28 ''A lot of hot money has entered the market, legally and otherwise,'' said Chang Chun, a professor of finance at the China Europe International Business School in Shanghai, speaking of the stock market.
+S29 ''In the past few years people were overpessimistic.
+S30 Right now, they are overoptimistic and they're bringing a lot of money into the market.''
+

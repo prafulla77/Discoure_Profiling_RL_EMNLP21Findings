@@ -1,0 +1,67 @@
+URL http://query.nytimes.com/gst/fullpage.html?res=9D04E4D81730F937A35752C0A9619C8B63
+
+DATE/ AUTHOR None	AUTHORS: Vikas Bajaj
+
+H Markets Finish Mixed as Fed Hints at Nagging Concern With Inflation
+
+S1 Stocks surged early yesterday, the first trading day of 2007, but fell sharply after minutes from a Federal Reserve meeting indicated that inflation remained the chief concern of policy makers even as they started to worry about a weakening economy.
+S2 Markets closed mixed for the day.
+
+S3 The Standard & Poor's 500-stock index closed down slightly, at 1,416.63, after being up 0.8 percent.
+S4 The Nasdaq composite index surged 1.6 percent early, but reversed course in the afternoon, falling 0.9 percent; it closed up 7.87 points, or 0.33 percent, at 2,423.16.
+
+S5 The Dow Jones industrial average also seesawed to a modest gain of 11.37 points, closing at 12,474.52.
+S6 Bonds were up slightly and the dollar rose against the euro and yen.
+
+S7 Like markets in Europe and Asia, American stock markets, which were closed Tuesday in observance of the day of mourning for President Gerald R. Ford, began the year on an upbeat note.
+S8 Investors were encouraged by Wal-Mart's posting of sales that were stronger than expected, and by a report showing an increase in manufacturing activity last month.
+
+S9 But the rally started to sag in early afternoon and collapsed shortly after the Fed released the minutes of its Dec. 12 meeting.
+S10 Energy stocks were among the biggest losers as crude oil futures fell by $2.73, to $58.32 a barrel, the first time they have closed below $60 since November.
+
+S11 The Fed, as it has done repeatedly in recent months, indicated in its minutes that while inflation had moderated, the central bank's policy makers were worried that it remained too high and that they might need to raise short-term interest rates.
+S12 The minutes noted, however, that one unnamed member of the policy-making committee wanted the Fed to acknowledge that it could also cut rates to reinvigorate the economy.
+
+S13 ''It was a blunt reminder to the stock market that the Fed's going to err on the side of avoiding inflation,'' said Ethan S. Harris, chief United States economist at Lehman Brothers.
+
+S14 Stocks climbed steadily in the last six months of 2006, partly on the expectation that the Fed, which last raised interest rates in June, to 5.25 percent, would start cutting rates in the first half of 2007.
+S15 But some economists and market specialists have suggested that that view was inconsistent with investors' optimism that the economy and corporate profits would hold up well in the coming year.
+
+S16 ''There is a sense in the stock market that you can have your cake and eat it too, that you can have good growth and rate cuts from the Fed,'' Mr. Harris said.
+
+S17 The bond and futures markets, by contrast, have become a little less hopeful in recent weeks about interest rate cuts, and are now priced with the expectation that the Fed's first rate cut will come in late June.
+S18 Yields on the 10-year Treasury note, which move in the opposite direction of the price, have risen to 4.66 percent, from a low of 4.02 percent at the start of December.
+S19 Bond prices and yields were little changed in yesterday's trading after the Fed's announcement.
+
+S20 ''The bond market got the reaction to the Fed minutes right,'' said Joseph Biondo, a senior portfolio manager at Biondo Investment Advisors, ''and the stock market didn't.''
+
+S21 Still, market specialists said the stocks' late-afternoon recovery suggested that investors were not as moved by the Fed as it first seemed.
+S22 Also, the energy sector was responsible for much of the decline in stock prices -- the S.& P. Energy index fell 3.7 percent for the day.
+S23 Analysts said warmer-than-expected temperatures on the East Coast helped drive down prices for crude oil and other commodities.
+
+S24 Another concern for the markets is the possibility that profit growth will slow.
+S25 Companies will start reporting results for the fourth quarter later this month and, for the first time in four and a half years, profits may not post double-digit gains, said Sam Stovall, chief investment strategist for S.& P.'s Equity Research Service.
+S26 He said he expected stocks to register a gain in 2007, but that the markets might first experience a correction typically seen late in an economic expansion.
+
+S27 ''There is a healthy level of skepticism that is coming back into equity valuations,'' he said.
+
+S28 The next few days could prove critical, specialists note, citing a market truism that the markets' performance in the first five trading days of a year is a harbinger of their performance in the coming 12 months.
+
+S29 While it is too early to draw those broader conclusions, the market did appear to start off on a new footing.
+S30 Toward the end of last year, volatility, a measure of the sharpness of the stock market's movements, fell to historic lows.
+
+S31 ''Volatility is back,'' said Jeffrey N. Kleintop, chief investment strategist at PNC Advisors.
+S32 ''That's maybe the story for 2007.
+S33 We have not seen it for a while.
+S34 At this point in prior business cycles, we saw volatility spike back up.''
+
+S35 Following are the results of yesterday's auction for four-week Treasury bills:
+
+S36 (000 omitted in dollar figures)
+
+S37 Price -- 99.629  High Rate -- 4.760  Coupon Yield -- 4.844  Low Rate -- 4.730  Median Rate -- 4.750  Total applied for -- $32,054,700  Accepted -- $11,555,120  Noncompetitive -- $275,708
+
+S38 The four-week bills mature February 01, 2007.
+
+S39 STOCKS & BONDS
+

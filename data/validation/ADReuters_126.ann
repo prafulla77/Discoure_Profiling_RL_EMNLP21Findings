@@ -1,0 +1,24 @@
+T1	Speech 294 296	S1
+E1	Speech:T1 
+T2	Speech 881 883	S4
+E2	Speech:T2 
+T3	Cause_Specific 294 296	S1
+E3	Cause_Specific:T3 
+T4	Main 559 561	S2
+E4	Main:T4 
+T5	Distant_Expectations_Consequences 798 800	S3
+E5	Distant_Expectations_Consequences:T5 
+T6	Distant_Expectations_Consequences 881 883	S4
+E6	Distant_Expectations_Consequences:T6 
+T7	Cause_General 1047 1049	S5
+E7	Cause_General:T7 
+T8	Distant_Expectations_Consequences 1175 1177	S6
+E8	Distant_Expectations_Consequences:T8 
+T9	Cause_General 1397 1399	S7
+E9	Cause_General:T9 
+T10	Distant_Expectations_Consequences 1651 1653	S8
+E10	Distant_Expectations_Consequences:T10 
+T11	Distant_Expectations_Consequences 1855 1858	S10
+E11	Distant_Expectations_Consequences:T11 
+T12	Distant_Expectations_Consequences 1705 1707	S9
+E12	Distant_Expectations_Consequences:T12 

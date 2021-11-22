@@ -1,0 +1,22 @@
+T1	NA 191 193	S1
+E1	NA:T1 
+T2	NA 247 249	S2
+E2	NA:T2 
+T3	Main_Consequence 270 272	S3
+E3	Main_Consequence:T3 
+T4	Main 453 455	S4
+E4	Main:T4 
+T5	Cause_Specific 684 686	S5
+E5	Cause_Specific:T5 
+T6	Main_Consequence 814 816	S6
+E6	Main_Consequence:T6 
+T7	Main_Consequence 1021 1023	S7
+E7	Main_Consequence:T7 
+T8	Main_Consequence 1239 1241	S8
+E8	Main_Consequence:T8 
+T9	Cause_General 1395 1397	S9
+E9	Cause_General:T9 
+T10	Main_Consequence 1635 1638	S10
+E10	Main_Consequence:T10 
+T11	Main_Consequence 1773 1776	S11
+E11	Main_Consequence:T11 

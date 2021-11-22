@@ -1,0 +1,18 @@
+T1	NA 170 172	S1
+E1	NA:T1 
+T2	NA 229 231	S2
+E2	NA:T2 
+T3	Main 252 254	S3
+E3	Main:T3 
+T5	Cause_Specific 385 387	S4
+E5	Cause_Specific:T5 
+T4	Distant_Evaluation 668 670	S5
+E4	Distant_Evaluation:T4 
+T6	Cause_General 832 834	S6
+E6	Cause_General:T6 
+T7	Distant_Evaluation 1049 1051	S7
+E7	Distant_Evaluation:T7 
+T8	Cause_General 1407 1409	S9
+E8	Cause_General:T8 
+T9	Distant_Evaluation 1230 1232	S8
+E9	Distant_Evaluation:T9 

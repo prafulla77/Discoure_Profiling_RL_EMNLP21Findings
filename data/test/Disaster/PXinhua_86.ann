@@ -1,0 +1,40 @@
+T1	NA 174 176	S1
+E1	NA:T1 
+T2	NA 233 235	S2
+E2	NA:T2 
+T3	NA 256 258	S3
+E3	NA:T3 
+T4	NA 393 395	S4
+E4	NA:T4 
+T5	NA 552 554	S5
+E5	NA:T5 
+T6	NA 703 705	S6
+E6	NA:T6 
+T7	NA 886 888	S7
+E7	NA:T7 
+T8	NA 1005 1007	S8
+E8	NA:T8 
+T9	Main 1032 1034	S9
+E9	Main:T9 
+T10	Main_Consequence 1221 1224	S10
+E10	Main_Consequence:T10 
+T11	Distant_Expectations_Consequences 1457 1460	S11
+E11	Distant_Expectations_Consequences:T11 
+T12	Main_Consequence 1601 1604	S12
+E12	Main_Consequence:T12 
+T13	Main_Consequence 1722 1725	S13
+E13	Main_Consequence:T13 
+T14	Main_Consequence 1777 1780	S14
+E14	Main_Consequence:T14 
+T15	Main_Consequence 2013 2016	S15
+E15	Main_Consequence:T15 
+T16	Main_Consequence 2159 2162	S16
+E16	Main_Consequence:T16 
+T17	Main_Consequence 2216 2219	S17
+E17	Main_Consequence:T17 
+T18	Main_Consequence 2364 2367	S18
+E18	Main_Consequence:T18 
+T19	Main_Consequence 2499 2502	S19
+E19	Main_Consequence:T19 
+T20	Cause_General 2652 2655	S20
+E20	Cause_General:T20 

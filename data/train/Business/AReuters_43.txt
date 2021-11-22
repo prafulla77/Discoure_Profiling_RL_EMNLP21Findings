@@ -1,0 +1,96 @@
+URL https://www.reuters.com/article/us-lg-display-crisis-focus/lg-display-struggles-for-footing-after-lcd-forecasting-error-leads-to-crisis-idUSKCN1LS0TV
+
+DATE/ AUTHOR 2018-09-13 02:20:04+00:00	AUTHORS: Ju-Min Park, Min Read
+
+H LG Display struggles for footing after LCD forecasting error leads to crisis
+
+S1 SEOUL (Reuters) - The chief executive of South Korea’s LG Display (034220.KS), Han Sang-beom, was determined to deliver a strong message when he appeared before 1,000 employees at the firm’s main manufacturing plant last spring.
+
+S2 FILE PHOTO: A woman looks at a LG Electronics' organic light-emitting diode (OLED) TV, which is made with LG Display flat screens, at its store in Seoul, South Korea, April 26, 2016.
+S3 REUTERS/Kim Hong-Ji/File Photo
+
+S4 So he donned a pair of goggles, picked up a hammer, and smashed a liquid-crystal display screen to bits.
+
+S5 The symbolism was impossible to miss: LCD panels, the company’s mainstay for years, were being relegated to the industrial dustbin.
+S6 The company’s future would depend on a newer technology, organic light-emitting diode, or OLED.
+
+S7 “I’ve never seen him do such a thing,” said one company official who was present.
+S8 “His performance showed a grim determination to weather this crisis.”
+
+S9 Yet LG Display’s predicament was in many ways one of its own making.
+S10 Less than a year earlier, the company had showered employees with perks and bonuses as profits rolled in, driven by the company’s leadership in LCD screens for TVs, computer monitors and smartphones.
+
+S11 But LG Display had misread the market: Chinese competitors were coming on strong, and by early this year prices for LCD screens were plummeting.
+S12 The fat profits of 2017 turned into big losses in 2018 - and the company abruptly announced in July that it would slash $2.7 billion in capital spending it had planned through 2020.
+
+S13 It did not reveal its total or previous targets but made about $6 billion in capital expenditures in 2017, according to Eikon data.
+
+S14 The company’s troubles stand as a stark example of the risks inherent in hotly competitive technology businesses that require massive capital investment.
+
+S15 “It seems that LG Display made a major miscalculation on its LCD business, not accurately judging the timing to pull away when they could see China’s rapid catch-up,” said Lee Won-sik, an analyst at Shinyoung Securities.
+
+S16 “We knew from last year LCD prices would go down but we did not expect this big and fast fall,” acknowledged one LG Display official, who, like others in this article, declined to be identified because he was not authorized to speak to the media.
+S17 “Customers had been asking for price cuts, but we didn’t act until it got too late.”
+
+S18 PRICES IN FREE-FALL
+
+S19 LG Display posted five straight years of strong profits after Han took the helm in 2012, riding a tide of LCD screen orders from Apple Inc (AAPL.O) and strong demand for both phone and TV screens from LG Electronics (066570.KS), which owns more than a third of the display-maker.
+
+S20 LG Display also began to invest in OLED displays, which unlike LCD screens don’t require backlighting and can deliver more natural-looking colors.
+S21 OLED screens also consume less energy and can be bent and folded.
+
+S22 But the technology is expensive, and LG Display was earning the vast majority of its revenue from LCDs.
+S23 Until its recent cutbacks, it was running eight LCD production lines in South Korea and another in China.
+
+S24 While LG Display hummed along, Chinese companies, led by BOE Technology Group Co Ltd (000725.SZ), were pouring huge sums into LCD production.
+
+S25 LG Display Vice Chairman Han Sang-beom smashes a discarded 55-inch LCD panel with a hammer during an event at their factory in Paju, South Korea, April 26, 2018.
+S26 LG Display/Handout via REUTERS
+
+S27 By January 2017, BOE had become the No.
+S28 1 supplier of LCDs larger than 9 inches, according to market tracker IHS Markit, taking 22.3 percent of unit shipments versus 21.6 percent for LG Display.
+S29 It was the first time a Chinese display maker had taken the top spot.
+
+S30 By early 2018, prices for many types of LCDs were in free-fall.
+S31 Prices for 50-inch LCD television panels, for example, slid 32 percent in August versus the same month last year, according to IHS Markit.
+
+S32 LG Display’s big South Korean rival, the display unit of Samsung Electronics (005930.KS), had begun pulling back from LCD years earlier, shutting down older LCD production lines in South Korea beginning in 2010, according to a Samsung Display official.
+S33 The company now has just two LCD factories in South Korea and one in China.
+
+S34 But LG Display was caught flat-footed and is now furiously slashing LCD capacity.
+S35 It has closed three LCD production lines since last year and abandoned plans for a new one.
+
+S36 The company in April also rolled out an “emergency management system,” with employees being told to use cheaper flights and cut back on group meals, company sources told Reuters.
+S37 Cash flow has become a concern: it was negative 838.2 billion won ($743.93 million) in the second quarter, according to Eikon data, and has been negative for three straight quarters.
+
+S38 Three company sources say the company is not planning layoffs for fear of losing talent to China, but some employees are frustrated with cuts in benefits.
+
+S39 “Executives are trying to keep the morale up, telling us media reports about a voluntary redundancy program are false,” a company source with knowledge of the matter said.
+
+S40 OLED A GAME CHANGER?
+
+S41 LG Display is now betting the house on OLED, and says it can fund $17.6 billion in OLED investments over the next three years.
+S42 It expects the newer technology to account for 40 percent of revenue by 2020, up from just 10 percent today.
+
+S43 As OLED becomes more prevalent, LG Display’s fortunes could turn, analysts say.
+
+S44 LG Display’s OLED panels have helped its sibling, LG Electronics, take the lead in high-end televisions.
+S45 Some analysts believe LG Display has been pressured to supply those panels cheaply, hurting its profitability, though the company denies that is the case.
+
+S46 But the OLED market promises to be tough.
+S47 Samsung boasts that it has been investing in OLED since 2005.
+S48 BOE is getting into OLED too.
+S49 LG Display has costly process for durable OLED TVs, but there are no better alternatives, said Ross Young, chief executive of research provider Display Supply Chain Consultants.
+
+S50 “LG Display’s current approach is the best solution for the market,” Young said.
+
+S51 Son Young-jun, LG Display’s vice president of public relations, said in a statement that the company is the only producer of large-size OLED displays and had “unmatched technological expertise” in OLED.
+S52 “The potential and outlook ahead is promising,” he said.
+
+S53 LG Display says its OLED division will turn a profit in the third quarter.
+S54 It also expects LCD prices to stabilize, enabling it to squeeze profits from the older technology until the newer one matures.
+
+S55 “Given OLED is our answer and solution to the crisis, there’s nothing else we can do other than tightening our belts and pushing for OLED,” a company official said.
+
+S56 Graphic: tmsnrt.rs/2OaszIW
+

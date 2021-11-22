@@ -1,0 +1,82 @@
+T1	Main 302 304	S1
+E1	Main:T1 
+T2	Speech 302 304	S1
+E2	Speech:T2 
+T3	NA 577 579	S2
+E3	NA:T3 
+T4	NA 801 803	S3
+E4	NA:T4 
+T5	Speech 1280 1282	S6
+E5	Speech:T5 
+T6	Speech 1446 1448	S7
+E6	Speech:T6 
+T7	Speech 1559 1561	S8
+E7	Speech:T7 
+T8	Speech 1746 1748	S9
+E8	Speech:T8 
+T9	Speech 1997 2000	S11
+E9	Speech:T9 
+T10	Speech 2236 2239	S13
+E10	Speech:T10 
+T11	Speech 2970 2973	S18
+E11	Speech:T11 
+T12	Speech 3070 3073	S19
+E12	Speech:T12 
+T13	Speech 3096 3099	S20
+E13	Speech:T13 
+T14	Speech 3421 3424	S22
+E14	Speech:T14 
+T15	NA 3805 3808	S25
+E15	NA:T15 
+T16	Speech 3831 3834	S26
+E16	Speech:T16 
+T17	Cause_General 835 837	S4
+E17	Cause_General:T17 
+T18	Cause_Specific 1072 1074	S5
+E18	Cause_Specific:T18 
+T19	Cause_Specific 1280 1282	S6
+E19	Cause_Specific:T19 
+T20	Cause_Specific 1446 1448	S7
+E20	Cause_Specific:T20 
+T21	Cause_Specific 1559 1561	S8
+E21	Cause_Specific:T21 
+T22	Cause_Specific 1746 1748	S9
+E22	Cause_Specific:T22 
+T23	Cause_Specific 1898 1901	S10
+E23	Cause_Specific:T23 
+T24	Distant_Evaluation 1997 2000	S11
+E24	Distant_Evaluation:T24 
+T25	Cause_General 2170 2173	S12
+E25	Cause_General:T25 
+T26	Cause_General 2236 2239	S13
+E26	Cause_General:T26 
+T27	Main_Consequence 2351 2354	S14
+E27	Main_Consequence:T27 
+T28	Cause_General 2495 2498	S15
+E28	Cause_General:T28 
+T29	Distant_Evaluation 2624 2627	S16
+E29	Distant_Evaluation:T29 
+T30	Cause_General 2784 2787	S17
+E30	Cause_General:T30 
+T31	Distant_Evaluation 2970 2973	S18
+E31	Distant_Evaluation:T31 
+T32	Distant_Evaluation 3070 3073	S19
+E32	Distant_Evaluation:T32 
+T33	Distant_Evaluation 3096 3099	S20
+E33	Distant_Evaluation:T33 
+T34	Cause_Specific 3252 3255	S21
+E34	Cause_Specific:T34 
+T35	Cause_Specific 3680 3683	S24
+E35	Cause_Specific:T35 
+T36	Distant_Evaluation 3421 3424	S22
+E36	Distant_Evaluation:T36 
+T37	Cause_General 3558 3561	S23
+E37	Cause_General:T37 
+T38	Distant_Evaluation 3831 3834	S26
+E38	Distant_Evaluation:T38 
+T39	Distant_Evaluation 4023 4026	S27
+E39	Distant_Evaluation:T39 
+T40	Distant_Evaluation 4095 4098	S28
+E40	Distant_Evaluation:T40 
+T41	Distant_Evaluation 4161 4164	S29
+E41	Distant_Evaluation:T41 

@@ -1,0 +1,16 @@
+T1	NA 292 294	S1
+E1	NA:T1 
+T2	NA 419 421	S2
+E2	NA:T2 
+T3	Speech 445 447	S3
+E3	Speech:T3 
+T4	Main 445 447	S3
+E4	Main:T4 
+T5	Speech 607 609	S4
+E5	Speech:T5 
+T6	Main_Consequence 607 609	S4
+E6	Main_Consequence:T6 
+T7	Speech 782 784	S5
+E7	Speech:T7 
+T8	Distant_Expectations_Consequences 782 784	S5
+E8	Distant_Expectations_Consequences:T8 

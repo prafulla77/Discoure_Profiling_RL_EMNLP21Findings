@@ -1,0 +1,14 @@
+T1	Main 48 50	S1
+E1	Main:T1 
+T2	Main 193 195	S2
+E2	Main:T2 
+T3	Cause_General 681 683	S4
+E3	Cause_General:T3 
+T4	Cause_General 456 458	S3
+E4	Cause_General:T4 
+T5	Main 872 874	S5
+E5	Main:T5 
+T6	Cause_General 1104 1106	S6
+E6	Cause_General:T6 
+T7	Main 1296 1298	S7
+E7	Main:T7 

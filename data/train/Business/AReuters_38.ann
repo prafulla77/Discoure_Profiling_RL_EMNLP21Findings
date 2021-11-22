@@ -1,0 +1,72 @@
+T1	NA 4383 4386	S24
+E1	NA:T1 
+T2	NA 4408 4411	S25
+E2	NA:T2 
+T3	Speech 1130 1132	S5
+E3	Speech:T3 
+T4	Distant_Expectations_Consequences 1130 1132	S5
+E4	Distant_Expectations_Consequences:T4 
+T5	Speech 1330 1332	S6
+E5	Speech:T5 
+T6	Speech 1596 1598	S7
+E6	Speech:T6 
+T7	Speech 1768 1770	S8
+E7	Speech:T7 
+T8	Speech 1875 1877	S9
+E8	Speech:T8 
+T9	Speech 2105 2108	S10
+E9	Speech:T9 
+T10	Speech 2804 2807	S14
+E10	Speech:T10 
+T11	Speech 2960 2963	S15
+E11	Speech:T11 
+T12	Speech 3022 3025	S16
+E12	Speech:T12 
+T13	Speech 3300 3303	S18
+E13	Speech:T13 
+T14	Speech 3585 3588	S19
+E14	Speech:T14 
+T15	Main 286 288	S1
+E15	Main:T15 
+T16	Distant_Evaluation 543 545	S2
+E16	Distant_Evaluation:T16 
+T17	Cause_General 673 675	S3
+E17	Cause_General:T17 
+T18	Distant_Evaluation 879 881	S4
+E18	Distant_Evaluation:T18 
+T19	Distant_Evaluation 1330 1332	S6
+E19	Distant_Evaluation:T19 
+T20	Distant_Evaluation 1596 1598	S7
+E20	Distant_Evaluation:T20 
+T21	Distant_Evaluation 1768 1770	S8
+E21	Distant_Evaluation:T21 
+T22	Distant_Evaluation 1875 1877	S9
+E22	Distant_Evaluation:T22 
+T23	Distant_Expectations_Consequences 2105 2108	S10
+E23	Distant_Expectations_Consequences:T23 
+T24	Cause_General 2339 2342	S12
+E24	Cause_General:T24 
+T25	Cause_General 2582 2585	S13
+E25	Cause_General:T25 
+T26	Distant_Evaluation 2804 2807	S14
+E26	Distant_Evaluation:T26 
+T27	Distant_Evaluation 2960 2963	S15
+E27	Distant_Evaluation:T27 
+T28	Distant_Evaluation 3022 3025	S16
+E28	Distant_Evaluation:T28 
+T29	Cause_General 3102 3105	S17
+E29	Cause_General:T29 
+T30	Cause_General 3300 3303	S18
+E30	Cause_General:T30 
+T31	Distant_Expectations_Consequences 3585 3588	S19
+E31	Distant_Expectations_Consequences:T31 
+T32	Distant_Expectations_Consequences 3753 3756	S20
+E32	Distant_Expectations_Consequences:T32 
+T33	Cause_General 3908 3911	S21
+E33	Cause_General:T33 
+T34	Cause_General 4015 4018	S22
+E34	Cause_General:T34 
+T35	Cause_General 4313 4316	S23
+E35	Cause_General:T35 
+T36	Cause_General 2316 2319	S11
+E36	Cause_General:T36 

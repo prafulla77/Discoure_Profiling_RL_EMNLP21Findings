@@ -1,0 +1,48 @@
+T1	NA 219 221	S2
+E1	NA:T1 
+T2	NA 160 162	S1
+E2	NA:T2 
+T3	Main 242 244	S3
+E3	Main:T3 
+T4	Main 402 404	S4
+E4	Main:T4 
+T5	Cause_General 539 541	S5
+E5	Cause_General:T5 
+T6	Cause_General 622 624	S6
+E6	Cause_General:T6 
+T7	Cause_General 668 670	S7
+E7	Cause_General:T7 
+T8	Main 844 846	S8
+E8	Main:T8 
+T9	Cause_General 929 931	S9
+E9	Cause_General:T9 
+T10	Cause_General 1043 1046	S10
+E10	Cause_General:T10 
+T11	Cause_General 1165 1168	S11
+E11	Cause_General:T11 
+T12	Cause_General 1212 1215	S12
+E12	Cause_General:T12 
+T13	Cause_General 1281 1284	S13
+E13	Cause_General:T13 
+T14	Cause_General 1412 1415	S14
+E14	Cause_General:T14 
+T15	Cause_General 1524 1527	S15
+E15	Cause_General:T15 
+T16	Main 1623 1626	S16
+E16	Main:T16 
+T17	Cause_General 1681 1684	S17
+E17	Cause_General:T17 
+T18	Cause_General 1783 1786	S18
+E18	Cause_General:T18 
+T19	Cause_Specific 1901 1904	S19
+E19	Cause_Specific:T19 
+T20	Cause_Specific 2071 2074	S20
+E20	Cause_Specific:T20 
+T21	Distant_Expectations_Consequences 2249 2252	S21
+E21	Distant_Expectations_Consequences:T21 
+T22	Cause_General 2383 2386	S22
+E22	Cause_General:T22 
+T23	Cause_General 2536 2539	S23
+E23	Cause_General:T23 
+T24	Cause_General 2634 2637	S24
+E24	Cause_General:T24 

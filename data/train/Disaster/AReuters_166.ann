@@ -1,0 +1,14 @@
+T1	Main 265 267	S1
+E1	Main:T1 
+T2	Speech 265 267	S1
+E2	Speech:T2 
+T3	Cause_General 416 418	S2
+E3	Cause_General:T3 
+T4	Speech 500 502	S3
+E4	Speech:T4 
+T5	Distant_Expectations_Consequences 500 502	S3
+E5	Distant_Expectations_Consequences:T5 
+T6	Speech 637 639	S4
+E6	Speech:T6 
+T7	Cause_General 637 639	S4
+E7	Cause_General:T7 

@@ -1,0 +1,22 @@
+T1	NA 176 178	S1
+E1	NA:T1 
+T2	NA 227 229	S2
+E2	NA:T2 
+T3	Speech 884 886	S6
+E3	Speech:T3 
+T4	Distant_Historical 995 997	S7
+E4	Distant_Historical:T4 
+T5	Distant_Expectations_Consequences 1151 1153	S8
+E5	Distant_Expectations_Consequences:T5 
+T6	Distant_Historical 1233 1235	S9
+E6	Distant_Historical:T6 
+T7	Main 250 252	S3
+E7	Main:T7 
+T8	Main 418 420	S4
+E8	Main:T8 
+T9	Main_Consequence 596 598	S5
+E9	Main_Consequence:T9 
+T10	Speech 596 598	S5
+E10	Speech:T10 
+T11	Distant_Evaluation 884 886	S6
+E11	Distant_Evaluation:T11 

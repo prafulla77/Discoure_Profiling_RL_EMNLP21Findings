@@ -1,0 +1,94 @@
+T1	Speech 518 520	S3
+E1	Speech:T1 
+T2	Speech 1101 1103	S6
+E2	Speech:T2 
+T3	NA 1207 1209	S7
+E3	NA:T3 
+T4	Speech 1810 1813	S12
+E4	Speech:T4 
+T5	Speech 1992 1995	S13
+E5	Speech:T5 
+T6	NA 2113 2116	S14
+E6	NA:T6 
+T7	NA 2207 2210	S15
+E7	NA:T7 
+T8	NA 3765 3768	S29
+E8	NA:T8 
+T9	Speech 2351 2354	S18
+E9	Speech:T9 
+T10	Speech 2570 2573	S20
+E10	Speech:T10 
+T11	Speech 2795 2798	S21
+E11	Speech:T11 
+T12	Distant_Anecdotal 2570 2573	S20
+E12	Distant_Anecdotal:T12 
+T13	Distant_Anecdotal 2795 2798	S21
+E13	Distant_Anecdotal:T13 
+T14	Speech 2955 2958	S23
+E14	Speech:T14 
+T15	Speech 3052 3055	S24
+E15	Speech:T15 
+T16	Distant_Anecdotal 2955 2958	S23
+E16	Distant_Anecdotal:T16 
+T17	Distant_Anecdotal 3052 3055	S24
+E17	Distant_Anecdotal:T17 
+T18	Speech 3137 3140	S25
+E18	Speech:T18 
+T19	Distant_Anecdotal 278 280	S1
+E19	Distant_Anecdotal:T19 
+T20	Distant_Historical 430 432	S2
+E20	Distant_Historical:T20 
+T21	Distant_Anecdotal 1101 1103	S6
+E21	Distant_Anecdotal:T21 
+T22	Distant_Anecdotal 3137 3140	S25
+E22	Distant_Anecdotal:T22 
+T23	Speech 3376 3379	S26
+E23	Speech:T23 
+T24	Speech 3506 3509	S27
+E24	Speech:T24 
+T25	Speech 3692 3695	S28
+E25	Speech:T25 
+T26	Distant_Anecdotal 3506 3509	S27
+E26	Distant_Anecdotal:T26 
+T27	Distant_Anecdotal 3692 3695	S28
+E27	Distant_Anecdotal:T27 
+T28	Distant_Evaluation 3792 3795	S30
+E28	Distant_Evaluation:T28 
+T29	Speech 3839 3842	S31
+E29	Speech:T29 
+T30	Speech 3953 3956	S32
+E30	Speech:T30 
+T31	Distant_Anecdotal 3839 3842	S31
+E31	Distant_Anecdotal:T31 
+T32	Distant_Anecdotal 3953 3956	S32
+E32	Distant_Anecdotal:T32 
+T33	Distant_Historical 915 917	S5
+E33	Distant_Historical:T33 
+T34	Distant_Expectations_Consequences 518 520	S3
+E34	Distant_Expectations_Consequences:T34 
+T35	Main 2250 2253	S17
+E35	Main:T35 
+T36	Main 2351 2354	S18
+E36	Main:T36 
+T37	Main 2521 2524	S19
+E37	Main:T37 
+T38	Cause_General 2841 2844	S22
+E38	Cause_General:T38 
+T39	Cause_General 3376 3379	S26
+E39	Cause_General:T39 
+T40	Cause_General 2235 2238	S16
+E40	Cause_General:T40 
+T41	Distant_Expectations_Consequences 1810 1813	S12
+E41	Distant_Expectations_Consequences:T41 
+T42	Distant_Expectations_Consequences 1992 1995	S13
+E42	Distant_Expectations_Consequences:T42 
+T43	Cause_Specific 796 798	S4
+E43	Cause_Specific:T43 
+T44	Cause_General 1322 1324	S8
+E44	Cause_General:T44 
+T45	Cause_General 1461 1463	S9
+E45	Cause_General:T45 
+T46	Cause_Specific 1585 1588	S10
+E46	Cause_Specific:T46 
+T47	Cause_General 1707 1710	S11
+E47	Cause_General:T47 

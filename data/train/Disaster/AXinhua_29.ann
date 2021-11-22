@@ -1,0 +1,26 @@
+T1	NA 205 207	S1
+E1	NA:T1 
+T2	NA 257 259	S2
+E2	NA:T2 
+T3	Main 280 282	S3
+E3	Main:T3 
+T4	Distant_Evaluation 532 534	S4
+E4	Distant_Evaluation:T4 
+T5	Distant_Evaluation 738 740	S5
+E5	Distant_Evaluation:T5 
+T6	Distant_Evaluation 833 835	S6
+E6	Distant_Evaluation:T6 
+T7	Distant_Expectations_Consequences 907 909	S7
+E7	Distant_Expectations_Consequences:T7 
+T8	Distant_Evaluation 1058 1060	S8
+E8	Distant_Evaluation:T8 
+T9	Cause_General 1126 1128	S9
+E9	Cause_General:T9 
+T10	Cause_General 1252 1255	S10
+E10	Cause_General:T10 
+T11	Cause_General 1422 1425	S11
+E11	Cause_General:T11 
+T12	Cause_Specific 1630 1633	S12
+E12	Cause_Specific:T12 
+T13	Cause_General 1911 1914	S13
+E13	Cause_General:T13 
